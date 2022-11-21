@@ -1,0 +1,30 @@
+{% extends model('component') %}
+
+{% define config = {
+    name: 'nn-sepa',
+    tag: 'nn-sepa'
+} %}
+
+{% define data = {
+    form: required,
+} %}
+
+{% block body %}
+    <script src="https://cdn.novalnet.de/js/v2/NovalnetUtility.js"></script>
+
+    <div class="payment-method">
+       <p>{{ 'novalnet.sepa-payment-description' | trans }}</p>
+       <label>{{ 'novalnet.sepa-iban' | trans }}</label>
+       <div class="field">
+            {{ form_widget(data.form.novalnetSepa.iban, {'attr': { 'style': 'text-transform: uppercase;', 'autocomplete': 'off' }}) }}
+            {{ form_errors(data.form.novalnetSepa.iban) }}
+        </div>
+        <div id="nn_sepa_bic" style="display:none">
+            <label>{{ 'novalnet.sepa-bic' | trans }}</label>
+            {{ form_widget(data.form.novalnetSepa.bic, {'attr': { 'style': 'text-transform: uppercase;', 'autocomplete': 'off' }}) }}
+            {{ form_errors(data.form.novalnetSepa.bic) }}
+        </div>
+        <input type="hidden" id="sepa_iban_invalid" value="{{ 'novalnet.sepa-iban-invalid' | trans }}">
+        <input type="hidden" id="sepa_bic_invalid" value="{{ 'novalnet.sepa-bic-invalid' | trans }}">
+    </div>
+{% endblock %}

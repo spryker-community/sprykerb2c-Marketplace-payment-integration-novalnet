@@ -1,0 +1,18 @@
+{% extends model('component') %}
+
+{% define config = {
+    name: 'credit-card',
+    tag: 'credit-card'
+} %}
+
+{% block body %}
+	<script src="https://cdn.novalnet.de/js/v2/NovalnetUtility.js"></script>
+   
+	<p>{{ 'novalnet.credit-card-payment-description' | trans }}</p>
+	<div class="field">
+		<div id="nn_overlay"></div>
+		<iframe id = "novalnet_cc_iframe" width="100%" frameborder="0" ></iframe>
+		{{ form_errors(data.form.novalnetCreditCard) }}
+		{{ form_widget(data.form.novalnetCreditCard) }}
+	</div>            
+{% endblock %}

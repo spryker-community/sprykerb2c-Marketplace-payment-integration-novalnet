@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<statemachine
+        xmlns="http://static.spryker.com"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://static.spryker.com http://static.spryker.com/oms-01.xsd">
+
+    <process name="NovalnetBarzahlen01" main="true">
+        <states>
+            <state name="new" reserved="true" />
+            <state name="waiting for payment" />
+            <state name="authorized" />
+            <state name="canceled" />
+            <state name="paid" />
+            <state name="refunded" />
+            <state name="merchant split pending" reserved="true" />
+            <state name="sent to merchant" reserved="true" />
+            <state name="shipped by merchant" reserved="true" />
+            <state name="delivered" reserved="true" />
+            <state name="closed" />
+        </states>
+
+        <transitions>
+            <transition condition="NovalnetPayment/AuthorizationIsApproved" happy="true">
+                <source>new</source>
+                <target>authorized</target>
+                <event>authorize</event>
+            </transition>
+
+            <transition condition="NovalnetPayment/PaymentIsCanceled">
+                <source>new</source>
+                <target>canceled</target>
+                <event>authorize</event>
+            </transition>
+
+            <transition condition="NovalnetPayment/WaitingForPayment" happy="true">
+                <source>new</source>
+                <target>waiting for payment</target>
+                <event>authorize</event>
+            </transition>
+
+            <transition condition="NovalnetPayment/WaitingForPayment">
+                <source>authorized</source>
+                <target>waiting for payment</target>
+                <event>waiting for payment</event>
+            </transition>
+
+            <transition condition="NovalnetPayment/PaymentIsCaptured" happy="true">
+                <source>authorized</source>
+                <target>waiting for payment</target>
+                <event>capture</event>
+            </transition>
+
+            <transition condition="NovalnetPayment/PaymentIsCanceled">
+                <source>waiting for payment</source>
+                <target>canceled</target>
+                <event>callback canceled</event>
+            </transition>
+
+            <transition condition="NovalnetPayment/PaymentIsCanceled">
+                <source>authorized</source>
+                <target>canceled</target>
+                <event>callback canceled</event>
+            </transition>
+
+            <transition condition="NovalnetPayment/CallbackStatusUpdate" happy="true">
+                <source>authorized</source>
+                <target>paid</target>
+                <event>callback paid</event>
+            </transition>
+
+            <transition condition="NovalnetPayment/CallbackStatusUpdate" happy="true">
+                <source>waiting for payment</source>
+                <target>paid</target>
+                <event>callback paid</event>
+            </transition>
+
+            <transition condition="NovalnetPayment/PaymentIsVoided">
+                <source>authorized</source>
+                <target>canceled</target>
+                <event>cancel</event>
+            </transition>
+
+            <transition happy="true" condition="MerchantSalesOrder/IsOrderPaid">
+                <source>paid</source>
+                <target>merchant split pending</target>
+            </transition>
+
+            <transition happy="true">
+                <source>merchant split pending</source>
+                <target>sent to merchant</target>
+                <event>send to merchant</event>
+            </transition>
+
+            <transition>
+                <source>sent to merchant</source>
+                <target>canceled</target>
+                <event>cancel</event>
+            </transition>
+
+            <transition>
+                <source>canceled</source>
+                <target>refunded</target>
+                <event>refund</event>
+            </transition>
+
+            <transition>
+                <source>refunded</source>
+                <target>closed</target>
+                <event>close</event>
+            </transition>
+
+            <transition happy="true">
+                <source>sent to merchant</source>
+                <target>shipped by merchant</target>
+                <event>ship by merchant</event>
+            </transition>
+
+            <transition happy="true">
+                <source>shipped by merchant</source>
+                <target>delivered</target>
+                <event>deliver</event>
+            </transition>
+
+            <transition happy="true">
+                <source>delivered</source>
+                <target>closed</target>
+                <event>close</event>
+            </transition>
+        </transitions>
+
+        <events>
+            <event name="authorize" onEnter="true" command="NovalnetPayment/Authorize" />
+            <event name="waiting for payment" />
+            <event name="capture" manual="true" command="NovalnetPayment/Capture" />
+            <event name="callback paid" />
+            <event name="cancel" manual="true" command="NovalnetPayment/Cancel" />
+            <event name="callback canceled" />
+            <event name="refund" manual="true" command="NovalnetPayment/Refund" />
+            <event name="send to merchant" onEnter="true" command="MerchantSalesOrder/CreateOrders"/>
+            <event name="ship by merchant"/>
+            <event name="deliver"/>
+            <event name="close" manual="true" command="MerchantOms/CloseOrderItem"/>
+        </events>
+
+        <subprocesses>
+            <process>NovalnetReturn</process>
+            <process>NovalnetRefund</process>
+        </subprocesses>
+
+    </process>
+
+    <process name="NovalnetReturn" file="NovalnetSubprocess/NovalnetReturn01.xml"/>
+    <process name="NovalnetRefund" file="NovalnetSubprocess/NovalnetRefund01.xml"/>
+</statemachine>

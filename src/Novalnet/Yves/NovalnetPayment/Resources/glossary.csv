@@ -1,0 +1,1566 @@
+"novalnetCreditCard","Credit/Debit Cards",en_US
+"novalnetCreditCard","Kredit-/Debitkarte",de_DE
+"novalnetCreditCard","Cartes de crédit / débit",fr_FR
+"novalnetCreditCard","Πιστωτικές/χρεωστικές κάρτες",rl_GR
+"novalnetCreditCard","Carte di credito/debito",it_IT
+"novalnetCreditCard","Cartões de crédito/débito",pt_PT
+"novalnetCreditCard","Tarjetas de crédito/débito",es_ES
+"novalnetCreditCard","Kreditt-/debetkort",nn_NO
+"novalnetCreditCard","Kredit-/betalkort",sv_SE
+"novalnetCreditCard","Luotto-/maksukortit",fi_FI
+"novalnetCreditCard","Kredit-/betalingskort",da_DK
+"novalnetCreditCard","Kreditní/debetní karty",cs_CZ
+"novalnetCreditCard","Karty kredytowe/debetowe",pl_PL
+"novalnetCreditCard","Kreditné/debetné karty",sk_SK
+"novalnetCreditCard","Kreditne / debitne kartice",bs_BA
+"novalnetCreditCard","Kreditne/debitne kartice",hr_HR
+"novalnetCreditCard","Кредитне / дебитне картице",sr_ME
+"novalnetCreditCard","Кредитне / дебитне картице",sr_RS
+"novalnetCreditCard","Kreditne/debetne kartice",sl_SL
+"novalnetCreditCard","Kartat e kreditit/debitit",al_AL
+"novalnetCreditCard","Кредитни/дебитни карти",bg_BG
+"novalnetCreditCard","Kartat e kreditit/debitit",al_XK
+"novalnetCreditCard","Кредитни/дебитни картички",mk_MK
+"novalnetSepa","Direct Debit SEPA",en_US
+"novalnetSepa","SEPA-Lastschrift",de_DE
+"novalnetSepa","SEPA de débit direct",fr_FR
+"novalnetSepa","Άμεση χρέωση",rl_GR
+"novalnetSepa","Debiti diretti sepa",it_IT
+"novalnetSepa","Débito direto sepa",pt_PT
+"novalnetSepa","SEPA de débito directo",es_ES
+"novalnetSepa","Direkte debet Sepa",nn_NO
+"novalnetSepa","Direktdebitering SEPA",sv_SE
+"novalnetSepa","DIRECT Debit SEPA",fi_FI
+"novalnetSepa","Direkte debet SEPA",da_DK
+"novalnetSepa","Přímý debet sepa",cs_CZ
+"novalnetSepa","SEPA DEBETU DEBET",pl_PL
+"novalnetSepa","SPRIPE DEBET SEPA",sk_SK
+"novalnetSepa","Direktno debit Sepa",bs_BA
+"novalnetSepa","Izravno debitno sepa",hr_HR
+"novalnetSepa","Директни дебит сепа",sr_ME
+"novalnetSepa","Директни дебит сепа",sr_RS
+"novalnetSepa","Neposredna debetna sepa",sl_SL
+"novalnetSepa","Debiti i drejtpërdrejtë SEPA",al_AL
+"novalnetSepa","Директен дебит SEPA",bg_BG
+"novalnetSepa","Debiti i drejtpërdrejtë SEPA",al_XK
+"novalnetSepa","Директен дебитен СЕПА",mk_MK
+"novalnetSepaGuarantee","Direct Debit SEPA with payment guarantee",en_US
+"novalnetSepaGuarantee","SEPA-Lastschrift mit Zahlungsgarantie",de_DE
+"novalnetSepaGuarantee","SEPA de débit direct avec garantie de paiement",fr_FR
+"novalnetSepaGuarantee","Άμεση χρέωση SEPA με εγγύηση πληρωμής",rl_GR
+"novalnetSepaGuarantee","Debito diretto SEPA con garanzia di pagamento",it_IT
+"novalnetSepaGuarantee","Débito direto sepa com garantia de pagamento",pt_PT
+"novalnetSepaGuarantee","SEPA de débito directo con garantía de pago",es_ES
+"novalnetSepaGuarantee","Direkte debet Sepa med betalingsgaranti",nn_NO
+"novalnetSepaGuarantee","Direkt debitering SEPA med betalningsgaranti",sv_SE
+"novalnetSepaGuarantee","DIRECT Debit SEPA maksutakuu",fi_FI
+"novalnetSepaGuarantee","Direkte debet SEPA med betalingsgaranti",da_DK
+"novalnetSepaGuarantee","Přímý debetní SEPA s zárukou platby",cs_CZ
+"novalnetSepaGuarantee","SEPA debet zapłaty z gwarancją płatności",pl_PL
+"novalnetSepaGuarantee","SPRIPE DEBET SEPA so zárukou platby",sk_SK
+"novalnetSepaGuarantee","Direktno zaduženje SEPA sa garancijom za plaćanje",bs_BA
+"novalnetSepaGuarantee","Izravno zaduženje SEPA s jamstvom plaćanja",hr_HR
+"novalnetSepaGuarantee","Директна дебитна сепа са гаранцијом плаћања",sr_ME
+"novalnetSepaGuarantee","Директна дебитна сепа са гаранцијом плаћања",sr_RS
+"novalnetSepaGuarantee","Neposredna debetna sepa z garancijo za plačilo",sl_SL
+"novalnetSepaGuarantee","Debiti i drejtpërdrejtë SEPA me garanci pagese",al_AL
+"novalnetSepaGuarantee","Директен дебит SEPA с гаранция за плащане",bg_BG
+"novalnetSepaGuarantee","Debiti i drejtpërdrejtë SEPA me garanci pagese",al_XK
+"novalnetSepaGuarantee","Директен дебитен сепа со гаранција за плаќање",mk_MK
+"novalnetInvoice","Invoice",en_US
+"novalnetInvoice","Kauf auf Rechnung",de_DE
+"novalnetInvoice","Facture d'achat",fr_FR
+"novalnetInvoice","Τιμολόγιο",rl_GR
+"novalnetInvoice","Fattura",it_IT
+"novalnetInvoice","Fatura",pt_PT
+"novalnetInvoice","Factura",es_ES
+"novalnetInvoice","Faktura",nn_NO
+"novalnetInvoice","Faktura",sv_SE
+"novalnetInvoice","Lasku",fi_FI
+"novalnetInvoice","Faktura",da_DK
+"novalnetInvoice","Faktura",cs_CZ
+"novalnetInvoice","Faktura",pl_PL
+"novalnetInvoice","Faktúra",sk_SK
+"novalnetInvoice","Faktura",bs_BA
+"novalnetInvoice","Dostavnica",hr_HR
+"novalnetInvoice","Фактура",sr_ME
+"novalnetInvoice","Фактура",sr_RS
+"novalnetInvoice","Račun",sl_SL
+"novalnetInvoice","Faturë",al_AL
+"novalnetInvoice","Фактура",bg_BG
+"novalnetInvoice","Faturë",al_XK
+"novalnetInvoice","Фактура",mk_MK
+"novalnetInvoiceGuarantee","Invoice with payment guarantee",en_US
+"novalnetInvoiceGuarantee","Rechnung mit Zahlungsgarantie“,de_DE
+"novalnetInvoiceGuarantee","Facture avec garantie de paiement“,fr_FR
+"novalnetInvoiceGuarantee","Τιμολόγιο με εγγύηση πληρωμής",rl_GR
+"novalnetInvoiceGuarantee","Fattura con garanzia di pagamento",it_IT
+"novalnetInvoiceGuarantee","Fatura com garantia de pagamento",pt_PT
+"novalnetInvoiceGuarantee","Factura con garantía de pago",es_ES
+"novalnetInvoiceGuarantee","Faktura med betalingsgaranti",nn_NO
+"novalnetInvoiceGuarantee","Faktura med betalningsgaranti",sv_SE
+"novalnetInvoiceGuarantee","Lasku maksutakuu",fi_FI
+"novalnetInvoiceGuarantee","Faktura med betalingsgaranti",da_DK
+"novalnetInvoiceGuarantee","Faktura se zárukou platby",cs_CZ
+"novalnetInvoiceGuarantee","Faktura z gwarancją płatności",pl_PL
+"novalnetInvoiceGuarantee","Faktúra so zárukou platby",sk_SK
+"novalnetInvoiceGuarantee","Račun sa garancijom za plaćanje",bs_BA
+"novalnetInvoiceGuarantee","Faktura s jamstvom plaćanja",hr_HR
+"novalnetInvoiceGuarantee","Рачун са гаранцијом плаћања",sr_ME
+"novalnetInvoiceGuarantee","Рачун са гаранцијом плаћања",sr_RS
+"novalnetInvoiceGuarantee","Račun z garancijo za plačilo",sl_SL
+"novalnetInvoiceGuarantee","Faturë me garanci të pagesës",al_AL
+"novalnetInvoiceGuarantee","Фактура с гаранция за плащане",bg_BG
+"novalnetInvoiceGuarantee","Faturë me garanci të pagesës",al_XK
+"novalnetInvoiceGuarantee","Фактура со гаранција за плаќање",mk_MK
+"novalnetPrepayment","Prepayment",en_US
+"novalnetPrepayment","Vorkasse“,de_DE
+"novalnetPrepayment","Prépaiement“,fr_FR
+"novalnetPrepayment","Προπληρωμή",rl_GR
+"novalnetPrepayment","Pagamento anticipato",it_IT
+"novalnetPrepayment","Pré -pagamento",pt_PT
+"novalnetPrepayment","Pago por adelantado",es_ES
+"novalnetPrepayment","Forskuddsbetaling",nn_NO
+"novalnetPrepayment","Förskottsbetalning",sv_SE
+"novalnetPrepayment","Esimaksu",fi_FI
+"novalnetPrepayment","Forudbetaling",da_DK
+"novalnetPrepayment","Předplacení",cs_CZ
+"novalnetPrepayment","Przedpłata",pl_PL
+"novalnetPrepayment","Predplatenie",sk_SK
+"novalnetPrepayment","Unaprijed",bs_BA
+"novalnetPrepayment","Plaćanje unaprijed",hr_HR
+"novalnetPrepayment","Преплата",sr_ME
+"novalnetPrepayment","Преплата",sr_RS
+"novalnetPrepayment","Predplačilo",sl_SL
+"novalnetPrepayment","Përgatitje",al_AL
+"novalnetPrepayment","Предварително плащане	",bg_BG
+"novalnetPrepayment","Përgatitje",al_XK
+"novalnetPrepayment","Претплата",mk_MK
+"novalnetIdeal","iDEAL",en_US
+"novalnetIdeal","iDEAL",de_DE
+"novalnetIdeal","iDEAL“,fr_FR
+"novalnetIdeal","iDEAL",rl_GR
+"novalnetIdeal","iDEAL",it_IT
+"novalnetIdeal","iDEAL",pt_PT
+"novalnetIdeal","iDEAL",es_ES
+"novalnetIdeal","iDEAL",nn_NO
+"novalnetIdeal","iDEAL",sv_SE
+"novalnetIdeal","iDEAL",fi_FI
+"novalnetIdeal","iDEAL",da_DK
+"novalnetIdeal","iDEAL",cs_CZ
+"novalnetIdeal","iDEAL",pl_PL
+"novalnetIdeal","iDEAL",sk_SK
+"novalnetIdeal","iDEAL",bs_BA
+"novalnetIdeal","iDEAL",hr_HR
+"novalnetIdeal","iDEAL",sr_ME
+"novalnetIdeal","iDEAL",sr_RS
+"novalnetIdeal","iDEAL",sl_SL
+"novalnetIdeal","iDEAL",al_AL
+"novalnetIdeal","iDEAL",bg_BG
+"novalnetIdeal","iDEAL",al_XK
+"novalnetIdeal","iDEAL",mk_MK
+"novalnetSofort","Sofort",en_US
+"novalnetSofort","Sofort“,de_DE
+"novalnetSofort","Sofort“,fr_FR
+"novalnetSofort","Sofort",rl_GR
+"novalnetSofort","Sofort",it_IT
+"novalnetSofort","Sofort",pt_PT
+"novalnetSofort","Sofort",es_ES
+"novalnetSofort","Sofort",nn_NO
+"novalnetSofort","Sofort",sv_SE
+"novalnetSofort","Sofort",fi_FI
+"novalnetSofort","Sofort",da_DK
+"novalnetSofort","Sofort",cs_CZ
+"novalnetSofort","Sofort",pl_PL
+"novalnetSofort","Sofort",sk_SK
+"novalnetSofort","Sofort",bs_BA
+"novalnetSofort","Sofort",hr_HR
+"novalnetSofort","Sofort",sr_ME
+"novalnetSofort","Sofort",sr_RS
+"novalnetSofort","Sofort",sl_SL
+"novalnetSofort","Sofort",al_AL
+"novalnetSofort","Sofort",bg_BG
+"novalnetSofort","Sofort",al_XK
+"novalnetSofort","Sofort",mk_MK
+"novalnetGiropay","giropay",en_US
+"novalnetGiropay","giropay",de_DE
+"novalnetGiropay","giropay“,fr_FR
+"novalnetGiropay","giropay",rl_GR
+"novalnetGiropay","giropay",it_IT
+"novalnetGiropay","giropay",pt_PT
+"novalnetGiropay","giropay",es_ES
+"novalnetGiropay","giropay",nn_NO
+"novalnetGiropay","giropay",sv_SE
+"novalnetGiropay","giropay",fi_FI
+"novalnetGiropay","giropay",da_DK
+"novalnetGiropay","giropay",cs_CZ
+"novalnetGiropay","giropay",pl_PL
+"novalnetGiropay","giropay",sk_SK
+"novalnetGiropay","giropay",bs_BA
+"novalnetGiropay","giropay",hr_HR
+"novalnetGiropay","giropay",sr_ME
+"novalnetGiropay","giropay",sr_RS
+"novalnetGiropay","giropay",sl_SL
+"novalnetGiropay","giropay",al_AL
+"novalnetGiropay","giropay",bg_BG
+"novalnetGiropay","giropay",al_XK
+"novalnetGiropay","giropay",mk_MK
+"novalnetBarzahlen","Barzahlen/viacash",en_US
+"novalnetBarzahlen","Barzahlen/viacash",de_DE
+"novalnetBarzahlen","Barzahlen/viacash“,fr_FR
+"novalnetBarzahlen","Barzahlen/viacash",rl_GR
+"novalnetBarzahlen","Barzahlen/viacash",it_IT
+"novalnetBarzahlen","Barzahlen/viacash",pt_PT
+"novalnetBarzahlen","Barzahlen/viacash",es_ES
+"novalnetBarzahlen","Barzahlen/viacash",nn_NO
+"novalnetBarzahlen","Barzahlen/viacash",sv_SE
+"novalnetBarzahlen","Barzahlen/viacash",fi_FI
+"novalnetBarzahlen","Barzahlen/viacash",da_DK
+"novalnetBarzahlen","Barzahlen/viacash",cs_CZ
+"novalnetBarzahlen","Barzahlen/viacash",pl_PL
+"novalnetBarzahlen","Barzahlen/viacash",sk_SK
+"novalnetBarzahlen","Barzahlen/viacash",bs_BA
+"novalnetBarzahlen","Barzahlen/viacash",hr_HR
+"novalnetBarzahlen","Barzahlen/viacash",sr_ME
+"novalnetBarzahlen","Barzahlen/viacash",sr_RS
+"novalnetBarzahlen","Barzahlen/viacash",sl_SL
+"novalnetBarzahlen","Barzahlen/viacash",al_AL
+"novalnetBarzahlen","Barzahlen/viacash",bg_BG
+"novalnetBarzahlen","Barzahlen/viacash",al_XK
+"novalnetBarzahlen","Barzahlen/viacash",mk_MK
+"novalnetPrzelewy","Przelewy24",en_US
+"novalnetPrzelewy","Przelewy24",de_DE
+"novalnetPrzelewy","Przelewy24“,fr_FR
+"novalnetPrzelewy","Przelewy24",rl_GR
+"novalnetPrzelewy","Przelewy24",it_IT
+"novalnetPrzelewy","Przelewy24",pt_PT
+"novalnetPrzelewy","Przelewy24",es_ES
+"novalnetPrzelewy","Przelewy24",nn_NO
+"novalnetPrzelewy","Przelewy24",sv_SE
+"novalnetPrzelewy","Przelewy24",fi_FI
+"novalnetPrzelewy","Przelewy24",da_DK
+"novalnetPrzelewy","Przelewy24",cs_CZ
+"novalnetPrzelewy","Przelewy24",pl_PL
+"novalnetPrzelewy","Przelewy24",sk_SK
+"novalnetPrzelewy","Przelewy24",bs_BA
+"novalnetPrzelewy","Przelewy24",hr_HR
+"novalnetPrzelewy","Przelewy24",sr_ME
+"novalnetPrzelewy","Przelewy24",sr_RS
+"novalnetPrzelewy","Przelewy24",sl_SL
+"novalnetPrzelewy","Przelewy24",al_AL
+"novalnetPrzelewy","Przelewy24",bg_BG
+"novalnetPrzelewy","Przelewy24",al_XK
+"novalnetPrzelewy","Przelewy24",mk_MK
+"novalnetEps","eps",en_US
+"novalnetEps","eps",de_DE
+"novalnetEps","eps“,fr_FR
+"novalnetEps","eps",rl_GR
+"novalnetEps","eps",it_IT
+"novalnetEps","eps",pt_PT
+"novalnetEps","eps",es_ES
+"novalnetEps","eps",nn_NO
+"novalnetEps","eps",sv_SE
+"novalnetEps","eps",fi_FI
+"novalnetEps","eps",da_DK
+"novalnetEps","eps",cs_CZ
+"novalnetEps","eps",pl_PL
+"novalnetEps","eps",sk_SK
+"novalnetEps","eps",bs_BA
+"novalnetEps","eps",hr_HR
+"novalnetEps","eps",sr_ME
+"novalnetEps","eps",sr_RS
+"novalnetEps","eps",sl_SL
+"novalnetEps","eps",al_AL
+"novalnetEps","eps",bg_BG
+"novalnetEps","eps",al_XK
+"novalnetEps","eps",mk_MK
+"novalnetPaypal","PayPal",en_US
+"novalnetPaypal","PayPal",de_DE
+"novalnetPaypal","PayPal“,fr_FR
+"novalnetPaypal","PayPal",rl_GR
+"novalnetPaypal","PayPal",it_IT
+"novalnetPaypal","PayPal",pt_PT
+"novalnetPaypal","PayPal",es_ES
+"novalnetPaypal","PayPal",nn_NO
+"novalnetPaypal","PayPal",sv_SE
+"novalnetPaypal","PayPal",fi_FI
+"novalnetPaypal","PayPal",da_DK
+"novalnetPaypal","PayPal",cs_CZ
+"novalnetPaypal","PayPal",pl_PL
+"novalnetPaypal","PayPal",sk_SK
+"novalnetPaypal","PayPal",bs_BA
+"novalnetPaypal","PayPal",hr_HR
+"novalnetPaypal","PayPal",sr_ME
+"novalnetPaypal","PayPal",sr_RS
+"novalnetPaypal","PayPal",sl_SL
+"novalnetPaypal","PayPal",al_AL
+"novalnetPaypal","PayPal",bg_BG
+"novalnetPaypal","PayPal",al_XK
+"novalnetPaypal","PayPal",mk_MK
+"novalnetPostfinanceCard","PostFinance Card",en_US
+"novalnetPostfinanceCard","PostFinance Card",de_DE
+"novalnetPostfinanceCard","PostFinance Card“,fr_FR
+"novalnetPostfinanceCard","PostFinance Card",rl_GR
+"novalnetPostfinanceCard","PostFinance Card",it_IT
+"novalnetPostfinanceCard","PostFinance Card",pt_PT
+"novalnetPostfinanceCard","PostFinance Card",es_ES
+"novalnetPostfinanceCard","PostFinance Card",nn_NO
+"novalnetPostfinanceCard","PostFinance Card",sv_SE
+"novalnetPostfinanceCard","PostFinance Card",fi_FI
+"novalnetPostfinanceCard","PostFinance Card",da_DK
+"novalnetPostfinanceCard","PostFinance Card",cs_CZ
+"novalnetPostfinanceCard","PostFinance Card",pl_PL
+"novalnetPostfinanceCard","PostFinance Card",sk_SK
+"novalnetPostfinanceCard","PostFinance Card",bs_BA
+"novalnetPostfinanceCard","PostFinance Card",hr_HR
+"novalnetPostfinanceCard","PostFinance Card",sr_ME
+"novalnetPostfinanceCard","PostFinance Card",sr_RS
+"novalnetPostfinanceCard","PostFinance Card",sl_SL
+"novalnetPostfinanceCard","PostFinance Card",al_AL
+"novalnetPostfinanceCard","PostFinance Card",bg_BG
+"novalnetPostfinanceCard","PostFinance Card",al_XK
+"novalnetPostfinanceCard","PostFinance Card",mk_MK
+"novalnetPostfinance","PostFinance E-Finance",en_US
+"novalnetPostfinance","PostFinance E-Finance",de_DE
+"novalnetPostfinance","PostFinance E-Finance“,fr_FR
+"novalnetPostfinance","PostFinance E-Finance",rl_GR
+"novalnetPostfinance","PostFinance E-Finance",it_IT
+"novalnetPostfinance","PostFinance E-Finance",pt_PT
+"novalnetPostfinance","PostFinance E-Finance",es_ES
+"novalnetPostfinance","PostFinance E-Finance",nn_NO
+"novalnetPostfinance","PostFinance E-Finance",sv_SE
+"novalnetPostfinance","PostFinance E-Finance",fi_FI
+"novalnetPostfinance","PostFinance E-Finance",da_DK
+"novalnetPostfinance","PostFinance E-Finance",cs_CZ
+"novalnetPostfinance","PostFinance E-Finance",pl_PL
+"novalnetPostfinance","PostFinance E-Finance",sk_SK
+"novalnetPostfinance","PostFinance E-Finance",bs_BA
+"novalnetPostfinance","PostFinance E-Finance",hr_HR
+"novalnetPostfinance","PostFinance E-Finance",sr_ME
+"novalnetPostfinance","PostFinance E-Finance",sr_RS
+"novalnetPostfinance","PostFinance E-Finance",sl_SL
+"novalnetPostfinance","PostFinance E-Finance",al_AL
+"novalnetPostfinance","PostFinance E-Finance",bg_BG
+"novalnetPostfinance","PostFinance E-Finance",al_XK
+"novalnetPostfinance","PostFinance E-Finance",mk_MK
+"novalnetBancontact","Bancontact",en_US
+"novalnetBancontact","Bancontact",de_DE
+"novalnetBancontact","Bancontact“,fr_FR
+"novalnetBancontact","Bancontact",rl_GR
+"novalnetBancontact","Bancontact",it_IT
+"novalnetBancontact","Bancontact",pt_PT
+"novalnetBancontact","Bancontact",es_ES
+"novalnetBancontact","Bancontact",nn_NO
+"novalnetBancontact","Bancontact",sv_SE
+"novalnetBancontact","Bancontact",fi_FI
+"novalnetBancontact","Bancontact",da_DK
+"novalnetBancontact","Bancontact",cs_CZ
+"novalnetBancontact","Bancontact",pl_PL
+"novalnetBancontact","Bancontact",sk_SK
+"novalnetBancontact","Bancontact",bs_BA
+"novalnetBancontact","Bancontact",hr_HR
+"novalnetBancontact","Bancontact",sr_ME
+"novalnetBancontact","Bancontact",sr_RS
+"novalnetBancontact","Bancontact",sl_SL
+"novalnetBancontact","Bancontact",al_AL
+"novalnetBancontact","Bancontact",bg_BG
+"novalnetBancontact","Bancontact",al_XK
+"novalnetBancontact","Bancontact",mk_MK
+"novalnetMultibanco","Multibanco",en_US
+"novalnetMultibanco","Multibanco",de_DE
+"novalnetMultibanco","Multibanco“,fr_FR
+"novalnetMultibanco","Multibanco",rl_GR
+"novalnetMultibanco","Multibanco",it_IT
+"novalnetMultibanco","Multibanco",pt_PT
+"novalnetMultibanco","Multibanco",es_ES
+"novalnetMultibanco","Multibanco",nn_NO
+"novalnetMultibanco","Multibanco",sv_SE
+"novalnetMultibanco","Multibanco",fi_FI
+"novalnetMultibanco","Multibanco",da_DK
+"novalnetMultibanco","Multibanco",cs_CZ
+"novalnetMultibanco","Multibanco",pl_PL
+"novalnetMultibanco","Multibanco",sk_SK
+"novalnetMultibanco","Multibanco",bs_BA
+"novalnetMultibanco","Multibanco",hr_HR
+"novalnetMultibanco","Multibanco",sr_ME
+"novalnetMultibanco","Multibanco",sr_RS
+"novalnetMultibanco","Multibanco",sl_SL
+"novalnetMultibanco","Multibanco",al_AL
+"novalnetMultibanco","Multibanco",bg_BG
+"novalnetMultibanco","Multibanco",al_XK
+"novalnetMultibanco","Multibanco",mk_MK
+"novalnetOnlineBanktransfer","Online bank transfer",en_US
+"novalnetOnlineBanktransfer","Onlineüberweisung",de_DE
+"novalnetOnlineBanktransfer","Online bank transfer“,fr_FR
+"novalnetOnlineBanktransfer","Online bank transfer",rl_GR
+"novalnetOnlineBanktransfer","Online bank transfer",it_IT
+"novalnetOnlineBanktransfer","Online bank transfer",pt_PT
+"novalnetOnlineBanktransfer","Online bank transfer",es_ES
+"novalnetOnlineBanktransfer","Online bank transfer",nn_NO
+"novalnetOnlineBanktransfer","Online bank transfer",sv_SE
+"novalnetOnlineBanktransfer","Online bank transfer",fi_FI
+"novalnetOnlineBanktransfer","Online bank transfer",da_DK
+"novalnetOnlineBanktransfer","Online bank transfer",cs_CZ
+"novalnetOnlineBanktransfer","Online bank transfer",pl_PL
+"novalnetOnlineBanktransfer","Online bank transfer",sk_SK
+"novalnetOnlineBanktransfer","Online bank transfer",bs_BA
+"novalnetOnlineBanktransfer","Online bank transfer",hr_HR
+"novalnetOnlineBanktransfer","Online bank transfer",sr_ME
+"novalnetOnlineBanktransfer","Online bank transfer",sr_RS
+"novalnetOnlineBanktransfer","Online bank transfer",sl_SL
+"novalnetOnlineBanktransfer","Online bank transfer",al_AL
+"novalnetOnlineBanktransfer","Online bank transfer",bg_BG
+"novalnetOnlineBanktransfer","Online bank transfer",al_XK
+"novalnetOnlineBanktransfer","Online bank transfer",mk_MK
+"novalnetTrustly","Trustly",en_US
+"novalnetTrustly","Trustly",de_DE
+"novalnetTrustly","Trustly“,fr_FR
+"novalnetTrustly","Trustly",rl_GR
+"novalnetTrustly","Trustly",it_IT
+"novalnetTrustly","Trustly",pt_PT
+"novalnetTrustly","Trustly",es_ES
+"novalnetTrustly","Trustly",nn_NO
+"novalnetTrustly","Trustly",sv_SE
+"novalnetTrustly","Trustly",fi_FI
+"novalnetTrustly","Trustly",da_DK
+"novalnetTrustly","Trustly",cs_CZ
+"novalnetTrustly","Trustly",pl_PL
+"novalnetTrustly","Trustly",sk_SK
+"novalnetTrustly","Trustly",bs_BA
+"novalnetTrustly","Trustly",hr_HR
+"novalnetTrustly","Trustly",sr_ME
+"novalnetTrustly","Trustly",sr_RS
+"novalnetTrustly","Trustly",sl_SL
+"novalnetTrustly","Trustly",al_AL
+"novalnetTrustly","Trustly",bg_BG
+"novalnetTrustly","Trustly",al_XK
+"novalnetTrustly","Trustly",mk_MK
+"novalnetAlipay","Alipay",en_US
+"novalnetAlipay","Alipay",de_DE
+"novalnetAlipay","Alipay“,fr_FR
+"novalnetAlipay","Alipay",rl_GR
+"novalnetAlipay","Alipay",it_IT
+"novalnetAlipay","Alipay",pt_PT
+"novalnetAlipay","Alipay",es_ES
+"novalnetAlipay","Alipay",nn_NO
+"novalnetAlipay","Alipay",sv_SE
+"novalnetAlipay","Alipay",fi_FI
+"novalnetAlipay","Alipay",da_DK
+"novalnetAlipay","Alipay",cs_CZ
+"novalnetAlipay","Alipay",pl_PL
+"novalnetAlipay","Alipay",sk_SK
+"novalnetAlipay","Alipay",bs_BA
+"novalnetAlipay","Alipay",hr_HR
+"novalnetAlipay","Alipay",sr_ME
+"novalnetAlipay","Alipay",sr_RS
+"novalnetAlipay","Alipay",sl_SL
+"novalnetAlipay","Alipay",al_AL
+"novalnetAlipay","Alipay",bg_BG
+"novalnetAlipay","Alipay",al_XK
+"novalnetAlipay","Alipay",mk_MK
+"novalnetWechatpay","WeChat Pay",en_US
+"novalnetWechatpay","WeChat Pay",de_DE
+"novalnetWechatpay","WeChat Pay“,fr_FR
+"novalnetWechatpay","WeChat Pay",rl_GR
+"novalnetWechatpay","WeChat Pay",it_IT
+"novalnetWechatpay","WeChat Pay",pt_PT
+"novalnetWechatpay","WeChat Pay",es_ES
+"novalnetWechatpay","WeChat Pay",nn_NO
+"novalnetWechatpay","WeChat Pay",sv_SE
+"novalnetWechatpay","WeChat Pay",fi_FI
+"novalnetWechatpay","WeChat Pay",da_DK
+"novalnetWechatpay","WeChat Pay",cs_CZ
+"novalnetWechatpay","WeChat Pay",pl_PL
+"novalnetWechatpay","WeChat Pay",sk_SK
+"novalnetWechatpay","WeChat Pay",bs_BA
+"novalnetWechatpay","WeChat Pay",hr_HR
+"novalnetWechatpay","WeChat Pay",sr_ME
+"novalnetWechatpay","WeChat Pay",sr_RS
+"novalnetWechatpay","WeChat Pay",sl_SL
+"novalnetWechatpay","WeChat Pay",al_AL
+"novalnetWechatpay","WeChat Pay",bg_BG
+"novalnetWechatpay","WeChat Pay",al_XK
+"novalnetWechatpay","WeChat Pay",mk_MK
+"novalnet.sepa-iban","IBAN",en_US
+"novalnet.sepa-iban","IBAN",de_DE
+"novalnet.sepa-iban","IBAN“,fr_FR
+"novalnet.sepa-iban","IBAN",rl_GR
+"novalnet.sepa-iban","IBAN",it_IT
+"novalnet.sepa-iban","IBAN",pt_PT
+"novalnet.sepa-iban","IBAN",es_ES
+"novalnet.sepa-iban","IBAN",nn_NO
+"novalnet.sepa-iban","IBAN",sv_SE
+"novalnet.sepa-iban","IBAN",fi_FI
+"novalnet.sepa-iban","IBAN",da_DK
+"novalnet.sepa-iban","IBAN",cs_CZ
+"novalnet.sepa-iban","IBAN",pl_PL
+"novalnet.sepa-iban","IBAN",sk_SK
+"novalnet.sepa-iban","IBAN",bs_BA
+"novalnet.sepa-iban","IBAN",hr_HR
+"novalnet.sepa-iban","IBAN",sr_ME
+"novalnet.sepa-iban","IBAN",sr_RS
+"novalnet.sepa-iban","IBAN",sl_SL
+"novalnet.sepa-iban","IBAN",al_AL
+"novalnet.sepa-iban","IBAN",bg_BG
+"novalnet.sepa-iban","IBAN",al_XK
+"novalnet.sepa-iban","IBAN",mk_MK
+"novalnet.sepa-payment-description","The amount will be debited from your account by Novalnet",en_US
+"novalnet.sepa-payment-description","Der Betrag wird durch Novalnet von Ihrem Konto abgebucht",de_DE
+"novalnet.sepa-payment-description","Le montant sera débité de votre compte par Novalnet“,fr_FR
+"novalnet.sepa-payment-description","Το ποσό θα χρεωθεί από τον λογαριασμό σας από το Novalnet",rl_GR
+"novalnet.sepa-payment-description","L'importo verrà addebitato dal tuo account da Novalnet",it_IT
+"novalnet.sepa-payment-description","O valor será debitado em sua conta pela Notalnet",pt_PT
+"novalnet.sepa-payment-description","El monto será debitado desde su cuenta por Novalnet",es_ES
+"novalnet.sepa-payment-description","Beløpet vil bli debitert fra kontoen din av Novalnet",nn_NO
+"novalnet.sepa-payment-description","Beloppet debiteras från ditt konto av Novalnet",sv_SE
+"novalnet.sepa-payment-description","Novelnet veloitetaan tililtäsi",fi_FI
+"novalnet.sepa-payment-description","Beløbet vil blive debiteret fra din konto af Novalnet",da_DK
+"novalnet.sepa-payment-description","Částka bude odepsána z vašeho účtu společností Novalnet",cs_CZ
+"novalnet.sepa-payment-description","Kwota zostanie pobita z twojego konta przez Novalnet",pl_PL
+"novalnet.sepa-payment-description","Suma bude z vášho účtu vyzdvihnutá z vášho účtu Namalnet",sk_SK
+"novalnet.sepa-payment-description","Iznos će biti zadužen sa vašeg računa Novalnet",bs_BA
+"novalnet.sepa-payment-description","Iznos će s vašeg računa biti dužan od novalneta",hr_HR
+"novalnet.sepa-payment-description","Износ ће бити задужен са вашег рачуна путем Новалнет-а",sr_ME
+"novalnet.sepa-payment-description","Износ ће бити задужен са вашег рачуна путем Новалнет-а",sr_RS
+"novalnet.sepa-payment-description","Znesek bo iz vašega računa bremenil Novalnet",sl_SL
+"novalnet.sepa-payment-description","Shuma do të debitohet nga llogaria juaj nga NovalNet",al_AL
+"novalnet.sepa-payment-description","Сумата ще бъде дебитирана от вашия акаунт от Novalnet",bg_BG
+"novalnet.sepa-payment-description","Shuma do të debitohet nga llogaria juaj nga NovalNet",al_XK
+"novalnet.sepa-payment-description","Износот ќе се дебитира од вашата сметка од Новалнет",mk_MK
+"novalnet.sepa-iban-invalid","Invalid IBAN",en_US
+"novalnet.sepa-iban-invalid","Die IBAN ist ungültig",de_DE
+"novalnet.sepa-iban-invalid","Invalid IBAN“,fr_FR
+"novalnet.sepa-iban-invalid","Invalid IBAN",rl_GR
+"novalnet.sepa-iban-invalid","Invalid IBAN",it_IT
+"novalnet.sepa-iban-invalid","Invalid IBAN",pt_PT
+"novalnet.sepa-iban-invalid","Invalid IBAN",es_ES
+"novalnet.sepa-iban-invalid","Invalid IBAN",nn_NO
+"novalnet.sepa-iban-invalid","Invalid IBAN",sv_SE
+"novalnet.sepa-iban-invalid","Invalid IBAN",fi_FI
+"novalnet.sepa-iban-invalid","Invalid IBAN",da_DK
+"novalnet.sepa-iban-invalid","Invalid IBAN",cs_CZ
+"novalnet.sepa-iban-invalid","Invalid IBAN",pl_PL
+"novalnet.sepa-iban-invalid","Invalid IBAN",sk_SK
+"novalnet.sepa-iban-invalid","Invalid IBAN",bs_BA
+"novalnet.sepa-iban-invalid","Invalid IBAN",hr_HR
+"novalnet.sepa-iban-invalid","Invalid IBAN",sr_ME
+"novalnet.sepa-iban-invalid","Invalid IBAN",sr_RS
+"novalnet.sepa-iban-invalid","Invalid IBAN",sl_SL
+"novalnet.sepa-iban-invalid","Invalid IBAN",al_AL
+"novalnet.sepa-iban-invalid","Invalid IBAN",bg_BG
+"novalnet.sepa-iban-invalid","Invalid IBAN",al_XK
+"novalnet.sepa-iban-invalid","Invalid IBAN",mk_MK
+"novalnet.sepa-bic-invalid","Invalid BIC",en_US
+"novalnet.sepa-bic-invalid","Die BIC ist ungültig",de_DE
+"novalnet.sepa-bic-invalid","Invalid BIC“,fr_FR
+"novalnet.sepa-bic-invalid","Invalid BIC",rl_GR
+"novalnet.sepa-bic-invalid","Invalid BIC",it_IT
+"novalnet.sepa-bic-invalid","Invalid BIC",pt_PT
+"novalnet.sepa-bic-invalid","Invalid BIC",es_ES
+"novalnet.sepa-bic-invalid","Invalid BIC",nn_NO
+"novalnet.sepa-bic-invalid","Invalid BIC",sv_SE
+"novalnet.sepa-bic-invalid","Invalid BIC",fi_FI
+"novalnet.sepa-bic-invalid","Invalid BIC",da_DK
+"novalnet.sepa-bic-invalid","Invalid BIC",cs_CZ
+"novalnet.sepa-bic-invalid","Invalid BIC",pl_PL
+"novalnet.sepa-bic-invalid","Invalid BIC",sk_SK
+"novalnet.sepa-bic-invalid","Invalid BIC",bs_BA
+"novalnet.sepa-bic-invalid","Invalid BIC",hr_HR
+"novalnet.sepa-bic-invalid","Invalid BIC",sr_ME
+"novalnet.sepa-bic-invalid","Invalid BIC",sr_RS
+"novalnet.sepa-bic-invalid","Invalid BIC",sl_SL
+"novalnet.sepa-bic-invalid","Invalid BIC",al_AL
+"novalnet.sepa-bic-invalid","Invalid BIC",bg_BG
+"novalnet.sepa-bic-invalid","Invalid BIC",al_XK
+"novalnet.sepa-bic-invalid","Invalid BIC",mk_MK
+"novalnet.credit-card-payment-description","The amount will be debited from your credit/debit card",en_US
+"novalnet.credit-card-payment-description","Der Betrag wird Ihrer Kredit-/Debitkarte belastet",de_DE
+"novalnet.credit-card-payment-description","Le montant sera débité de votre carte de crédit / débit“,fr_FR
+"novalnet.credit-card-payment-description","Το ποσό θα χρεωθεί από την πιστωτική/χρεωστική σας κάρτα",rl_GR
+"novalnet.credit-card-payment-description","L'importo verrà addebitato dalla tua carta di credito/debito",it_IT
+"novalnet.credit-card-payment-description","O valor será debitado do seu cartão de crédito/débito",pt_PT
+"novalnet.credit-card-payment-description","El monto se debitará desde su tarjeta de crédito/débito.",es_ES
+"novalnet.credit-card-payment-description","Beløpet vil bli debitert fra kreditt-/debetkortet ditt",nn_NO
+"novalnet.credit-card-payment-description","Beloppet debiteras från ditt kredit-/betalkort",sv_SE
+"novalnet.credit-card-payment-description","Määrä veloitetaan luotto-/maksukortistasi",fi_FI
+"novalnet.credit-card-payment-description","Beløbet debiteres fra dit kredit-/betalingskort",da_DK
+"novalnet.credit-card-payment-description","Částka bude odepsána z vaší kreditní/debetní karty",cs_CZ
+"novalnet.credit-card-payment-description","Kwota zostanie obciążona z Twojej karty kredytowej/debetowej",pl_PL
+"novalnet.credit-card-payment-description","Suma bude vypísaná z vašej kreditnej/debetnej karty",sk_SK
+"novalnet.credit-card-payment-description","Iznos će se teretiti sa vaše kreditne / debitne kartice",bs_BA
+"novalnet.credit-card-payment-description","Iznos će se oduzeti od vaše kreditne/debitne kartice",hr_HR
+"novalnet.credit-card-payment-description","Износ ће бити задужен из ваше кредитне / дебитне картице",sr_ME
+"novalnet.credit-card-payment-description","Износ ће бити задужен из ваше кредитне / дебитне картице",sr_RS
+"novalnet.credit-card-payment-description","Znesek bo obremenjen s vaše kreditne/debetne kartice",sl_SL
+"novalnet.credit-card-payment-description","Shuma do të debitohet nga karta juaj e kreditit/debitit",al_AL
+"novalnet.credit-card-payment-description","Сумата ще бъде дебитирана от вашата кредитна/дебитна карта",bg_BG
+"novalnet.credit-card-payment-description","Shuma do të debitohet nga karta juaj e kreditit/debitit",al_XK
+"novalnet.credit-card-payment-description","Износот ќе се дебитира од вашата кредитна/дебитна картичка",mk_MK
+"novalnet.invoice-payments-description","You will receive an e-mail with the Novalnet account details to complete the payment",en_US
+"novalnet.invoice-payments-description","Sie erhalten eine E-Mail mit den Bankdaten von Novalnet, um die Zahlung abzuschließen",de_DE
+"novalnet.invoice-payments-description","Vous recevrez un e-mail avec les détails du compte Novalnet pour terminer le paiement“,fr_FR
+"novalnet.invoice-payments-description","Θα λάβετε ένα e-mail με τα στοιχεία του λογαριασμού Novalnet για να ολοκληρώσετε την πληρωμή",rl_GR
+"novalnet.invoice-payments-description","Riceverai un'e-mail con i dettagli dell'account Novalnet per completare il pagamento",it_IT
+"novalnet.invoice-payments-description","Você receberá um e-mail com os detalhes da conta do Notalnet para concluir o pagamento",pt_PT
+"novalnet.invoice-payments-description","Recibirá un correo electrónico con los detalles de la cuenta de Novalnet para completar el pago",es_ES
+"novalnet.invoice-payments-description","Du vil motta en e-post med NovalNet-kontodetaljene for å fullføre betalingen",nn_NO
+"novalnet.invoice-payments-description","Du kommer att få ett e-postmeddelande med Novalnet-kontouppgifterna för att slutföra betalningen",sv_SE
+"novalnet.invoice-payments-description","Saat sähköpostin Novalnet-tilin yksityiskohdilla maksun suorittamiseksi",fi_FI
+"novalnet.invoice-payments-description","Du modtager en e-mail med Novalnet-kontooplysningerne for at gennemføre betalingen",da_DK
+"novalnet.invoice-payments-description","Obdržíte e-mail s údaji o účtu Novalnet k dokončení platby",cs_CZ
+"novalnet.invoice-payments-description","Otrzymasz e-mail z szczegółami konta Novalnet, aby dokonać płatności",pl_PL
+"novalnet.invoice-payments-description","Na dokončenie platby dostanete e-mail s podrobnosťami o účte Namalnet",sk_SK
+"novalnet.invoice-payments-description","Primit ćete e-poštu s podacima Novalnet računa da biste dovršili uplatu",bs_BA
+"novalnet.invoice-payments-description","Primit ćete e-mail s detaljima Novalnet računa da biste dovršili plaćanje",hr_HR
+"novalnet.invoice-payments-description","Добићете е-маил са детаљима Новалнет налога да бисте довршили уплату",sr_ME
+"novalnet.invoice-payments-description","Добићете е-маил са детаљима Новалнет налога да бисте довршили уплату",sr_RS
+"novalnet.invoice-payments-description","Za dokončanje plačila boste prejeli e-pošto s podatki o računu Novalnet",sl_SL
+"novalnet.invoice-payments-description","Ju do të merrni një e-mail me detajet e llogarisë NovalNet për të përfunduar pagesën",al_AL
+"novalnet.invoice-payments-description","Ще получите имейл с данните за акаунта в Novalnet, за да завършите плащането",bg_BG
+"novalnet.invoice-payments-description","Ju do të merrni një e-mail me detajet e llogarisë NovalNet për të përfunduar pagesën",al_XK
+"novalnet.invoice-payments-description","Ќе добиете е-пошта со деталите за сметката на Нованет за да ја завршите исплатата",mk_MK
+"novalnet.sofort-payment-description","You will be redirected to Sofort. Please don’t close or refresh the browser until the payment is completed",en_US
+"novalnet.sofort-payment-description","Sie werden zu Sofortüberweisung weitergeleitet. Um eine erfolgreiche Zahlung zu gewährleisten, darf die Seite nicht geschlossen oder neu geladen werden, bis die Bezahlung abgeschlossen ist.",de_DE
+"novalnet.sofort-payment-description","Vous serez redirigé vers Sofort. Veuillez ne pas fermer ou ne pas rafraîchir le navigateur jusqu'à ce que le paiement soit terminé“,fr_FR
+"novalnet.sofort-payment-description","Θα ανακατευθύνετε στο Sofort. Παρακαλώ μην κλείσετε ή ανανεώσετε το πρόγραμμα περιήγησης μέχρι να ολοκληρωθεί η πληρωμή",rl_GR
+"novalnet.sofort-payment-description","Verrai reindirizzato a Soffort. Non chiudere o aggiornare il browser fino al completamento del pagamento",it_IT
+"novalnet.sofort-payment-description","Você será redirecionado para SOFORT. Por favor, não feche ou atualize o navegador até que o pagamento seja concluído",pt_PT
+"novalnet.sofort-payment-description","Serás redirigido a Sofort. No cierre ni actualice el navegador hasta que se complete el pago",es_ES
+"novalnet.sofort-payment-description","Du blir omdirigert til Sofor. Ikke lukk eller oppdater nettleseren før betalingen er fullført",nn_NO
+"novalnet.sofort-payment-description","Du kommer att omdirigeras till Sofort. Stäng inte eller uppdatera webbläsaren förrän betalningen är klar",sv_SE
+"novalnet.sofort-payment-description","Sinut ohjataan SOFORTiin. Älä sulje tai päivitä selainta, kunnes maksu on suoritettu",fi_FI
+"novalnet.sofort-payment-description","Du vil blive omdirigeret til SOFORT. Du skal ikke lukke eller opdatere browseren, før betalingen er afsluttet",da_DK
+"novalnet.sofort-payment-description","Budete přesměrováni na SOFORT. Nezavřete se ani neobjevte prohlížeč, dokud nebude platba dokončena",cs_CZ
+"novalnet.sofort-payment-description","Zostaniesz przekierowany do Sofort. Nie zamykaj ani nie odświeżaj przeglądarki do momentu zakończenia płatności",pl_PL
+"novalnet.sofort-payment-description","Budete presmerovaní do Sofort. Prehliadač sa nezatvárajte ani neobsviete, kým sa platba nedokončí",sk_SK
+"novalnet.sofort-payment-description","Bićete preusmjereni na SOFORT. Molimo vas da ne zatvorite ili osvježite preglednik dok se plaćanje ne završi",bs_BA
+"novalnet.sofort-payment-description","Bit ćete preusmjereni na ogorčenje. Nemojte zatvoriti ili osvježiti preglednik dok plaćanje ne završi",hr_HR
+"novalnet.sofort-payment-description","Бићете преусмерени да сокортите. Не затварајте или освежите прегледач док уплата не буде завршена",sr_ME
+"novalnet.sofort-payment-description","Бићете преусмерени да сокортите. Не затварајте или освежите прегледач док уплата не буде завршена",sr_RS
+"novalnet.sofort-payment-description","Preusmerili boste na Sofort. Prosimo, da brskalnika ne zaprete in ne osvežite, dokler plačilo ni končano",sl_SL
+"novalnet.sofort-payment-description","Ju do të ridrejtoheni në Sofort. Ju lutemi mos e mbyllni ose rifreskoni shfletuesin derisa të përfundojë pagesa",al_AL
+"novalnet.sofort-payment-description","Ще бъдете пренасочени към Sofort. Моля, не затваряйте и не опреснявайте браузъра, докато плащането не приключи",bg_BG
+"novalnet.sofort-payment-description","Ju do të ridrejtoheni në Sofort. Ju lutemi mos e mbyllni ose rifreskoni shfletuesin derisa të përfundojë pagesa",al_XK
+"novalnet.sofort-payment-description","Beе бидете пренасочени кон Софорт. Ве молиме, не затворајте го или освежете го прелистувачот сè додека не заврши исплатата",mk_MK
+"novalnet.giropay-payment-description","You will be redirected to giropay. Please don’t close or refresh the browser until the payment is completed",en_US
+"novalnet.giropay-payment-description","Sie werden zu giropay weitergeleitet. Um eine erfolgreiche Zahlung zu gewährleisten, darf die Seite nicht geschlossen oder neu geladen werden, bis die Bezahlung abgeschlossen ist.",de_DE
+"novalnet.giropay-payment-description","Vous serez redirigé vers Giropay. Veuillez ne pas fermer ou ne pas rafraîchir le navigateur jusqu'à ce que le paiement soit terminé“,fr_FR
+"novalnet.giropay-payment-description","Θα ανακατευθύνετε στο Giropay. Παρακαλώ μην κλείσετε ή ανανεώσετε το πρόγραμμα περιήγησης μέχρι να ολοκληρωθεί η πληρωμή",rl_GR
+"novalnet.giropay-payment-description","Verrai reindirizzato a Giropay. Non chiudere o aggiornare il browser fino al completamento del pagamento",it_IT
+"novalnet.giropay-payment-description","Você será redirecionado para Giropay. Por favor, não feche ou atualize o navegador até que o pagamento seja concluído",pt_PT
+"novalnet.giropay-payment-description","Serás redirigido a Giropay. No cierre ni actualice el navegador hasta que se complete el pago",es_ES
+"novalnet.giropay-payment-description","Du blir omdirigert til Giropay. Ikke lukk eller oppdater nettleseren før betalingen er fullført",nn_NO
+"novalnet.giropay-payment-description","Du kommer att omdirigeras till Giropay. Stäng inte eller uppdatera webbläsaren förrän betalningen är klar",sv_SE
+"novalnet.giropay-payment-description","Sinut ohjataan Giropayyn. Älä sulje tai päivitä selainta, kunnes maksu on suoritettu",fi_FI
+"novalnet.giropay-payment-description","Du bliver omdirigeret til Giropay. Du skal ikke lukke eller opdatere browseren, før betalingen er afsluttet",da_DK
+"novalnet.giropay-payment-description","Budete přesměrováni na Giropay. Nezavřete se ani neobjevte prohlížeč, dokud nebude platba dokončena",cs_CZ
+"novalnet.giropay-payment-description","Zostaniesz przekierowany do Giropay. Nie zamykaj ani nie odświeżaj przeglądarki do momentu zakończenia płatności",pl_PL
+"novalnet.giropay-payment-description","Budete presmerovaní na Giropay. Prehliadač sa nezatvárajte ani neobsviete, kým sa platba nedokončí",sk_SK
+"novalnet.giropay-payment-description","Bićete preusmjereni na Giropay. Molimo vas da ne zatvorite ili osvježite preglednik dok se plaćanje ne završi",bs_BA
+"novalnet.giropay-payment-description","Bit ćete preusmjereni na Giropay. Nemojte zatvoriti ili osvježiti preglednik dok plaćanje ne završi",hr_HR
+"novalnet.giropay-payment-description","Бићете преусмерени у Гиропаи. Не затварајте или освежите прегледач док уплата не буде завршена",sr_ME
+"novalnet.giropay-payment-description","Бићете преусмерени у Гиропаи. Не затварајте или освежите прегледач док уплата не буде завршена",sr_RS
+"novalnet.giropay-payment-description","Preusmerili boste v Giropay. Prosimo, da brskalnika ne zaprete in ne osvežite, dokler plačilo ni končano",sl_SL
+"novalnet.giropay-payment-description","Do të ridrejtoheni në Giropay. Ju lutemi mos e mbyllni ose rifreskoni shfletuesin derisa të përfundojë pagesa",al_AL
+"novalnet.giropay-payment-description","Ще бъдете пренасочени към Жиропай. Моля, не затваряйте и не опреснявайте браузъра, докато плащането не приключи",bg_BG
+"novalnet.giropay-payment-description","Do të ridrejtoheni në Giropay. Ju lutemi mos e mbyllni ose rifreskoni shfletuesin derisa të përfundojë pagesa",al_XK
+"novalnet.giropay-payment-description","Beе бидете пренасочени кон Giropay. Ве молиме, не затворајте го или освежете го прелистувачот сè додека не заврши исплатата",mk_MK
+"novalnet.przelewy-payment-description","You will be redirected to Przelewy24. Please don’t close or refresh the browser until the payment is completed",en_US
+"novalnet.przelewy-payment-description","Sie werden zu Przelewy24 weitergeleitet. Um eine erfolgreiche Zahlung zu gewährleisten, darf die Seite nicht geschlossen oder neu geladen werden, bis die Bezahlung abgeschlossen ist.",de_DE
+"novalnet.przelewy-payment-description","Vous serez redirigé vers Przelewy24. Veuillez ne pas fermer ou ne pas rafraîchir le navigateur jusqu'à ce que le paiement soit terminé“,fr_FR
+"novalnet.przelewy-payment-description","Θα ανακατευθύνετε στο Przelewy24. Παρακαλώ μην κλείσετε ή ανανεώσετε το πρόγραμμα περιήγησης μέχρι να ολοκληρωθεί η πληρωμή",rl_GR
+"novalnet.przelewy-payment-description","Verrai reindirizzato a Przelewy24. Non chiudere o aggiornare il browser fino al completamento del pagamento",it_IT
+"novalnet.przelewy-payment-description","Você será redirecionado para Przelewy24. Por favor, não feche ou atualize o navegador até que o pagamento seja concluído",pt_PT
+"novalnet.przelewy-payment-description","Serás redirigido a Przelewy24. No cierre ni actualice el navegador hasta que se complete el pago",es_ES
+"novalnet.przelewy-payment-description","Du blir omdirigert til Przelewy24. Ikke lukk eller oppdater nettleseren før betalingen er fullført",nn_NO
+"novalnet.przelewy-payment-description","Du kommer att omdirigeras till Przelewy24. Stäng inte eller uppdatera webbläsaren förrän betalningen är klar",sv_SE
+"novalnet.przelewy-payment-description","Sinut ohjataan Przelewy24: een. Älä sulje tai päivitä selainta, kunnes maksu on suoritettu",fi_FI
+"novalnet.przelewy-payment-description","Du bliver omdirigeret til PRZELEWY24. Du skal ikke lukke eller opdatere browseren, før betalingen er afsluttet",da_DK
+"novalnet.przelewy-payment-description","Budete přesměrováni na PRZELEWY24. Nezavřete se ani neobjevte prohlížeč, dokud nebude platba dokončena",cs_CZ
+"novalnet.przelewy-payment-description","Zostaniesz przekierowany do Pelewy24. Nie zamykaj ani nie odświeżaj przeglądarki do momentu zakończenia płatności",pl_PL
+"novalnet.przelewy-payment-description","Budete presmerovaní na Przelewy24. Prehliadač sa nezatvárajte ani neobsviete, kým sa platba nedokončí",sk_SK
+"novalnet.przelewy-payment-description","Bit ćete preusmjereni na Przelewy24. Molimo vas da ne zatvorite ili osvježite preglednik dok se plaćanje ne završi",bs_BA
+"novalnet.przelewy-payment-description","Bit ćete preusmjereni na przelewy24. Nemojte zatvoriti ili osvježiti preglednik dok plaćanje ne završi",hr_HR
+"novalnet.przelewy-payment-description","Бићете преусмерени на Прзелеви24. Не затварајте или освежите прегледач док уплата не буде завршена",sr_ME
+"novalnet.przelewy-payment-description","Бићете преусмерени на Прзелеви24. Не затварајте или освежите прегледач док уплата не буде завршена",sr_RS
+"novalnet.przelewy-payment-description","Preusmerili boste na Przelewy24. Prosimo, da brskalnika ne zaprete in ne osvežite, dokler plačilo ni končano",sl_SL
+"novalnet.przelewy-payment-description","Do të ridrejtoheni në Przelewy24. Ju lutemi mos e mbyllni ose rifreskoni shfletuesin derisa të përfundojë pagesa",al_AL
+"novalnet.przelewy-payment-description","Ще бъдете пренасочени към przelewy24. Моля, не затваряйте и не опреснявайте браузъра, докато плащането не приключи",bg_BG
+"novalnet.przelewy-payment-description","Do të ridrejtoheni në Przelewy24. Ju lutemi mos e mbyllni ose rifreskoni shfletuesin derisa të përfundojë pagesa",al_XK
+"novalnet.przelewy-payment-description","Beе бидете пренасочени кон Przelewy24. Ве молиме, не затворајте го или освежете го прелистувачот сè додека не заврши исплатата",mk_MK
+"novalnet.eps-payment-description","You will be redirected to eps. Please don’t close or refresh the browser until the payment is completed",en_US
+"novalnet.eps-payment-description","Sie werden zu eps weitergeleitet. Um eine erfolgreiche Zahlung zu gewährleisten, darf die Seite nicht geschlossen oder neu geladen werden, bis die Bezahlung abgeschlossen ist.",de_DE
+"novalnet.eps-payment-description","Vous serez redirigé vers l'eps. Veuillez ne pas fermer ou ne pas rafraîchir le navigateur jusqu'à ce que le paiement soit terminé“,fr_FR
+"novalnet.eps-payment-description","Θα ανακατευθύνετε στο eps. Παρακαλώ μην κλείσετε ή ανανεώσετε το πρόγραμμα περιήγησης μέχρι να ολοκληρωθεί η πληρωμή",rl_GR
+"novalnet.eps-payment-description","Verrai reindirizzato a eps. Non chiudere o aggiornare il browser fino al completamento del pagamento",it_IT
+"novalnet.eps-payment-description","Você será redirecionado para o eps. Por favor, não feche ou atualize o navegador até que o pagamento seja concluído",pt_PT
+"novalnet.eps-payment-description","Serás redirigido a eps. No cierre ni actualice el navegador hasta que se complete el pago",es_ES
+"novalnet.eps-payment-description","Du blir omdirigert til eps. Ikke lukk eller oppdater nettleseren før betalingen er fullført",nn_NO
+"novalnet.eps-payment-description","Du kommer att omdirigeras till eps. Stäng inte eller uppdatera webbläsaren förrän betalningen är klar",sv_SE
+"novalnet.eps-payment-description","Sinut ohjataan eps: ään. Älä sulje tai päivitä selainta, kunnes maksu on suoritettu",fi_FI
+"novalnet.eps-payment-description","Du bliver omdirigeret til eps. Du skal ikke lukke eller opdatere browseren, før betalingen er afsluttet",da_DK
+"novalnet.eps-payment-description","Budete přesměrováni na eps. Nezavřete se ani neobjevte prohlížeč, dokud nebude platba dokončena",cs_CZ
+"novalnet.eps-payment-description","Zostaniesz przekierowany do eps. Nie zamykaj ani nie odświeżaj przeglądarki do momentu zakończenia płatności",pl_PL
+"novalnet.eps-payment-description","Budete presmerovaní na eps. Prehliadač sa nezatvárajte ani neobsviete, kým sa platba nedokončí",sk_SK
+"novalnet.eps-payment-description","Bićete preusmjereni na eps. Molimo vas da ne zatvorite ili osvježite preglednik dok se plaćanje ne završi",bs_BA
+"novalnet.eps-payment-description","Bit ćete preusmjereni na eps. Nemojte zatvoriti ili osvježiti preglednik dok plaćanje ne završi",hr_HR
+"novalnet.eps-payment-description","Бићете преусмерени на eps. Не затварајте или освежите прегледач док уплата не буде завршена",sr_ME
+"novalnet.eps-payment-description","Бићете преусмерени на eps. Не затварајте или освежите прегледач док уплата не буде завршена",sr_RS
+"novalnet.eps-payment-description","Preusmerili boste na eps. Prosimo, da brskalnika ne zaprete in ne osvežite, dokler plačilo ni končano",sl_SL
+"novalnet.eps-payment-description","Do të ridrejtoheni në eps. Ju lutemi mos e mbyllni ose rifreskoni shfletuesin derisa të përfundojë pagesa",al_AL
+"novalnet.eps-payment-description","Ще бъдете пренасочени към eps. Моля, не затваряйте и не опреснявайте браузъра, докато плащането не приключи",bg_BG
+"novalnet.eps-payment-description","Do të ridrejtoheni në eps. Ju lutemi mos e mbyllni ose rifreskoni shfletuesin derisa të përfundojë pagesa",al_XK
+"novalnet.eps-payment-description","Beе бидете пренасочени кон eps. Ве молиме, не затворајте го или освежете го прелистувачот сè додека не заврши исплатата",mk_MK
+"novalnet.paypal-payment-description","You will be redirected to PayPal. Please don’t close or refresh the browser until the payment is completed",en_US
+"novalnet.paypal-payment-description","Sie werden zu PayPal weitergeleitet. Um eine erfolgreiche Zahlung zu gewährleisten, darf die Seite nicht geschlossen oder neu geladen werden, bis die Bezahlung abgeschlossen ist.",de_DE
+"novalnet.paypal-payment-description","Vous serez redirigé vers PayPal. Veuillez ne pas fermer ou ne pas rafraîchir le navigateur jusqu'à ce que le paiement soit terminé“,fr_FR
+"novalnet.paypal-payment-description","Θα ανακατευθύνετε στο PayPal. Παρακαλώ μην κλείσετε ή ανανεώσετε το πρόγραμμα περιήγησης μέχρι να ολοκληρωθεί η πληρωμή",rl_GR
+"novalnet.paypal-payment-description","Verrai reindirizzato a PayPal. Non chiudere o aggiornare il browser fino al completamento del pagamento",it_IT
+"novalnet.paypal-payment-description","Você será redirecionado para o PayPal. Por favor, não feche ou atualize o navegador até que o pagamento seja concluído",pt_PT
+"novalnet.paypal-payment-description","Serás redirigido a PayPal. No cierre ni actualice el navegador hasta que se complete el pago",es_ES
+"novalnet.paypal-payment-description","Du blir omdirigert til PayPal. Ikke lukk eller oppdater nettleseren før betalingen er fullført",nn_NO
+"novalnet.paypal-payment-description","Du kommer att omdirigeras till PayPal. Stäng inte eller uppdatera webbläsaren förrän betalningen är klar",sv_SE
+"novalnet.paypal-payment-description","Sinut ohjataan PayPaliin. Älä sulje tai päivitä selainta, kunnes maksu on suoritettu",fi_FI
+"novalnet.paypal-payment-description","Du bliver omdirigeret til PayPal. Du skal ikke lukke eller opdatere browseren, før betalingen er afsluttet",da_DK
+"novalnet.paypal-payment-description","Budete přesměrováni na PayPal. Nezavřete se ani neobjevte prohlížeč, dokud nebude platba dokončena",cs_CZ
+"novalnet.paypal-payment-description","Zostaniesz przekierowany do PayPal. Nie zamykaj ani nie odświeżaj przeglądarki do momentu zakończenia płatności",pl_PL
+"novalnet.paypal-payment-description","Budete presmerovaní na PayPal. Prehliadač sa nezatvárajte ani neobsviete, kým sa platba nedokončí",sk_SK
+"novalnet.paypal-payment-description","Bićete preusmjereni na Paypal. Molimo vas da ne zatvorite ili osvježite preglednik dok se plaćanje ne završi",bs_BA
+"novalnet.paypal-payment-description","Bit ćete preusmjereni na PayPal. Nemojte zatvoriti ili osvježiti preglednik dok plaćanje ne završi",hr_HR
+"novalnet.paypal-payment-description","Бићете преусмерени на ПаиПал. Не затварајте или освежите прегледач док уплата не буде завршена",sr_ME
+"novalnet.paypal-payment-description","Бићете преусмерени на ПаиПал. Не затварајте или освежите прегледач док уплата не буде завршена",sr_RS
+"novalnet.paypal-payment-description","Preusmerili boste na PayPal. Prosimo, da brskalnika ne zaprete in ne osvežite, dokler plačilo ni končano",sl_SL
+"novalnet.paypal-payment-description","Ju do të ridrejtoheni në PayPal. Ju lutemi mos e mbyllni ose rifreskoni shfletuesin derisa të përfundojë pagesa",al_AL
+"novalnet.paypal-payment-description","Ще бъдете пренасочени към PayPal. Моля, не затваряйте и не опреснявайте браузъра, докато плащането не приключи",bg_BG
+"novalnet.paypal-payment-description","Ju do të ridrejtoheni në PayPal. Ju lutemi mos e mbyllni ose rifreskoni shfletuesin derisa të përfundojë pagesa",al_XK
+"novalnet.paypal-payment-description","Beе бидете пренасочени кон PayPal. Ве молиме, не затворајте го или освежете го прелистувачот сè додека не заврши исплатата",mk_MK
+"novalnet.postfinance-payment-description","You will be redirected to PostFinance. Please don’t close or refresh the browser until the payment is completed",en_US
+"novalnet.postfinance-payment-description","Sie werden zu PostFinance weitergeleitet. Um eine erfolgreiche Zahlung zu gewährleisten, darf die Seite nicht geschlossen oder neu geladen werden, bis die Bezahlung abgeschlossen ist.",de_DE
+"novalnet.postfinance-payment-description","Vous serez redirigé vers la post-finance. Veuillez ne pas fermer ou ne pas rafraîchir le navigateur jusqu'à ce que le paiement soit terminé“,fr_FR
+"novalnet.postfinance-payment-description","Θα ανακατευθύνετε στη μεταφορά. Παρακαλώ μην κλείσετε ή ανανεώσετε το πρόγραμμα περιήγησης μέχρι να ολοκληρωθεί η πληρωμή",rl_GR
+"novalnet.postfinance-payment-description","Verrai reindirizzato alla postfinanza. Non chiudere o aggiornare il browser fino al completamento del pagamento",it_IT
+"novalnet.postfinance-payment-description","Você será redirecionado para pós -finanças. Por favor, não feche ou atualize o navegador até que o pagamento seja concluído",pt_PT
+"novalnet.postfinance-payment-description","Serás redirigido a después de la definición. No cierre ni actualice el navegador hasta que se complete el pago",es_ES
+"novalnet.postfinance-payment-description","Du blir omdirigert til etterfinans. Ikke lukk eller oppdater nettleseren før betalingen er fullført",nn_NO
+"novalnet.postfinance-payment-description","Du kommer att omdirigeras till efterfinansiering. Stäng inte eller uppdatera webbläsaren förrän betalningen är klar",sv_SE
+"novalnet.postfinance-payment-description","Sinut ohjataan jälkikäteen. Älä sulje tai päivitä selainta, kunnes maksu on suoritettu",fi_FI
+"novalnet.postfinance-payment-description","Du bliver omdirigeret til postfinansiering. Du skal ikke lukke eller opdatere browseren, før betalingen er afsluttet",da_DK
+"novalnet.postfinance-payment-description","Budete přesměrováni na pofinancování. Nezavřete se ani neobjevte prohlížeč, dokud nebude platba dokončena",cs_CZ
+"novalnet.postfinance-payment-description","Zostaniesz przekierowywany do postfinance. Nie zamykaj ani nie odświeżaj przeglądarki do momentu zakończenia płatności",pl_PL
+"novalnet.postfinance-payment-description","Budete presmerovaní na postfinanciu. Prehliadač sa nezatvárajte ani neobsviete, kým sa platba nedokončí",sk_SK
+"novalnet.postfinance-payment-description","Bit ćete preusmjereni na postfinanciju. Molimo vas da ne zatvorite ili osvježite preglednik dok se plaćanje ne završi",bs_BA
+"novalnet.postfinance-payment-description","Bit ćete preusmjereni na postfinanciranje. Nemojte zatvoriti ili osvježiti preglednik dok plaćanje ne završi",hr_HR
+"novalnet.postfinance-payment-description","Бићете преусмерени према постфинанци. Не затварајте или освежите прегледач док уплата не буде завршена",sr_ME
+"novalnet.postfinance-payment-description","Бићете преусмерени према постфинанци. Не затварајте или освежите прегледач док уплата не буде завршена",sr_RS
+"novalnet.postfinance-payment-description","Preusmerili boste na postfinanciranje. Prosimo, da brskalnika ne zaprete in ne osvežite, dokler plačilo ni končano",sl_SL
+"novalnet.postfinance-payment-description","Do të ridrejtoheni në postfinancë. Ju lutemi mos e mbyllni ose rifreskoni shfletuesin derisa të përfundojë pagesa",al_AL
+"novalnet.postfinance-payment-description","Ще бъдете пренасочени към постфинансиране. Моля, не затваряйте и не опреснявайте браузъра, докато плащането не приключи",bg_BG
+"novalnet.postfinance-payment-description","Do të ridrejtoheni në postfinancë. Ju lutemi mos e mbyllni ose rifreskoni shfletuesin derisa të përfundojë pagesa",al_XK
+"novalnet.postfinance-payment-description","Beе бидете пренасочени кон постфинансирање. Ве молиме, не затворајте го или освежете го прелистувачот сè додека не заврши исплатата",mk_MK
+"novalnet.bancontact-payment-description","You will be redirected to Bancontact. Please don’t close or refresh the browser until the payment is completed",en_US
+"novalnet.bancontact-payment-description","Sie werden zu Bancontact weitergeleitet. Um eine erfolgreiche Zahlung zu gewährleisten, darf die Seite nicht geschlossen oder neu geladen werden, bis die Bezahlung abgeschlossen ist.",de_DE
+"novalnet.bancontact-payment-description","Vous serez redirigé vers Bancontact. Veuillez ne pas fermer ou ne pas rafraîchir le navigateur jusqu'à ce que le paiement soit terminé“,fr_FR
+"novalnet.bancontact-payment-description","Θα ανακατευθύνετε στο Bancontact. Παρακαλώ μην κλείσετε ή ανανεώσετε το πρόγραμμα περιήγησης μέχρι να ολοκληρωθεί η πληρωμή",rl_GR
+"novalnet.bancontact-payment-description","Verrai reindirizzato al banco. Non chiudere o aggiornare il browser fino al completamento del pagamento",it_IT
+"novalnet.bancontact-payment-description","Você será redirecionado para o Bancontact. Por favor, não feche ou atualize o navegador até que o pagamento seja concluído",pt_PT
+"novalnet.bancontact-payment-description","Serás redirigido a Bancontact. No cierre ni actualice el navegador hasta que se complete el pago",es_ES
+"novalnet.bancontact-payment-description","Du blir omdirigert til Bancontact. Ikke lukk eller oppdater nettleseren før betalingen er fullført",nn_NO
+"novalnet.bancontact-payment-description","Du kommer att omdirigeras till Bancontact. Stäng inte eller uppdatera webbläsaren förrän betalningen är klar",sv_SE
+"novalnet.bancontact-payment-description","Sinut ohjataan bancontactiin. Älä sulje tai päivitä selainta, kunnes maksu on suoritettu",fi_FI
+"novalnet.bancontact-payment-description","Du bliver omdirigeret til bancontact. Du skal ikke lukke eller opdatere browseren, før betalingen er afsluttet",da_DK
+"novalnet.bancontact-payment-description","Budete přesměrováni na Bancontact. Nezavřete se ani neobjevte prohlížeč, dokud nebude platba dokončena",cs_CZ
+"novalnet.bancontact-payment-description","Zostaniesz przekierowany do Bancontact. Nie zamykaj ani nie odświeżaj przeglądarki do momentu zakończenia płatności",pl_PL
+"novalnet.bancontact-payment-description","Budete presmerovaní do bancontactu. Prehliadač sa nezatvárajte ani neobsviete, kým sa platba nedokončí",sk_SK
+"novalnet.bancontact-payment-description","Bit ćete preusmjereni na bancontact. Molimo vas da ne zatvorite ili osvježite preglednik dok se plaćanje ne završi",bs_BA
+"novalnet.bancontact-payment-description","Bit ćete preusmjereni u Bancontact. Nemojte zatvoriti ili osvježiti preglednik dok plaćanje ne završi",hr_HR
+"novalnet.bancontact-payment-description","Бићете преусмерени на банцонтакт. Не затварајте или освежите прегледач док уплата не буде завршена",sr_ME
+"novalnet.bancontact-payment-description","Бићете преусмерени на банцонтакт. Не затварајте или освежите прегледач док уплата не буде завршена",sr_RS
+"novalnet.bancontact-payment-description","Preusmerili boste v Bancantact. Prosimo, da brskalnika ne zaprete in ne osvežite, dokler plačilo ni končano",sl_SL
+"novalnet.bancontact-payment-description","Do të ridrejtoheni në Bancontact. Ju lutemi mos e mbyllni ose rifreskoni shfletuesin derisa të përfundojë pagesa",al_AL
+"novalnet.bancontact-payment-description","Ще бъдете пренасочени към Bancontact. Моля, не затваряйте и не опреснявайте браузъра, докато плащането не приключи",bg_BG
+"novalnet.bancontact-payment-description","Do të ridrejtoheni në Bancontact. Ju lutemi mos e mbyllni ose rifreskoni shfletuesin derisa të përfundojë pagesa",al_XK
+"novalnet.bancontact-payment-description","Beе бидете пренасочени кон Bancontact. Ве молиме, не затворајте го или освежете го прелистувачот сè додека не заврши исплатата",mk_MK
+"novalnet.ideal-payment-description","You will be redirected to iDEAL. Please don’t close or refresh the browser until the payment is completed",en_US
+"novalnet.ideal-payment-description","Sie werden zu iDEAL weitergeleitet. Um eine erfolgreiche Zahlung zu gewährleisten, darf die Seite nicht geschlossen oder neu geladen werden, bis die Bezahlung abgeschlossen ist.",de_DE
+"novalnet.ideal-payment-description","Vous serez redirigé vers l'idéal. Veuillez ne pas fermer ou ne pas rafraîchir le navigateur jusqu'à ce que le paiement soit terminé“,fr_FR
+"novalnet.ideal-payment-description","Θα ανακατευθύνετε στο ιδανικό. Παρακαλώ μην κλείσετε ή ανανεώσετε το πρόγραμμα περιήγησης μέχρι να ολοκληρωθεί η πληρωμή",rl_GR
+"novalnet.ideal-payment-description","Verrai reindirizzato all'ideale. Non chiudere o aggiornare il browser fino al completamento del pagamento",it_IT
+"novalnet.ideal-payment-description","Você será redirecionado para o ideal. Por favor, não feche ou atualize o navegador até que o pagamento seja concluído",pt_PT
+"novalnet.ideal-payment-description","Serás redirigido al ideal. No cierre ni actualice el navegador hasta que se complete el pago",es_ES
+"novalnet.ideal-payment-description","Du vil bli omdirigert til ideell. Ikke lukk eller oppdater nettleseren før betalingen er fullført",nn_NO
+"novalnet.ideal-payment-description","Du kommer att omdirigeras till ideal. Stäng inte eller uppdatera webbläsaren förrän betalningen är klar",sv_SE
+"novalnet.ideal-payment-description","Sinut ohjataan ihanteeseen. Älä sulje tai päivitä selainta, kunnes maksu on suoritettu",fi_FI
+"novalnet.ideal-payment-description","Du bliver omdirigeret til ideal. Du skal ikke lukke eller opdatere browseren, før betalingen er afsluttet",da_DK
+"novalnet.ideal-payment-description","Budete přesměrováni na ideál. Nezavřete se ani neobjevte prohlížeč, dokud nebude platba dokončena",cs_CZ
+"novalnet.ideal-payment-description","Zostaniesz przekierowany do ideału. Nie zamykaj ani nie odświeżaj przeglądarki do momentu zakończenia płatności",pl_PL
+"novalnet.ideal-payment-description","Budete presmerovaní na ideálne. Prehliadač sa nezatvárajte ani neobsviete, kým sa platba nedokončí",sk_SK
+"novalnet.ideal-payment-description","Bit ćete preusmjereni na ideal. Molimo vas da ne zatvorite ili osvježite preglednik dok se plaćanje ne završi",bs_BA
+"novalnet.ideal-payment-description","Bit ćete preusmjereni u ideal. Nemojte zatvoriti ili osvježiti preglednik dok plaćanje ne završi",hr_HR
+"novalnet.ideal-payment-description","Бићете преусмерени на идеалне. Не затварајте или освежите прегледач док уплата не буде завршена",sr_ME
+"novalnet.ideal-payment-description","Бићете преусмерени на идеалне. Не затварајте или освежите прегледач док уплата не буде завршена",sr_RS
+"novalnet.ideal-payment-description","Preusmerili boste na idealno. Prosimo, da brskalnika ne zaprete in ne osvežite, dokler plačilo ni končano",sl_SL
+"novalnet.ideal-payment-description","Do të ridrejtoheni në ideal. Ju lutemi mos e mbyllni ose rifreskoni shfletuesin derisa të përfundojë pagesa",al_AL
+"novalnet.ideal-payment-description","Ще бъдете пренасочени към идеално. Моля, не затваряйте и не опреснявайте браузъра, докато плащането не приключи",bg_BG
+"novalnet.ideal-payment-description","Do të ridrejtoheni në ideal. Ju lutemi mos e mbyllni ose rifreskoni shfletuesin derisa të përfundojë pagesa",al_XK
+"novalnet.ideal-payment-description","Beе бидете пренасочени кон Идеал. Ве молиме, не затворајте го или освежете го прелистувачот сè додека не заврши исплатата",mk_MK
+"novalnet.multibanco-payment-description","On successful checkout, you will receive a payment reference. Using this payment reference, you can either pay in the Multibanco ATM or through your online bank account",en_US
+"novalnet.multibanco-payment-description","Nach erfolgreichem Bestellabschluss erhalten Sie eine Zahlungsreferenz. Damit können Sie entweder an einem Multibanco-Geldautomaten oder im Onlinebanking bezahlen.",de_DE
+"novalnet.multibanco-payment-description","À la caisse réussie, vous recevrez une référence de paiement. En utilisant cette référence de paiement, vous pouvez payer dans le Multibanco ATM ou via votre compte bancaire en ligne“,fr_FR
+"novalnet.multibanco-payment-description","Κατά την επιτυχή checkout, θα λάβετε μια αναφορά πληρωμής. Χρησιμοποιώντας αυτήν την αναφορά πληρωμής, μπορείτε είτε να πληρώσετε στο Multibanco ATM είτε μέσω του ηλεκτρονικού σας τραπεζικού λογαριασμού",rl_GR
+"novalnet.multibanco-payment-description","Al momento del pagamento, riceverai un riferimento di pagamento. Utilizzando questo riferimento di pagamento, puoi pagare nel bancomat multibanco o tramite il tuo conto bancario online",it_IT
+"novalnet.multibanco-payment-description","Na finalização da compra bem -sucedida, você receberá uma referência de pagamento. Usando esta referência de pagamento, você pode pagar no ATM multibanco ou através de sua conta bancária on -line",pt_PT
+"novalnet.multibanco-payment-description","En el pago exitoso, recibirá una referencia de pago. Usando esta referencia de pago, puede pagar en el cajero automático de Multibanco o a través de su cuenta bancaria en línea",es_ES
+"novalnet.multibanco-payment-description","Ved vellykket kasse vil du motta en betalingsreferanse. Ved hjelp av denne betalingsreferansen kan du enten betale i multibanco -minibanken eller gjennom nettbankkontoen din",nn_NO
+"novalnet.multibanco-payment-description","Vid framgångsrik kassa får du en betalningsreferens. Med hjälp av den här betalningsreferensen kan du antingen betala i Multibanco ATM eller via ditt onlinekonto",sv_SE
+"novalnet.multibanco-payment-description","Menestyneessä kassalla saat maksuviitteen. Tämän maksuviitteen avulla voit joko maksaa Multibanco -pankkiautomaatissa tai verkkopankkitilisi kautta",fi_FI
+"novalnet.multibanco-payment-description","Ved en vellykket checkout modtager du en betalingsreference. Ved hjælp af denne betalingsreference kan du enten betale i multibanco -atm eller via din online bankkonto",da_DK
+"novalnet.multibanco-payment-description","Při úspěšné pokladně obdržíte odkaz na platbu. Pomocí tohoto odkazu na platbu můžete platit buď v ATM MultiBanco nebo prostřednictvím svého online bankovního účtu",cs_CZ
+"novalnet.multibanco-payment-description","Po udanej kasie otrzymasz odniesienie do płatności. Korzystając z tego odniesienia do płatności, możesz zapłacić w bankomatach Multibanco lub za pośrednictwem swojego konta bankowego online",pl_PL
+"novalnet.multibanco-payment-description","Pri úspešnej pokladni dostanete odkaz na platbu. Pomocou tejto platobnej referencie môžete platiť buď v bankomate Multibanco, alebo prostredníctvom online bankového účtu",sk_SK
+"novalnet.multibanco-payment-description","Na uspješnoj blagajni dobit ćete referencu za plaćanje. Pomoću ove reference plaćanja možete platiti u multibanco bankomatu ili putem internetskog bankovnog računa",bs_BA
+"novalnet.multibanco-payment-description","Na uspješnom odlasku dobit ćete referencu za plaćanje. Pomoću ove reference za plaćanje možete platiti u multibanco bankomatu ili putem internetskog bankovnog računa",hr_HR
+"novalnet.multibanco-payment-description","Након успешне одјаве, добит ћете референцу за плаћање. Користећи ову референцу плаћања, можете да платите у Мултибанцо АТМ или путем свог мрежног банковног рачуна",sr_ME
+"novalnet.multibanco-payment-description","Након успешне одјаве, добит ћете референцу за плаћање. Користећи ову референцу плаћања, можете да платите у Мултибанцо АТМ или путем свог мрежног банковног рачуна",sr_RS
+"novalnet.multibanco-payment-description","Ob uspešnem nakupu boste prejeli referenco o plačilu. S to referenco o plačilu lahko plačate na Multibanco Am ali prek spletnega bančnega računa",sl_SL
+"novalnet.multibanco-payment-description","Në arkë të suksesshme, ju do të merrni një referencë pagese. Duke përdorur këtë referencë pagese, ju ose mund të paguani në ATM multibanco ose përmes llogarisë tuaj bankare në internet",al_AL
+"novalnet.multibanco-payment-description","При успешна каса ще получите справка за плащане. Използвайки тази справка за плащане, можете да платите в банкомата Multibanco или чрез вашата онлайн банкова сметка",bg_BG
+"novalnet.multibanco-payment-description","Në arkë të suksesshme, ju do të merrni një referencë pagese. Duke përdorur këtë referencë pagese, ju ose mund të paguani në ATM multibanco ose përmes llogarisë tuaj bankare në internet",al_XK
+"novalnet.multibanco-payment-description","На успешна исплата, ќе добиете референца за плаќање. Користејќи ја оваа референца за плаќање, можете или да платите во мултибанко банкомат или преку вашата банкарска сметка преку Интернет",mk_MK
+
+"novalnet.online-banktransfer-payment-description","You will be redirected to banking page. Please don’t close or refresh the browser until the payment is completed",en_US
+"novalnet.online-banktransfer-payment-description","Sie werden zu Banking-Seite weitergeleitet. Um eine erfolgreiche Zahlung zu gewährleisten, darf die Seite nicht geschlossen oder neu geladen werden, bis die Bezahlung abgeschlossen ist.",de_DE
+"novalnet.online-banktransfer-payment-description","Vous serez redirigé vers page bancaire. Veuillez ne pas fermer ou ne pas rafraîchir le navigateur jusqu'à ce que le paiement soit terminé“,fr_FR
+"novalnet.online-banktransfer-payment-description","Θα ανακατευθύνετε στο τραπεζική σελίδα. Παρακαλώ μην κλείσετε ή ανανεώσετε το πρόγραμμα περιήγησης μέχρι να ολοκληρωθεί η πληρωμή",rl_GR
+"novalnet.online-banktransfer-payment-description","Verrai reindirizzato a pagina bancaria. Non chiudere o aggiornare il browser fino al completamento del pagamento",it_IT
+"novalnet.online-banktransfer-payment-description","Você será redirecionado para página bancária. Por favor, não feche ou atualize o navegador até que o pagamento seja concluído",pt_PT
+"novalnet.online-banktransfer-payment-description","Serás redirigido a página bancaria. No cierre ni actualice el navegador hasta que se complete el pago",es_ES
+"novalnet.online-banktransfer-payment-description","Du blir omdirigert til bankside. Ikke lukk eller oppdater nettleseren før betalingen er fullført",nn_NO
+"novalnet.online-banktransfer-payment-description","Du kommer att omdirigeras till banksidan. Stäng inte eller uppdatera webbläsaren förrän betalningen är klar",sv_SE
+"novalnet.online-banktransfer-payment-description","Sinut ohjataan pankkisivu. Älä sulje tai päivitä selainta, kunnes maksu on suoritettu",fi_FI
+"novalnet.online-banktransfer-payment-description","Du bliver omdirigeret til bankside. Du skal ikke lukke eller opdatere browseren, før betalingen er afsluttet",da_DK
+"novalnet.online-banktransfer-payment-description","Budete přesměrováni na bankovní stránka. Nezavřete se ani neobjevte prohlížeč, dokud nebude platba dokončena",cs_CZ
+"novalnet.online-banktransfer-payment-description","Zostaniesz przekierowany do strona bankowa. Nie zamykaj ani nie odświeżaj przeglądarki do momentu zakończenia płatności",pl_PL
+"novalnet.online-banktransfer-payment-description","Budete presmerovaní na banková stránka. Prehliadač sa nezatvárajte ani neobsviete, kým sa platba nedokončí",sk_SK
+"novalnet.online-banktransfer-payment-description","Bićete preusmjereni na bankarska stranica. Molimo vas da ne zatvorite ili osvježite preglednik dok se plaćanje ne završi",bs_BA
+"novalnet.online-banktransfer-payment-description","Bit ćete preusmjereni na bankarska stranica. Nemojte zatvoriti ili osvježiti preglednik dok plaćanje ne završi",hr_HR
+"novalnet.online-banktransfer-payment-description","Бићете преусмерени у банкарска страница. Не затварајте или освежите прегледач док уплата не буде завршена",sr_ME
+"novalnet.online-banktransfer-payment-description","Бићете преусмерени у банкарска страница. Не затварајте или освежите прегледач док уплата не буде завршена",sr_RS
+"novalnet.online-banktransfer-payment-description","Preusmerili boste v bančna stran. Prosimo, da brskalnika ne zaprete in ne osvežite, dokler plačilo ni končano",sl_SL
+"novalnet.online-banktransfer-payment-description","Do të ridrejtoheni në faqe bankare. Ju lutemi mos e mbyllni ose rifreskoni shfletuesin derisa të përfundojë pagesa",al_AL
+"novalnet.online-banktransfer-payment-description","Ще бъдете пренасочени към банк баракчасы. Моля, не затваряйте и не опреснявайте браузъра, докато плащането не приключи",bg_BG
+"novalnet.online-banktransfer-payment-description","Do të ridrejtoheni në faqe bankare. Ju lutemi mos e mbyllni ose rifreskoni shfletuesin derisa të përfundojë pagesa",al_XK
+"novalnet.online-banktransfer-payment-description","Beе бидете пренасочени кон банкарска страница. Ве молиме, не затворајте го или освежете го прелистувачот сè додека не заврши исплатата",mk_MK
+"novalnet.trustly-payment-description","You will be redirected to Trustly. Please don’t close or refresh the browser until the payment is completed",en_US
+"novalnet.trustly-payment-description","Sie werden zu Trustly weitergeleitet. Um eine erfolgreiche Zahlung zu gewährleisten, darf die Seite nicht geschlossen oder neu geladen werden, bis die Bezahlung abgeschlossen ist.",de_DE
+"novalnet.trustly-payment-description","Vous serez redirigé vers Trustly. Veuillez ne pas fermer ou ne pas rafraîchir le navigateur jusqu'à ce que le paiement soit terminé“,fr_FR
+"novalnet.trustly-payment-description","Θα ανακατευθύνετε στο Trustly. Παρακαλώ μην κλείσετε ή ανανεώσετε το πρόγραμμα περιήγησης μέχρι να ολοκληρωθεί η πληρωμή",rl_GR
+"novalnet.trustly-payment-description","Verrai reindirizzato a Trustly. Non chiudere o aggiornare il browser fino al completamento del pagamento",it_IT
+"novalnet.trustly-payment-description","Você será redirecionado para Trustly. Por favor, não feche ou atualize o navegador até que o pagamento seja concluído",pt_PT
+"novalnet.trustly-payment-description","Serás redirigido a Trustly. No cierre ni actualice el navegador hasta que se complete el pago",es_ES
+"novalnet.trustly-payment-description","Du blir omdirigert til Trustly. Ikke lukk eller oppdater nettleseren før betalingen er fullført",nn_NO
+"novalnet.trustly-payment-description","Du kommer att omdirigeras till Trustly. Stäng inte eller uppdatera webbläsaren förrän betalningen är klar",sv_SE
+"novalnet.trustly-payment-description","Sinut ohjataan Trustlyyn. Älä sulje tai päivitä selainta, kunnes maksu on suoritettu",fi_FI
+"novalnet.trustly-payment-description","Du bliver omdirigeret til Trustly. Du skal ikke lukke eller opdatere browseren, før betalingen er afsluttet",da_DK
+"novalnet.trustly-payment-description","Budete přesměrováni na Trustly. Nezavřete se ani neobjevte prohlížeč, dokud nebude platba dokončena",cs_CZ
+"novalnet.trustly-payment-description","Zostaniesz przekierowany do Trustly. Nie zamykaj ani nie odświeżaj przeglądarki do momentu zakończenia płatności",pl_PL
+"novalnet.trustly-payment-description","Budete presmerovaní na Trustly. Prehliadač sa nezatvárajte ani neobsviete, kým sa platba nedokončí",sk_SK
+"novalnet.trustly-payment-description","Bićete preusmjereni na Trustly. Molimo vas da ne zatvorite ili osvježite preglednik dok se plaćanje ne završi",bs_BA
+"novalnet.trustly-payment-description","Bit ćete preusmjereni na Trustly. Nemojte zatvoriti ili osvježiti preglednik dok plaćanje ne završi",hr_HR
+"novalnet.trustly-payment-description","Бићете преусмерени у Трустли. Не затварајте или освежите прегледач док уплата не буде завршена",sr_ME
+"novalnet.trustly-payment-description","Бићете преусмерени у Трустли. Не затварајте или освежите прегледач док уплата не буде завршена",sr_RS
+"novalnet.trustly-payment-description","Preusmerili boste v Trustly. Prosimo, da brskalnika ne zaprete in ne osvežite, dokler plačilo ni končano",sl_SL
+"novalnet.trustly-payment-description","Do të ridrejtoheni në Trustly. Ju lutemi mos e mbyllni ose rifreskoni shfletuesin derisa të përfundojë pagesa",al_AL
+"novalnet.trustly-payment-description","Ще бъдете пренасочени към Доверчиво. Моля, не затваряйте и не опреснявайте браузъра, докато плащането не приключи",bg_BG
+"novalnet.trustly-payment-description","Do të ridrejtoheni në Trustly. Ju lutemi mos e mbyllni ose rifreskoni shfletuesin derisa të përfundojë pagesa",al_XK
+"novalnet.trustly-payment-description","Beе бидете пренасочени кон Trustly. Ве молиме, не затворајте го или освежете го прелистувачот сè додека не заврши исплатата",mk_MK
+
+"novalnet.alipay-payment-description","You will be redirected to Alipay. Please don’t close or refresh the browser until the payment is completed",en_US
+"novalnet.alipay-payment-description","Sie werden zu Alipay weitergeleitet. Um eine erfolgreiche Zahlung zu gewährleisten, darf die Seite nicht geschlossen oder neu geladen werden, bis die Bezahlung abgeschlossen ist.",de_DE
+"novalnet.alipay-payment-description","Vous serez redirigé vers Alipay. Veuillez ne pas fermer ou ne pas rafraîchir le navigateur jusqu'à ce que le paiement soit terminé“,fr_FR
+"novalnet.alipay-payment-description","Θα ανακατευθύνετε στο Alipay. Παρακαλώ μην κλείσετε ή ανανεώσετε το πρόγραμμα περιήγησης μέχρι να ολοκληρωθεί η πληρωμή",rl_GR
+"novalnet.alipay-payment-description","Verrai reindirizzato a Alipay. Non chiudere o aggiornare il browser fino al completamento del pagamento",it_IT
+"novalnet.alipay-payment-description","Você será redirecionado para Alipay. Por favor, não feche ou atualize o navegador até que o pagamento seja concluído",pt_PT
+"novalnet.alipay-payment-description","Serás redirigido a Alipay. No cierre ni actualice el navegador hasta que se complete el pago",es_ES
+"novalnet.alipay-payment-description","Du blir omdirigert til Alipay. Ikke lukk eller oppdater nettleseren før betalingen er fullført",nn_NO
+"novalnet.alipay-payment-description","Du kommer att omdirigeras till Alipay. Stäng inte eller uppdatera webbläsaren förrän betalningen är klar",sv_SE
+"novalnet.alipay-payment-description","Sinut ohjataan Alipayyn. Älä sulje tai päivitä selainta, kunnes maksu on suoritettu",fi_FI
+"novalnet.alipay-payment-description","Du bliver omdirigeret til Alipay. Du skal ikke lukke eller opdatere browseren, før betalingen er afsluttet",da_DK
+"novalnet.alipay-payment-description","Budete přesměrováni na Alipay. Nezavřete se ani neobjevte prohlížeč, dokud nebude platba dokončena",cs_CZ
+"novalnet.alipay-payment-description","Zostaniesz przekierowany do Alipay. Nie zamykaj ani nie odświeżaj przeglądarki do momentu zakończenia płatności",pl_PL
+"novalnet.alipay-payment-description","Budete presmerovaní na Alipay. Prehliadač sa nezatvárajte ani neobsviete, kým sa platba nedokončí",sk_SK
+"novalnet.alipay-payment-description","Bićete preusmjereni na Alipay. Molimo vas da ne zatvorite ili osvježite preglednik dok se plaćanje ne završi",bs_BA
+"novalnet.alipay-payment-description","Bit ćete preusmjereni na Alipay. Nemojte zatvoriti ili osvježiti preglednik dok plaćanje ne završi",hr_HR
+"novalnet.alipay-payment-description","Бићете преусмерени у Алипаи. Не затварајте или освежите прегледач док уплата не буде завршена",sr_ME
+"novalnet.alipay-payment-description","Бићете преусмерени у Алипаи. Не затварајте или освежите прегледач док уплата не буде завршена",sr_RS
+"novalnet.alipay-payment-description","Preusmerili boste v Alipay. Prosimo, da brskalnika ne zaprete in ne osvežite, dokler plačilo ni končano",sl_SL
+"novalnet.alipay-payment-description","Do të ridrejtoheni në Alipay. Ju lutemi mos e mbyllni ose rifreskoni shfletuesin derisa të përfundojë pagesa",al_AL
+"novalnet.alipay-payment-description","Ще бъдете пренасочени към Бъди щастлив. Моля, не затваряйте и не опреснявайте браузъра, докато плащането не приключи",bg_BG
+"novalnet.alipay-payment-description","Do të ridrejtoheni në Alipay. Ju lutemi mos e mbyllni ose rifreskoni shfletuesin derisa të përfundojë pagesa",al_XK
+"novalnet.alipay-payment-description","Beе бидете пренасочени кон Alipay. Ве молиме, не затворајте го или освежете го прелистувачот сè додека не заврши исплатата",mk_MK
+"novalnet.wechatpay-payment-description","You will be redirected to WeChat Pay. Please don’t close or refresh the browser until the payment is completed",en_US
+"novalnet.wechatpay-payment-description","Sie werden zu WeChat Pay weitergeleitet. Um eine erfolgreiche Zahlung zu gewährleisten, darf die Seite nicht geschlossen oder neu geladen werden, bis die Bezahlung abgeschlossen ist.",de_DE
+"novalnet.wechatpay-payment-description","Vous serez redirigé vers WeChat Pay. Veuillez ne pas fermer ou ne pas rafraîchir le navigateur jusqu'à ce que le paiement soit terminé“,fr_FR
+"novalnet.wechatpay-payment-description","Θα ανακατευθύνετε στο WeChat Pay. Παρακαλώ μην κλείσετε ή ανανεώσετε το πρόγραμμα περιήγησης μέχρι να ολοκληρωθεί η πληρωμή",rl_GR
+"novalnet.wechatpay-payment-description","Verrai reindirizzato a WeChat Pay. Non chiudere o aggiornare il browser fino al completamento del pagamento",it_IT
+"novalnet.wechatpay-payment-description","Você será redirecionado para WeChat Pay. Por favor, não feche ou atualize o navegador até que o pagamento seja concluído",pt_PT
+"novalnet.wechatpay-payment-description","Serás redirigido a WeChat Pay. No cierre ni actualice el navegador hasta que se complete el pago",es_ES
+"novalnet.wechatpay-payment-description","Du blir omdirigert til WeChat Pay. Ikke lukk eller oppdater nettleseren før betalingen er fullført",nn_NO
+"novalnet.wechatpay-payment-description","Du kommer att omdirigeras till WeChat Pay. Stäng inte eller uppdatera webbläsaren förrän betalningen är klar",sv_SE
+"novalnet.wechatpay-payment-description","Sinut ohjataan WeChat Payyn. Älä sulje tai päivitä selainta, kunnes maksu on suoritettu",fi_FI
+"novalnet.wechatpay-payment-description","Du bliver omdirigeret til WeChat Pay. Du skal ikke lukke eller opdatere browseren, før betalingen er afsluttet",da_DK
+"novalnet.wechatpay-payment-description","Budete přesměrováni na WeChat Pay. Nezavřete se ani neobjevte prohlížeč, dokud nebude platba dokončena",cs_CZ
+"novalnet.wechatpay-payment-description","Zostaniesz przekierowany do WeChat Pay. Nie zamykaj ani nie odświeżaj przeglądarki do momentu zakończenia płatności",pl_PL
+"novalnet.wechatpay-payment-description","Budete presmerovaní na WeChat Pay. Prehliadač sa nezatvárajte ani neobsviete, kým sa platba nedokončí",sk_SK
+"novalnet.wechatpay-payment-description","Bićete preusmjereni na WeChat Pay. Molimo vas da ne zatvorite ili osvježite preglednik dok se plaćanje ne završi",bs_BA
+"novalnet.wechatpay-payment-description","Bit ćete preusmjereni na WeChat Pay. Nemojte zatvoriti ili osvježiti preglednik dok plaćanje ne završi",hr_HR
+"novalnet.wechatpay-payment-description","Бићете преусмерени у ВеЦхат Паи. Не затварајте или освежите прегледач док уплата не буде завршена",sr_ME
+"novalnet.wechatpay-payment-description","Бићете преусмерени у ВеЦхат Паи. Не затварајте или освежите прегледач док уплата не буде завршена",sr_RS
+"novalnet.wechatpay-payment-description","Preusmerili boste v WeChat Pay. Prosimo, da brskalnika ne zaprete in ne osvežite, dokler plačilo ni končano",sl_SL
+"novalnet.wechatpay-payment-description","Do të ridrejtoheni në WeChat Pay. Ju lutemi mos e mbyllni ose rifreskoni shfletuesin derisa të përfundojë pagesa",al_AL
+"novalnet.wechatpay-payment-description","Ще бъдете пренасочени към WeChat Pay. Моля, не затваряйте и не опреснявайте браузъра, докато плащането не приключи",bg_BG
+"novalnet.wechatpay-payment-description","Do të ridrejtoheni në WeChat Pay. Ju lutemi mos e mbyllni ose rifreskoni shfletuesin derisa të përfundojë pagesa",al_XK
+"novalnet.wechatpay-payment-description","Beе бидете пренасочени кон WeChat Pay. Ве молиме, не затворајте го или освежете го прелистувачот сè додека не заврши исплатата",mk_MK
+"novalnet.barzahlen-payment-description","On successful checkout, you will receive a payment slip/SMS to pay your online purchase at one of our retail partners (e.g. supermarket)",en_US
+"novalnet.barzahlen-payment-description","Nach erfolgreichem Bestellabschluss erhalten Sie einen Zahlschein bzw. eine SMS. Damit können Sie Ihre Online-Bestellung bei einem unserer Partner im Einzelhandel (z.B. Drogerie, Supermarkt etc.) bezahlen",de_DE
+"novalnet.barzahlen-payment-description","À la caisse réussie, vous recevrez un bordereau de paiement / SMS pour payer votre achat en ligne chez l'un de nos partenaires de vente au détail (par exemple le supermarché)“,fr_FR
+"novalnet.barzahlen-payment-description","Σε επιτυχή checkout, θα λάβετε ένα Slip Payment/SMS για να πληρώσετε την ηλεκτρονική σας αγορά σε έναν από τους συνεργάτες λιανικής πώλησης (π.χ. σούπερ μάρκετ)",rl_GR
+"novalnet.barzahlen-payment-description","Al momento del pagamento, riceverai una slitta di pagamento/SMS per pagare l'acquisto online presso uno dei nostri partner di vendita al dettaglio (ad esempio supermercato)",it_IT
+"novalnet.barzahlen-payment-description","Na finalização da compra bem -sucedida, você receberá um recibo de pagamento/SMS para pagar sua compra on -line em um de nossos parceiros de varejo (por exemplo, supermercado)",pt_PT
+"novalnet.barzahlen-payment-description","En el pago exitoso, recibirá un slip/SMS de pago para pagar su compra en línea en uno de nuestros socios minoristas (por ejemplo, supermercado)",es_ES
+"novalnet.barzahlen-payment-description","Ved vellykket kasse vil du motta en betalingsslipp/SMS for å betale ditt online kjøp hos en av våre detaljhandelspartnere (f.eks. Supermarked)",nn_NO
+"novalnet.barzahlen-payment-description","Vid framgångsrik kassa får du en betalningsslip/SMS för att betala ditt online -köp hos en av våra detaljhandelspartners (t.ex. stormarknad)",sv_SE
+"novalnet.barzahlen-payment-description","Menestyneessä kassalla saat maksutiedot/tekstiviestit maksaaksesi online -ostoksesi yhdellä vähittäiskaupan kumppanistamme (esim. Supermarket)",fi_FI
+"novalnet.barzahlen-payment-description","Ved en vellykket checkout modtager du en betalingsslip/SMS for at betale dit online køb hos en af ​​vores detailpartnere (f.eks. Supermarked)",da_DK
+"novalnet.barzahlen-payment-description","Při úspěšné pokladně obdržíte platební skluz/SMS za zaplacení online nákupu u jednoho z našich maloobchodních partnerů (např. Supermarket)",cs_CZ
+"novalnet.barzahlen-payment-description","Po udanej kasie otrzymasz poślizg płatniczy/SMS, aby zapłacić zakup online u jednego z naszych partnerów detalicznych (np. Supermarket)",pl_PL
+"novalnet.barzahlen-payment-description","Pri úspešnej pokladni dostanete platobnú sklzu/SMS na zaplatenie online nákupu u jedného z našich maloobchodných partnerov (napr. Supermarket)",sk_SK
+"novalnet.barzahlen-payment-description","Na uspješnoj blagajni primit ćete uplatnicu / SMS za plaćanje internetske kupovine u jednom od naših maloprodajnih partnera (npr. Supermarket)",bs_BA
+"novalnet.barzahlen-payment-description","Nakon uspješne odjave, dobit ćete platni listić/SMS za plaćanje internetske kupnje kod jednog od naših maloprodajnih partnera (npr. Supermarketa)",hr_HR
+"novalnet.barzahlen-payment-description","Након успешног одјаве, добит ћете клизање / СМС да бисте платили своју мрежну куповину на једном од наших малопродајних партнера (нпр. Супермаркет)",sr_ME
+"novalnet.barzahlen-payment-description","Након успешног одјаве, добит ћете клизање / СМС да бисте платили своју мрежну куповину на једном од наших малопродајних партнера (нпр. Супермаркет)",sr_RS
+"novalnet.barzahlen-payment-description","Ob uspešnem nakupu boste prejeli plačilni spodrsljaj/SMS za plačilo spletnega nakupa pri enem od naših maloprodajnih partnerjev (npr. Supermarket)",sl_SL
+"novalnet.barzahlen-payment-description","Në arkë të suksesshme, ju do të merrni një fletë pagese/SMS për të paguar blerjen tuaj në internet në një nga partnerët tanë me pakicë (p.sh. supermarketi)",al_AL
+"novalnet.barzahlen-payment-description","При успешна каса ще получите платежен фиш/SMS, за да платите онлайн покупката си в един от нашите партньори на дребно (например супермаркет)",bg_BG
+"novalnet.barzahlen-payment-description","Në arkë të suksesshme, ju do të merrni një fletë pagese/SMS për të paguar blerjen tuaj në internet në një nga partnerët tanë me pakicë (p.sh. supermarketi)",al_XK
+"novalnet.barzahlen-payment-description","На успешна исплата, ќе добиете плаќање/СМС за плаќање за да ја платите вашата набавка преку Интернет на еден од нашите партнери за малопродажба (на пр. Супермаркет)",mk_MK
+"novalnet.payment-confirmed","The transaction has been confirmed on %confirmed%",en_US
+"novalnet.payment-confirmed","Die Buchung wurde am %confirmed% bestätigt.",de_DE
+"novalnet.payment-confirmed","La transaction a été confirmée sur %confirmed%“,fr_FR
+"novalnet.payment-confirmed","Η συναλλαγή έχει επιβεβαιωθεί με επιβεβαιωμένο %confirmed%",rl_GR
+"novalnet.payment-confirmed","La transazione è stata confermata su %confirmed%",it_IT
+"novalnet.payment-confirmed","A transação foi confirmada em %confirmed%",pt_PT
+"novalnet.payment-confirmed","La transacción se ha confirmado en %confirmed%",es_ES
+"novalnet.payment-confirmed","Transaksjonen er bekreftet på %confirmed%",nn_NO
+"novalnet.payment-confirmed","Transaktionen har bekräftats på %confirmed%",sv_SE
+"novalnet.payment-confirmed","Kauppa on vahvistettu %confirmed%",fi_FI
+"novalnet.payment-confirmed","Transaktionen er bekræftet på %confirmed%",da_DK
+"novalnet.payment-confirmed","Transakce byla potvrzena na %confirmed%",cs_CZ
+"novalnet.payment-confirmed","Transakcja została potwierdzona na %confirmed%",pl_PL
+"novalnet.payment-confirmed","Transakcia bola potvrdená na %confirmed%",sk_SK
+"novalnet.payment-confirmed","Transakcija je potvrđena na %confirmed%",bs_BA
+"novalnet.payment-confirmed","Transakcija je potvrđena na %confirmed%",hr_HR
+"novalnet.payment-confirmed","Трансакција је потврђена на %confirmed%",sr_ME
+"novalnet.payment-confirmed","Трансакција је потврђена на %confirmed%",sr_RS
+"novalnet.payment-confirmed","Transakcija je bila potrjena na %confirmed%",sl_SL
+"novalnet.payment-confirmed","Transaksioni është konfirmuar në %confirmed%",al_AL
+"novalnet.payment-confirmed","Сделката е потвърдена на %confirmed%",bg_BG
+"novalnet.payment-confirmed","Transaksioni është konfirmuar në %confirmed%",al_XK
+"novalnet.payment-confirmed","Трансакцијата е потврдена за %confirmed%",mk_MK
+"novalnet.payment-void","The transaction has been canceled on %cancelled%",en_US
+"novalnet.payment-void","Die Transaktion wurde am %cancelled%" Uhr storniert,de_DE
+"novalnet.payment-void","La transaction a été annulée sur %cancelled%“,fr_FR
+"novalnet.payment-void","Η συναλλαγή ακυρώθηκε κατά %cancelled%",rl_GR
+"novalnet.payment-void","La transazione è stata annullata su %cancelled%",it_IT
+"novalnet.payment-void","A transação foi cancelada em %cancelled%",pt_PT
+"novalnet.payment-void","La transacción ha sido cancelada en %cancelled%",es_ES
+"novalnet.payment-void","Transaksjonen er kansellert på %cancelled%",nn_NO
+"novalnet.payment-void","Transaktionen har avbrutits på %cancelled%",sv_SE
+"novalnet.payment-void","Kauppa on peruutettu %cancelled%",fi_FI
+"novalnet.payment-void","Transaktionen er annulleret på %cancelled%",da_DK
+"novalnet.payment-void","Transakce byla zrušena na %cancelled%",cs_CZ
+"novalnet.payment-void","Transakcja została anulowana na %cancelled%",pl_PL
+"novalnet.payment-void","Transakcia bola zrušená na %cancelled%",sk_SK
+"novalnet.payment-void","Transakcija je otkazana na %cancelled%",bs_BA
+"novalnet.payment-void","Transakcija je otkazana na %cancelled%",hr_HR
+"novalnet.payment-void","Трансакција је отказана на %cancelled%",sr_ME
+"novalnet.payment-void","Трансакција је отказана на %cancelled%",sr_RS
+"novalnet.payment-void","Transakcija je bila preklicana na %cancelled%",sl_SL
+"novalnet.payment-void","Transaksioni është anuluar në %cancelled%",al_AL
+"novalnet.payment-void","Сделката е анулирана на %cancelled%",bg_BG
+"novalnet.payment-void","Transaksioni është anuluar në %cancelled%",al_XK
+"novalnet.payment-void","Трансакцијата е откажана на %cancelled%",mk_MK
+"novalnet.payment-partial-refund","Refund has been initiated for the TID: %parentTid% with the amount of %amount%. New TID: %referenceTid% for the refunded amount.",en_US
+"novalnet.payment-partial-refund","Die Rückerstattung für die TID %parentTid% mit dem Betrag %amount% wurde veranlasst. Die neue TID für den erstatteten Betrag lautet: %referenceTid%",de_DE
+"novalnet.payment-partial-refund","Le remboursement a été lancé pour le TID:%parentTid% avec le montant de %amount%. Nouveau Tid:%referenceTid% pour le montant remboursé.“,fr_FR
+"novalnet.payment-partial-refund","Η επιστροφή χρημάτων έχει ξεκινήσει για το TID:  %parentTid% με το ποσό %amount%. Νέο TID:%referenceTid% για το επιστρεφόμενο ποσό.",rl_GR
+"novalnet.payment-partial-refund","Il rimborso è stato avviato per il TID:  %parentTid% con l'importo dell'importo %amount%. Nuovo TID: %referenceTid% per l'importo rimborsato.",it_IT
+"novalnet.payment-partial-refund","O reembolso foi iniciado para o TID:  %parentTid%com o valor do valor %amount%. NOVO TID: %referenceTid% para o valor reembolsado.",pt_PT
+"novalnet.payment-partial-refund","El reembolso se ha iniciado para el TID:  %parentTid% con el monto de %amount%. NUEVO TID: %referenceTid% para el monto reembolsado.",es_ES
+"novalnet.payment-partial-refund","Refusjon er startet for TID:  %parentTid% med mengden %amount%. Ny TID: %referenceTid% for det tilbakebetalte beløpet.",nn_NO
+"novalnet.payment-partial-refund","Återbetalning har initierats för TID:  %parentTid% med mängden %amount%. Ny TID: %referenceTid% för det återbetalade beloppet.",sv_SE
+"novalnet.payment-partial-refund","Palautus on aloitettu TID: lle:  %parentTid% ja %amount%. Uusi TID:%referenceTid% palautetusta määrästä.",fi_FI
+"novalnet.payment-partial-refund","Restitution er indledt for TID: %parentTid% med et beløb på %amount%. Ny tid: %referenceTid% for det refunderede beløb.",da_DK
+"novalnet.payment-partial-refund","Vrácení bylo zahájeno pro TID: %parentTid% s množstvím %amount%. Nový TID: %referenceTid% za vrácenou částku.",cs_CZ
+"novalnet.payment-partial-refund","Zwrot został zainicjowany w przypadku TID:  %parentTid% przy kwasie %amount%. Nowy TID: %referenceTid% dla zwróconej kwoty.",pl_PL
+"novalnet.payment-partial-refund","Vrátenie sa začalo pre TID:  %parentTid% s množstvom %amount%. Nové TID: %referenceTid% za vrátené množstvo.",sk_SK
+"novalnet.payment-partial-refund","Povrat novca pokrenut je za TID: %parentTid% sa iznosom od %amount%. NOVI TID:%referenceTid% za povrat novca.",bs_BA
+"novalnet.payment-partial-refund","Povrat je pokrenut za TID:  %parentTid% s iznosom %amount%. Novi TID: %referenceTid% za povrat iznosa.",hr_HR
+"novalnet.payment-partial-refund","Покренут је повраћај новца за ТИД: %parentTid% са износом %amount%. Нови ТИД:%referenceTid% за враћени износ.",sr_ME
+"novalnet.payment-partial-refund","Покренут је повраћај новца за ТИД: %parentTid% са износом %amount%. Нови ТИД:%referenceTid% за враћени износ.",sr_RS
+"novalnet.payment-partial-refund","Za TID je bilo sproženo vračilo:  %parentTid% z zneskom %amount%. Nov TID: %referenceTid% za vračilo zneska.",sl_SL
+"novalnet.payment-partial-refund","Rimbursimi është iniciuar për TID:  %parentTid% me shumën e shumës %amount%. New TID: %referenceTid% për shumën e rimbursuar.",al_AL
+"novalnet.payment-partial-refund","Възстановяването е инициирано за TID:  %parentTid% със сумата на %amount%. Нов TID: %referenceTid% за възстановената сума.",bg_BG
+"novalnet.payment-partial-refund","Rimbursimi është iniciuar për TID:  %parentTid% me shumën e shumës %amount%. New TID: %referenceTid% për shumën e rimbursuar.",al_XK
+"novalnet.payment-partial-refund","Иницирана е поврат за TID:  %parentTid% со износот од %amount%. НОВИ ТИД: %referenceTid% за вратената сума.",mk_MK
+"novalnet.payment-full-refund","Refund has been initiated for the TID: %parentTid% with the amount of %amount%.",en_US
+"novalnet.payment-full-refund","Die Rückerstattung für die TID %parentTid% mit dem Betrag %amount% wurde veranlasst.",de_DE
+"novalnet.payment-full-refund","Le remboursement a été lancé pour le TID:  %parentTid% avec le montant de %amount%.“,fr_FR
+"novalnet.payment-full-refund","Η επιστροφή χρημάτων έχει ξεκινήσει για το TID:  %parentTid% με το ποσό %amount%.",rl_GR
+"novalnet.payment-full-refund","Il rimborso è stato avviato per il TID:  %parentTid% con l'importo dell'importo %amount%.",it_IT
+"novalnet.payment-full-refund","O reembolso foi iniciado para o TID:  %parentTid% com o valor do valor %amount%.",pt_PT
+"novalnet.payment-full-refund","El reembolso se ha iniciado para el TID:  %parentTid% con el monto de %amount%.",es_ES
+"novalnet.payment-full-refund","Refusjon er startet for TID: %parentTid% med mengden %amount%.",nn_NO
+"novalnet.payment-full-refund","Återbetalning har initierats för TID:  %parentTid% med mängden %amount%.",sv_SE
+"novalnet.payment-full-refund","Palautus on aloitettu TID: lle:  %parentTid% ja %amount%.",fi_FI
+"novalnet.payment-full-refund","Restitution er indledt for TID:  %parentTid% med et beløb på %amount%.",da_DK
+"novalnet.payment-full-refund","Vrácení bylo zahájeno pro TID: %parentTid% s množstvím %amount%.",cs_CZ
+"novalnet.payment-full-refund","Zwrot został zainicjowany w przypadku TID:  %parentTid% przy kwasie %amount%.",pl_PL
+"novalnet.payment-full-refund","Vrátenie sa začalo pre TID: %parentTid% s množstvom %amount%.",sk_SK
+"novalnet.payment-full-refund","Povrat novca pokrenut je za TID: %parentTid% sa iznosom od %amount%.",bs_BA
+"novalnet.payment-full-refund","Povrat je pokrenut za TID:  %parentTid% s iznosom %amount%.",hr_HR
+"novalnet.payment-full-refund","Покренут је повраћај новца за ТИД: %parentTid% са износом %amount%.",sr_ME
+"novalnet.payment-full-refund","Покренут је повраћај новца за ТИД: %parentTid% са износом %amount%.",sr_RS
+"novalnet.payment-full-refund","Za TID je bilo sproženo vračilo:  %parentTid% z zneskom %amount%.",sl_SL
+"novalnet.payment-full-refund","Rimbursimi është iniciuar për TID:  %parentTid% me shumën e shumës %amount%.",al_AL
+"novalnet.payment-full-refund","Възстановяването е инициирано за TID:  %parentTid% със сумата на %amount%.",bg_BG
+"novalnet.payment-full-refund","Rimbursimi është iniciuar për TID:  %parentTid% me shumën e shumës %amount%.",al_XK
+"novalnet.payment-full-refund","Иницирана е поврат за TID: %parentTid% со износот од %amount%.",mk_MK
+"novalnet.invoice-bank-note-transfer-text-with-due-date","Please transfer the amount of %amount% to the following account on or before %due_date%",en_US
+"novalnet.invoice-bank-note-transfer-text-with-due-date","Bitte überweisen Sie den Betrag von %amount% spätestens bis zum %due_date% auf das folgende Konto",de_DE
+"novalnet.invoice-bank-note-transfer-text-with-due-date","Veuillez transférer le montant du montant %amount% sur le compte suivant le ou avant %due_date%“,fr_FR
+"novalnet.invoice-bank-note-transfer-text-with-due-date","Μεταφέρετε το ποσό του %amount% στον ακόλουθο λογαριασμό στο ή πριν από το %due_date%",rl_GR
+"novalnet.invoice-bank-note-transfer-text-with-due-date","Si prega di trasferire l'importo dell'importo %amount% al seguente conto entro %due_date%",it_IT
+"novalnet.invoice-bank-note-transfer-text-with-due-date","Transfira o valor de %amount% para a seguinte conta ou antes de %due_date%",pt_PT
+"novalnet.invoice-bank-note-transfer-text-with-due-date","Transfiera el monto de %amount% a la siguiente cuenta en o antes del %due_date%",es_ES
+"novalnet.invoice-bank-note-transfer-text-with-due-date","Vennligst overfør beløpet på %amount% til følgende konto på eller før %due_date%",nn_NO
+"novalnet.invoice-bank-note-transfer-text-with-due-date","Överför mängden %amount% till följande konto före eller före %due_date%",sv_SE
+"novalnet.invoice-bank-note-transfer-text-with-due-date","Siirrä prosentin määrän %amount% seuraavalle tilille tai ennen kuin %due_date%",fi_FI
+"novalnet.invoice-bank-note-transfer-text-with-due-date","Overfør venligst beløbet på %amount% til følgende konto på eller før %due_date%",da_DK
+"novalnet.invoice-bank-note-transfer-text-with-due-date","Převeďte částku %amount% %na následující účet na nebo dříve %due_date%",cs_CZ
+"novalnet.invoice-bank-note-transfer-text-with-due-date","Prześlij kwotę%amount% na następujące rachunek na lub przed %due_date%",pl_PL
+"novalnet.invoice-bank-note-transfer-text-with-due-date","Preneste sumu %amount% na nasledujúci účet na alebo skôr %due_date%",sk_SK
+"novalnet.invoice-bank-note-transfer-text-with-due-date","Prijenesite iznos od %amount% na sljedeći račun na ili prije %due_date%",bs_BA
+"novalnet.invoice-bank-note-transfer-text-with-due-date","Prenesite iznos od %amount% na sljedeći račun na ili prije %due_date%",hr_HR
+"novalnet.invoice-bank-note-transfer-text-with-due-date","Молимо пренесите износ %amount% на следећи рачун на или пре %due_date%",sr_ME
+"novalnet.invoice-bank-note-transfer-text-with-due-date","Молимо пренесите износ %amount% на следећи рачун на или пре %due_date%",sr_RS
+"novalnet.invoice-bank-note-transfer-text-with-due-date","Prenesite znesek %amount% na naslednji račun na ali pred %due_date%",sl_SL
+"novalnet.invoice-bank-note-transfer-text-with-due-date","Ju lutemi transferoni shumën e shumës %amount% në llogarinë vijuese në ose para %due_date%",al_AL
+"novalnet.invoice-bank-note-transfer-text-with-due-date","Моля, прехвърлете сумата на %amount% в следната сметка на или преди %due_date%",bg_BG
+"novalnet.invoice-bank-note-transfer-text-with-due-date","Ju lutemi transferoni shumën e shumës %amount% në llogarinë vijuese në ose para %due_date%",al_XK
+"novalnet.invoice-bank-note-transfer-text-with-due-date","Ве молиме, пренесете го износот од %amount% на следнава сметка на или пред %due_date%",mk_MK
+"novalnet.invoice-bank-note-transfer-text","Please transfer the amount of %amount% %currency% to the following account",en_US
+"novalnet.invoice-bank-note-transfer-text","Bitte überweisen Sie den Betrag %amount% %currency% auf das folgende Konto.",de_DE
+"novalnet.invoice-bank-note-transfer-text","Veuillez transférer le montant du %amount% %currency% sur le compte suivant“,fr_FR
+"novalnet.invoice-bank-note-transfer-text","Μεταφέρετε το ποσό του ποσοστού %amount% %currency% στο ακόλουθο λογαριασμό",rl_GR
+"novalnet.invoice-bank-note-transfer-text","Si prega di trasferire l'importo dell'importo %amount% %currency% Valuta % al seguente conto",it_IT
+"novalnet.invoice-bank-note-transfer-text","Transfira o valor do valor %amount% %currency% para a conta a seguir",pt_PT
+"novalnet.invoice-bank-note-transfer-text","Transfiera el monto de %amount% %currency% a la siguiente cuenta",es_ES
+"novalnet.invoice-bank-note-transfer-text","Vennligst overfør mengden %amount% %currency% til følgende konto",nn_NO
+"novalnet.invoice-bank-note-transfer-text","Vänligen överför mängden %amount% %currency% till följande konto",sv_SE
+"novalnet.invoice-bank-note-transfer-text","Siirrä määrän %amount% %currency% seuraavalle tilille",fi_FI
+"novalnet.invoice-bank-note-transfer-text","Overfør venligst beløbet på%amount% %currency% til følgende konto",da_DK
+"novalnet.invoice-bank-note-transfer-text","Převeďte částku %amount% %currency% měny % na následující účet",cs_CZ
+"novalnet.invoice-bank-note-transfer-text","Proszę przenieść kwotę %amount% %currency% na następujące rachunek",pl_PL
+"novalnet.invoice-bank-note-transfer-text","Prejdite sumu %amount% %currency% na nasledujúci účet",sk_SK
+"novalnet.invoice-bank-note-transfer-text","Prijenesite iznos %amount% %currency% Na sljedeći račun",bs_BA
+"novalnet.invoice-bank-note-transfer-text","Molimo prebacite iznos od %amount% %currency% na sljedeći račun",hr_HR
+"novalnet.invoice-bank-note-transfer-text","Пренесите износ% износ %amount% %currency% на следећи рачун",sr_ME
+"novalnet.invoice-bank-note-transfer-text","Пренесите износ% износ %amount% %currency% на следећи рачун",sr_RS
+"novalnet.invoice-bank-note-transfer-text","Prenesite znesek %amount% %currency% na naslednji račun",sl_SL
+"novalnet.invoice-bank-note-transfer-text","Ju lutemi transferoni shumën e shumës %amount% %currency% në llogarinë vijuese",al_AL
+"novalnet.invoice-bank-note-transfer-text","Моля, прехвърлете сумата на %amount% %currency% в следната сметка",bg_BG
+"novalnet.invoice-bank-note-transfer-text","Ju lutemi transferoni shumën e shumës %amount% %currency% në llogarinë vijuese",al_XK
+"novalnet.invoice-bank-note-transfer-text","Ве молиме, пренесете го износот од %amount% %currency% на следната сметка",mk_MK
+"novalnet.invoice-bank-note-account-holder","Account holder: %holder%",en_US
+"novalnet.invoice-bank-note-account-holder","Kontoinhaber: %holder%",de_DE
+"novalnet.invoice-bank-note-account-holder","Porte-compte:%holder%“,fr_FR
+"novalnet.invoice-bank-note-account-holder","Κάτοχος λογαριασμού: %holder%",rl_GR
+"novalnet.invoice-bank-note-account-holder","Titolare del conto: %holder%",it_IT
+"novalnet.invoice-bank-note-account-holder","Titular da conta: %holder%",pt_PT
+"novalnet.invoice-bank-note-account-holder","Titular de la cuenta: %holder%",es_ES
+"novalnet.invoice-bank-note-account-holder","Kontoinnehaver: %holder%",nn_NO
+"novalnet.invoice-bank-note-account-holder","Kontoinnehavare: %holder%",sv_SE
+"novalnet.invoice-bank-note-account-holder","Tilinomistaja: %holder%",fi_FI
+"novalnet.invoice-bank-note-account-holder","Kontoindehaver: %holder%",da_DK
+"novalnet.invoice-bank-note-account-holder","Držitel účtu: %holder%",cs_CZ
+"novalnet.invoice-bank-note-account-holder","Posiadacz rachunku: %holder%",pl_PL
+"novalnet.invoice-bank-note-account-holder","Držiteľ účtu: %holder%",sk_SK
+"novalnet.invoice-bank-note-account-holder","Držač računa: %holder%",bs_BA
+"novalnet.invoice-bank-note-account-holder","Vlasnik računa: %holder%",hr_HR
+"novalnet.invoice-bank-note-account-holder","Држач рачуна: %holder%",sr_ME
+"novalnet.invoice-bank-note-account-holder","Држач рачуна: %holder%",sr_RS
+"novalnet.invoice-bank-note-account-holder","Imetnik računa: %holder%",sl_SL
+"novalnet.invoice-bank-note-account-holder","Mbajtësi i llogarisë: %holder%",al_AL
+"novalnet.invoice-bank-note-account-holder","Притежател на акаунта: %holder%",bg_BG
+"novalnet.invoice-bank-note-account-holder","Mbajtësi i llogarisë: %holder%",al_XK
+"novalnet.invoice-bank-note-account-holder","Носител на сметка: %holder%",mk_MK
+"novalnet.invoice-bank-note-iban","IBAN: %iban%",en_US
+"novalnet.invoice-bank-note-iban","IBAN: %iban%",de_DE
+"novalnet.invoice-bank-note-iban","IBAN: %iban%“,fr_FR
+"novalnet.invoice-bank-note-iban","IBAN: %iban%",rl_GR
+"novalnet.invoice-bank-note-iban","IBAN: %iban%",it_IT
+"novalnet.invoice-bank-note-iban","IBAN: %iban%",pt_PT
+"novalnet.invoice-bank-note-iban","IBAN: %iban%",es_ES
+"novalnet.invoice-bank-note-iban","IBAN: %iban%",nn_NO
+"novalnet.invoice-bank-note-iban","IBAN: %iban%",sv_SE
+"novalnet.invoice-bank-note-iban","IBAN: %iban%",fi_FI
+"novalnet.invoice-bank-note-iban","IBAN: %iban%",da_DK
+"novalnet.invoice-bank-note-iban","IBAN: %iban%",cs_CZ
+"novalnet.invoice-bank-note-iban","IBAN: %iban%",pl_PL
+"novalnet.invoice-bank-note-iban","IBAN: %iban%",sk_SK
+"novalnet.invoice-bank-note-iban","IBAN: %iban%",bs_BA
+"novalnet.invoice-bank-note-iban","IBAN: %iban%",hr_HR
+"novalnet.invoice-bank-note-iban","IBAN: %iban%",sr_ME
+"novalnet.invoice-bank-note-iban","IBAN: %iban%",sr_RS
+"novalnet.invoice-bank-note-iban","IBAN: %iban%",sl_SL
+"novalnet.invoice-bank-note-iban","IBAN: %iban%",al_AL
+"novalnet.invoice-bank-note-iban","IBAN: %iban%",bg_BG
+"novalnet.invoice-bank-note-iban","IBAN: %iban%",al_XK
+"novalnet.invoice-bank-note-iban","IBAN: %iban%",mk_MK
+"novalnet.invoice-bank-note-bic","BIC: %bic%",en_US
+"novalnet.invoice-bank-note-bic","BIC: %bic%",de_DE
+"novalnet.invoice-bank-note-bic","BIC: %bic%“,fr_FR
+"novalnet.invoice-bank-note-bic","BIC: %bic%",rl_GR
+"novalnet.invoice-bank-note-bic","BIC: %bic%",it_IT
+"novalnet.invoice-bank-note-bic","BIC: %bic%",pt_PT
+"novalnet.invoice-bank-note-bic","BIC: %bic%",es_ES
+"novalnet.invoice-bank-note-bic","BIC: %bic%",nn_NO
+"novalnet.invoice-bank-note-bic","BIC: %bic%",sv_SE
+"novalnet.invoice-bank-note-bic","BIC: %bic%",fi_FI
+"novalnet.invoice-bank-note-bic","BIC: %bic%",da_DK
+"novalnet.invoice-bank-note-bic","BIC: %bic%",cs_CZ
+"novalnet.invoice-bank-note-bic","BIC: %bic%",pl_PL
+"novalnet.invoice-bank-note-bic","BIC: %bic%",sk_SK
+"novalnet.invoice-bank-note-bic","BIC: %bic%",bs_BA
+"novalnet.invoice-bank-note-bic","BIC: %bic%",hr_HR
+"novalnet.invoice-bank-note-bic","BIC: %bic%",sr_ME
+"novalnet.invoice-bank-note-bic","BIC: %bic%",sr_RS
+"novalnet.invoice-bank-note-bic","BIC: %bic%",sl_SL
+"novalnet.invoice-bank-note-bic","BIC: %bic%",al_AL
+"novalnet.invoice-bank-note-bic","BIC: %bic%",bg_BG
+"novalnet.invoice-bank-note-bic","BIC: %bic%",al_XK
+"novalnet.invoice-bank-note-bic","BIC: %bic%",mk_MK
+"novalnet.invoice-bank-note-bank","Bank: %bank% %place%",en_US
+"novalnet.invoice-bank-note-bank","Bank: %bank% %place%",de_DE
+"novalnet.invoice-bank-note-bank","Banque:%bank% %place%“,fr_FR
+"novalnet.invoice-bank-note-bank","Τράπεζα: %bank% %place%",rl_GR
+"novalnet.invoice-bank-note-bank","Banca: %bank% %place%",it_IT
+"novalnet.invoice-bank-note-bank","Banco: %bank% %place%",pt_PT
+"novalnet.invoice-bank-note-bank","Banco: %bank% %place%",es_ES
+"novalnet.invoice-bank-note-bank","Bank: %bank% %place%",nn_NO
+"novalnet.invoice-bank-note-bank","Bank: %bank% %place%",sv_SE
+"novalnet.invoice-bank-note-bank","Pankki: %bank% %place%",fi_FI
+"novalnet.invoice-bank-note-bank","Bank: %bank% %place%",da_DK
+"novalnet.invoice-bank-note-bank","Banka: %bank% %place%",cs_CZ
+"novalnet.invoice-bank-note-bank","Bank: %bank% %place%",pl_PL
+"novalnet.invoice-bank-note-bank","Banka: %bank% %place%",sk_SK
+"novalnet.invoice-bank-note-bank","Banka: %bank% %place%",bs_BA
+"novalnet.invoice-bank-note-bank","Banka: %bank% %place%",hr_HR
+"novalnet.invoice-bank-note-bank","Банка: %bank% %place%",sr_ME
+"novalnet.invoice-bank-note-bank","Банка: %bank% %place%",sr_RS
+"novalnet.invoice-bank-note-bank","Banka: %bank% %place%",sl_SL
+"novalnet.invoice-bank-note-bank","Banka: %bank% %place%",al_AL
+"novalnet.invoice-bank-note-bank","Банка: %bank% %place%",bg_BG
+"novalnet.invoice-bank-note-bank","Banka: %bank% %place%",al_XK
+"novalnet.invoice-bank-note-bank","Банка: %bank% %place%",mk_MK
+"novalnet.invoice-bank-note-amount","Amount: %amount% %currency%",en_US
+"novalnet.invoice-bank-note-amount","Betrag: %amount% %currency%",de_DE
+"novalnet.invoice-bank-note-amount","Montant: %amount% %currency%“,fr_FR
+"novalnet.invoice-bank-note-amount","Ποσό: %amount% %currency%",rl_GR
+"novalnet.invoice-bank-note-amount","Importo: %amount% %currency%",it_IT
+"novalnet.invoice-bank-note-amount","Valor: %amount% %currency%",pt_PT
+"novalnet.invoice-bank-note-amount","Cantidad: %amount% %currency%",es_ES
+"novalnet.invoice-bank-note-amount","Beløp: %amount% %currency%",nn_NO
+"novalnet.invoice-bank-note-amount","Belopp: %amount% %currency%",sv_SE
+"novalnet.invoice-bank-note-amount","Määrä: %amount% %currency%",fi_FI
+"novalnet.invoice-bank-note-amount","Beløb: %amount% %currency%",da_DK
+"novalnet.invoice-bank-note-amount","Částka: %amount% %currency%",cs_CZ
+"novalnet.invoice-bank-note-amount","Kwota: %amount% %currency%",pl_PL
+"novalnet.invoice-bank-note-amount","Suma: %amount% %currency%",sk_SK
+"novalnet.invoice-bank-note-amount","Iznos: %amount% %currency%",bs_BA
+"novalnet.invoice-bank-note-amount","Iznos: %amount% %currency%",hr_HR
+"novalnet.invoice-bank-note-amount","Износ: %amount% %currency%",sr_ME
+"novalnet.invoice-bank-note-amount","Износ: %amount% %currency%",sr_RS
+"novalnet.invoice-bank-note-amount","Znesek: %amount% %currency%",sl_SL
+"novalnet.invoice-bank-note-amount","Shuma: %amount% %currency%",al_AL
+"novalnet.invoice-bank-note-amount","Сума: %amount% %currency%",bg_BG
+"novalnet.invoice-bank-note-amount","Shuma: %amount% %currency%",al_XK
+"novalnet.invoice-bank-note-amount","Износ: %amount% %currency%",mk_MK
+"novalnet.invoice-bank-note-reference-text","Please use any one of the following references as the payment reference, as only through this way your payment is matched and assigned to the order:",en_US
+"novalnet.invoice-bank-note-reference-text","Bitte verwenden Sie einen der unten angegebenen Verwendungszwecke für die Überweisung, da nur so Ihr Geldeingang zugeordnet werden kann:",de_DE
+"novalnet.invoice-bank-note-reference-text","Veuillez utiliser l'une des références suivantes comme référence de paiement, car uniquement via votre paiement est égalé et attribué à la commande:“,fr_FR
+"novalnet.invoice-bank-note-reference-text","Χρησιμοποιήστε οποιαδήποτε από τις ακόλουθες αναφορές ως αναφορά πληρωμής, καθώς μόνο με αυτόν τον τρόπο η πληρωμή σας ταιριάζει και ανατίθεται στην παραγγελία:",rl_GR
+"novalnet.invoice-bank-note-reference-text","Si prega di utilizzare uno dei seguenti riferimenti come riferimento di pagamento, solo in questo modo il pagamento è abbinato e assegnato all'ordine:",it_IT
+"novalnet.invoice-bank-note-reference-text","Por favor, use qualquer uma das seguintes referências como referência de pagamento, pois somente assim, seu pagamento é correspondido e atribuído ao pedido:",pt_PT
+"novalnet.invoice-bank-note-reference-text","Utilice cualquiera de las siguientes referencias como referencia de pago, ya que solo a través de esta forma de su pago coincide y asigna al pedido:",es_ES
+"novalnet.invoice-bank-note-reference-text","Bruk en av følgende referanser som betalingsreferanse, da bare gjennom denne måten betalingen din blir matchet og tildelt ordren:",nn_NO
+"novalnet.invoice-bank-note-reference-text","Använd någon av följande referenser som betalningsreferens, eftersom endast på detta sätt din betalning matchas och tilldelas beställningen:",sv_SE
+"novalnet.invoice-bank-note-reference-text","Käytä mitä tahansa seuraavista viitteistä maksuviitteenä, koska vain tällä tavalla maksusi vastaa ja määritetään tilaukselle:",fi_FI
+"novalnet.invoice-bank-note-reference-text","Brug venligst en af ​​følgende referencer som betalingsreference, som kun gennem denne måde din betaling matches og tildeles ordren:",da_DK
+"novalnet.invoice-bank-note-reference-text","Jako odkaz na platbu použijte jakoukoli z následujících odkazů, protože pouze tímto způsobem je vaše platba přiřazena a přiřazena k objednávce:",cs_CZ
+"novalnet.invoice-bank-note-reference-text","Użyj dowolnego z poniższych referencji jako referencji płatności, ponieważ tylko w ten sposób płatność jest dopasowana i przypisywana do zamówienia:",pl_PL
+"novalnet.invoice-bank-note-reference-text","Ako odkaz na platbu použite ktorýkoľvek z nasledujúcich odkazov, pretože iba týmto spôsobom je vaša platba zhodná a pridelená k objednávke:",sk_SK
+"novalnet.invoice-bank-note-reference-text","Molimo vas da koristite bilo koju od sljedećih referenci kao reference plaćanja, kao što je samo putem na ovaj način vaše plaćanje usklađeno i dodijeljeno narudžbi:",bs_BA
+"novalnet.invoice-bank-note-reference-text","Upotrijebite bilo koju od sljedećih referenci kao referencu za plaćanje, jer samo putem na ovaj način plaćanje odgovara i dodjeljuje se narudžbi:",hr_HR
+"novalnet.invoice-bank-note-reference-text","Молимо користите било коју од следећих референца као референца плаћања, јер се на тај начин ваша уплата усклади и додељује налогу:",sr_ME
+"novalnet.invoice-bank-note-reference-text","Молимо користите било коју од следећих референца као референца плаћања, јер се на тај начин ваша уплата усклади и додељује налогу:",sr_RS
+"novalnet.invoice-bank-note-reference-text","Prosimo, uporabite katero koli od naslednjih referenc kot referenco plačila, saj se samo na ta način vaše plačilo ujema in dodeli naročilu:",sl_SL
+"novalnet.invoice-bank-note-reference-text","Ju lutemi përdorni cilindo nga referencat e mëposhtme si referencë pagese, pasi vetëm përmes kësaj mënyre pagesa juaj përputhet dhe caktohet në porosi:",al_AL
+"novalnet.invoice-bank-note-reference-text","Моля, използвайте някое от следните препратки като справка за плащане, тъй като само по този начин плащането ви е съпоставено и присвоено на поръчката:",bg_BG
+"novalnet.invoice-bank-note-reference-text","Ju lutemi përdorni cilindo nga referencat e mëposhtme si referencë pagese, pasi vetëm përmes kësaj mënyre pagesa juaj përputhet dhe caktohet në porosi:",al_XK
+"novalnet.invoice-bank-note-reference-text","Ве молиме, користете која било од следниве референци како референца за плаќање, бидејќи само преку овој начин вашата исплата се совпаѓа и е доделена на нарачката:",mk_MK
+"novalnet.invoice-bank-note-reference-one","Payment Reference 1: TID %ref1%",en_US
+"novalnet.invoice-bank-note-reference-one","Verwendungszweck 1: TID %ref1%",de_DE
+"novalnet.invoice-bank-note-reference-one","Référence de paiement 1: TID %ref1%“,fr_FR
+"novalnet.invoice-bank-note-reference-one","Αναφορά πληρωμής 1: TID %ref1%",rl_GR
+"novalnet.invoice-bank-note-reference-one","Riferimento di pagamento 1: TID %ref1%",it_IT
+"novalnet.invoice-bank-note-reference-one","Referência de pagamento 1: Tid %ref1%",pt_PT
+"novalnet.invoice-bank-note-reference-one","Referencia de pago 1: TID %ref1%",es_ES
+"novalnet.invoice-bank-note-reference-one","Betalingsreferanse 1: TID %ref1%",nn_NO
+"novalnet.invoice-bank-note-reference-one","Betalningsreferens 1: TID %ref1%",sv_SE
+"novalnet.invoice-bank-note-reference-one","Maksuviite 1: TID %ref1%",fi_FI
+"novalnet.invoice-bank-note-reference-one","Betalingsreference 1: TID %ref1%",da_DK
+"novalnet.invoice-bank-note-reference-one","Odkaz na platbu 1: TID %ref1%",cs_CZ
+"novalnet.invoice-bank-note-reference-one","Odniesienie do płatności 1: TID %ref1%",pl_PL
+"novalnet.invoice-bank-note-reference-one","Referencia o platbe 1: TID %ref1%",sk_SK
+"novalnet.invoice-bank-note-reference-one","Referenca plaćanja 1: TID %ref1%",bs_BA
+"novalnet.invoice-bank-note-reference-one","Referenca plaćanja 1: TID %ref1%",hr_HR
+"novalnet.invoice-bank-note-reference-one","Референца плаћања 1: TID %ref1%",sr_ME
+"novalnet.invoice-bank-note-reference-one","Референца плаћања 1: TID %ref1%",sr_RS
+"novalnet.invoice-bank-note-reference-one","Referenca plačila 1: TID %ref1%",sl_SL
+"novalnet.invoice-bank-note-reference-one","Referenca e Pagesës 1: TID %ref1%",al_AL
+"novalnet.invoice-bank-note-reference-one","Справка за плащане 1: TID %ref1%",bg_BG
+"novalnet.invoice-bank-note-reference-one","Referenca e Pagesës 1: TID %ref1%",al_XK
+"novalnet.invoice-bank-note-reference-one","Референца за плаќање 1: TID %ref1%",mk_MK
+"novalnet.invoice-bank-note-reference-two","Payment Reference 2: %ref2%",en_US
+"novalnet.invoice-bank-note-reference-two","Verwendungszweck 2: %ref2%",de_DE
+"novalnet.invoice-bank-note-reference-two","Référence de paiement 2: %ref2%“,fr_FR
+"novalnet.invoice-bank-note-reference-two","Αναφορά πληρωμής 2: %ref2%",rl_GR
+"novalnet.invoice-bank-note-reference-two","Riferimento di pagamento 2: %ref2%",it_IT
+"novalnet.invoice-bank-note-reference-two","Referência de pagamento 2: %ref2%",pt_PT
+"novalnet.invoice-bank-note-reference-two","Referencia de pago 2: %ref2%",es_ES
+"novalnet.invoice-bank-note-reference-two","Betalingsreferanse 2: %ref2%",nn_NO
+"novalnet.invoice-bank-note-reference-two","Betalningsreferens 2: %ref2%",sv_SE
+"novalnet.invoice-bank-note-reference-two","Maksuviite 2: %ref2%",fi_FI
+"novalnet.invoice-bank-note-reference-two","Betalingsreference 2: %ref2%",da_DK
+"novalnet.invoice-bank-note-reference-two","Odkaz na platbu 2: %ref2%",cs_CZ
+"novalnet.invoice-bank-note-reference-two","Odniesienie do płatności 2: %ref2%",pl_PL
+"novalnet.invoice-bank-note-reference-two","Referencia o platbe 2: %ref2%",sk_SK
+"novalnet.invoice-bank-note-reference-two","Referenca plaćanja 2: %ref2%",bs_BA
+"novalnet.invoice-bank-note-reference-two","Referenca plaćanja 2: %ref2%",hr_HR
+"novalnet.invoice-bank-note-reference-two","Референца плаћања 2: %ref2%",sr_ME
+"novalnet.invoice-bank-note-reference-two","Референца плаћања 2: %ref2%",sr_RS
+"novalnet.invoice-bank-note-reference-two","Referenca plačila 2: %ref2%",sl_SL
+"novalnet.invoice-bank-note-reference-two","Referenca e Pagesës 2: %ref2%",al_AL
+"novalnet.invoice-bank-note-reference-two","Справка за плащане 2: %ref2%",bg_BG
+"novalnet.invoice-bank-note-reference-two","Referenca e Pagesës 2: %ref2%",al_XK
+"novalnet.invoice-bank-note-reference-two","Референца за плаќање 2: %ref2%",mk_MK
+"novalnet.cashpayment-slip-expiry-date","Slip expiry date: %date%",en_US
+"novalnet.cashpayment-slip-expiry-date","Verfallsdatum des Zahlscheins: %date%",de_DE
+"novalnet.cashpayment-slip-expiry-date","Date d'expiration du glissement: %date%“,fr_FR
+"novalnet.cashpayment-slip-expiry-date","Ημερομηνία λήξης της ολίσθησης: %date%",rl_GR
+"novalnet.cashpayment-slip-expiry-date","Data di scadenza della slitta: %date%",it_IT
+"novalnet.cashpayment-slip-expiry-date","Data de expiração do deslizamento: %date%",pt_PT
+"novalnet.cashpayment-slip-expiry-date","Slip de vencimiento Fecha: %date%",es_ES
+"novalnet.cashpayment-slip-expiry-date","Slipputløpsdato: %date%",nn_NO
+"novalnet.cashpayment-slip-expiry-date","Släpp utgångsdatum:%date%",sv_SE
+"novalnet.cashpayment-slip-expiry-date","Liukastumispäivämäärä: %date%",fi_FI
+"novalnet.cashpayment-slip-expiry-date","Slip udløbsdato: %date%",da_DK
+"novalnet.cashpayment-slip-expiry-date","Slip Datum vypršení platnosti: %date%",cs_CZ
+"novalnet.cashpayment-slip-expiry-date","Data wygaśnięcia poślizgu: %date%",pl_PL
+"novalnet.cashpayment-slip-expiry-date","Dátum ukončenia platnosti: %date%",sk_SK
+"novalnet.cashpayment-slip-expiry-date","Datum isteka klizanja: %date%",bs_BA
+"novalnet.cashpayment-slip-expiry-date","Datum isteka klizanja: %date%",hr_HR
+"novalnet.cashpayment-slip-expiry-date","Датум истека листића: %date%",sr_ME
+"novalnet.cashpayment-slip-expiry-date","Датум истека листића: %date%",sr_RS
+"novalnet.cashpayment-slip-expiry-date","Datum izteka spopada: %date%",sl_SL
+"novalnet.cashpayment-slip-expiry-date","Data e skadimit të rrëshqitjes: %date%",al_AL
+"novalnet.cashpayment-slip-expiry-date","Дата на изтичане на изтичане: %date%",bg_BG
+"novalnet.cashpayment-slip-expiry-date","Data e skadimit të rrëshqitjes: %date%",al_XK
+"novalnet.cashpayment-slip-expiry-date","Датум на истекување на лизгање: %date%",mk_MK
+"novalnet.multibanco-reference-note","Please use the following payment reference details to pay the amount of %amount% %currency% at a Multibanco ATM or through your internet banking.",en_US
+"novalnet.multibanco-reference-note","Bitte verwenden Sie die folgende Zahlungsreferenz, um den Betrag von %amount% %currency% an einem Multibanco-Geldautomaten oder über Ihr Onlinebanking zu",de_DE
+"novalnet.multibanco-reference-note","Veuillez utiliser les détails de référence de paiement suivants pour payer le montant du %amount% %currency% dans un guichet automatique Multibanco ou via vos services bancaires sur Internet.“,fr_FR
+"novalnet.multibanco-reference-note","Χρησιμοποιήστε τα ακόλουθα στοιχεία αναφοράς πληρωμής για να πληρώσετε το ποσό % του ποσού %amount% %currency% σε ένα ATM Multibanco ή μέσω της τραπεζικής σας στο Διαδίκτυο.",rl_GR
+"novalnet.multibanco-reference-note","Si prega di utilizzare i seguenti dettagli di riferimento di pagamento per pagare l'importo dell'importo %amount% %currency% in un bancomat multibanco o tramite il banking Internet.",it_IT
+"novalnet.multibanco-reference-note","Use os seguintes detalhes de referência de pagamento para pagar o valor do valor %amount% %currency% em um caixa eletrônico multibanco ou através do seu Internet Banking.",pt_PT
+"novalnet.multibanco-reference-note","Utilice los siguientes detalles de referencia de pago para pagar el monto de %amount% %currency% en un cajero automático multibanco o a través de su banca por Internet.",es_ES
+"novalnet.multibanco-reference-note","Bruk følgende betalingsreferansedetaljer for å betale beløpet på %amount% %currency% ved en multibanco -minibank eller gjennom internettbanken.",nn_NO
+"novalnet.multibanco-reference-note","Använd följande betalningsreferensuppgifter för att betala mängden %amount% %currency% vid en multibanco -atm eller via din internetbank.",sv_SE
+"novalnet.multibanco-reference-note","Käytä seuraavia maksuviittaustietoja maksaaksesi määrän %amount% %currency% Multibanco -pankkiautomaatissa tai Internet -pankkitoiminnassa.",fi_FI
+"novalnet.multibanco-reference-note","Brug følgende betalingsreferenceoplysninger til at betale et beløb på %amount% %currency% ved en multibanco -pengeautomat eller via din internetbank.",da_DK
+"novalnet.multibanco-reference-note","Pomocí následujících údajů o platebních údajích použijte částku hodnoty %amount% %currency% v multibanco bankomatu nebo prostřednictvím internetového bankovnictví.",cs_CZ
+"novalnet.multibanco-reference-note","Użyj następujących szczegółów referencyjnych płatności, aby zapłacić kwotę %amount% %currency% w bankomatach wielbanowych lub za pośrednictwem bankowości internetowej.",pl_PL
+"novalnet.multibanco-reference-note","Použite nasledujúce referenčné údaje o platbe na zaplatenie sumy %amount% %currency% za multibanco bankomat alebo prostredníctvom internetového bankovníctva.",sk_SK
+"novalnet.multibanco-reference-note","Koristite sljedeće podatke o plaćanju detalja da biste platili iznos od %amount% %currency% na multibanco bankomatu ili putem vašeg internetskog bankarstva.",bs_BA
+"novalnet.multibanco-reference-note","Upotrijebite sljedeće detalje o plaćanju da biste platili iznos od %amount% %currency% na multibanco bankomatu ili putem internetskog bankarstva.",hr_HR
+"novalnet.multibanco-reference-note","Користите следеће референтне податке о плаћању да бисте уплатили износ %amount% %currency% валуте% на мултибанцо банкомату или путем Интернет банкарства.",sr_ME
+"novalnet.multibanco-reference-note","Користите следеће референтне податке о плаћању да бисте уплатили износ %amount% %currency% на мултибанцо банкомату или путем Интернет банкарства.",sr_RS
+"novalnet.multibanco-reference-note","Prosimo, uporabite naslednje podatke o plačilu, da plačate znesek %amount% %currency% na Multibanco Am ali prek internetnega bančništva.",sl_SL
+"novalnet.multibanco-reference-note","Ju lutemi përdorni detajet e mëposhtme të referencës së pagesës për të paguar shumën e shumës %amount% %currency% në një ATM multibanco ose përmes bankingut tuaj në internet.",al_AL
+"novalnet.multibanco-reference-note","Моля, използвайте следните подробности за справка за плащане, за да платите сумата на %amount% %currency% в мултибанко банкомат или чрез вашето интернет банкиране.",bg_BG
+"novalnet.multibanco-reference-note","Ju lutemi përdorni detajet e mëposhtme të referencës së pagesës për të paguar shumën e shumës %amount% %currency% në një ATM multibanco ose përmes bankingut tuaj në internet.",al_XK
+"novalnet.multibanco-reference-note","Ве молиме, користете ги следниве детали за референца за плаќање за да платите износ од %amount% %currency% на мултибанко банкомат или преку вашето Интернет банкарство.",mk_MK
+"novalnet.multibanco-reference-comment","Payment reference: %ref%",en_US
+"novalnet.multibanco-reference-comment","Verwendungszweck: %ref%",de_DE
+"novalnet.multibanco-reference-comment","Référence de paiement: %ref%“,fr_FR
+"novalnet.multibanco-reference-comment","Αναφορά πληρωμής: %ref%",rl_GR
+"novalnet.multibanco-reference-comment","Riferimento di pagamento: %ref%",it_IT
+"novalnet.multibanco-reference-comment","Referência de pagamento: %ref%",pt_PT
+"novalnet.multibanco-reference-comment","Referencia de pago: %ref%",es_ES
+"novalnet.multibanco-reference-comment","Betalingsreferanse: %ref%",nn_NO
+"novalnet.multibanco-reference-comment","Betalningsreferens: %ref%",sv_SE
+"novalnet.multibanco-reference-comment","Maksuviite: %ref%",fi_FI
+"novalnet.multibanco-reference-comment","Betalingsreference: %ref%",da_DK
+"novalnet.multibanco-reference-comment","Reference plateb: %ref%",cs_CZ
+"novalnet.multibanco-reference-comment","Odniesienie do płatności: %ref%",pl_PL
+"novalnet.multibanco-reference-comment","Referencia o platbe: %ref%",sk_SK
+"novalnet.multibanco-reference-comment","Referenca plaćanja: %ref%",bs_BA
+"novalnet.multibanco-reference-comment","Referenca plaćanja: %ref%",hr_HR
+"novalnet.multibanco-reference-comment","Референца плаћања: %ref%",sr_ME
+"novalnet.multibanco-reference-comment","Референца плаћања: %ref%",sr_RS
+"novalnet.multibanco-reference-comment","Referenca plačila: %ref%",sl_SL
+"novalnet.multibanco-reference-comment","Referenca e pagesës: %ref%",al_AL
+"novalnet.multibanco-reference-comment","Справка за плащане: %ref%",bg_BG
+"novalnet.multibanco-reference-comment","Referenca e pagesës: %ref%",al_XK
+"novalnet.multibanco-reference-comment","Референца за плаќање: %ref%",mk_MK
+"novalnet.cashpayment-stores-near-you","Store(s) near you:",en_US
+"novalnet.cashpayment-stores-near-you","Barzahlen-Partnerfiliale in Ihrer Nähe:",de_DE
+"novalnet.cashpayment-stores-near-you","Magasin (s) près de chez vous:“,fr_FR
+"novalnet.cashpayment-stores-near-you","Αποθηκεύστε κοντά σας:",rl_GR
+"novalnet.cashpayment-stores-near-you","Negozi vicino a te:",it_IT
+"novalnet.cashpayment-stores-near-you","Loja (s) perto de você:",pt_PT
+"novalnet.cashpayment-stores-near-you","Tienda (s) cerca de usted:",es_ES
+"novalnet.cashpayment-stores-near-you","Butikk (er) i nærheten av deg:",nn_NO
+"novalnet.cashpayment-stores-near-you","Butik (er) nära dig:",sv_SE
+"novalnet.cashpayment-stores-near-you","Myymälät lähelläsi:",fi_FI
+"novalnet.cashpayment-stores-near-you","Butik (er) i nærheden af ​​dig:",da_DK
+"novalnet.cashpayment-stores-near-you","Obchod ve vašem okolí:",cs_CZ
+"novalnet.cashpayment-stores-near-you","Sklep (y) w pobliżu:",pl_PL
+"novalnet.cashpayment-stores-near-you","Obchod (s) vo vašom okolí:",sk_SK
+"novalnet.cashpayment-stores-near-you","Čuvati u vašoj blizini:",bs_BA
+"novalnet.cashpayment-stores-near-you","Trgovine (i) u vašoj blizini:",hr_HR
+"novalnet.cashpayment-stores-near-you","Продавница у вашој близини:",sr_ME
+"novalnet.cashpayment-stores-near-you","Продавница у вашој близини:",sr_RS
+"novalnet.cashpayment-stores-near-you","Trgovine v bližini:",sl_SL
+"novalnet.cashpayment-stores-near-you","Dyqani (et) afër jush:",al_AL
+"novalnet.cashpayment-stores-near-you","Магазин (и) близо до вас:",bg_BG
+"novalnet.cashpayment-stores-near-you","Dyqani (et) afër jush:",al_XK
+"novalnet.cashpayment-stores-near-you","Продавница (и) во близина на вас:",mk_MK
+"novalnet.payment-test-mode-description","The payment will be processed in the test mode therefore amount for this transaction will not be charged",en_US
+"novalnet.payment-test-mode-description","Die Zahlung wird im Testmodus durchgeführt, daher wird der Betrag für diese Transaktion nicht eingezogen.",de_DE
+"novalnet.payment-test-mode-description","Le paiement sera traité dans le mode de test, donc le montant de cette transaction ne sera pas facturé“,fr_FR
+"novalnet.payment-test-mode-description","Η πληρωμή θα υποβληθεί σε επεξεργασία στη λειτουργία δοκιμής, ως εκ τούτου, το ποσό για αυτήν τη συναλλαγή δεν θα χρεωθεί",rl_GR
+"novalnet.payment-test-mode-description","Il pagamento verrà elaborato in modalità test pertanto l'importo per questa transazione non verrà addebitato",it_IT
+"novalnet.payment-test-mode-description","O pagamento será processado no modo de teste, portanto, o valor desta transação não será cobrado",pt_PT
+"novalnet.payment-test-mode-description","El pago se procesará en el modo de prueba, por lo tanto, el monto para esta transacción no se cobrará",es_ES
+"novalnet.payment-test-mode-description","Betalingen vil bli behandlet i testmodus. Derfor blir ikke beløpet for denne transaksjonen belastes",nn_NO
+"novalnet.payment-test-mode-description","Betalningen kommer att behandlas i testläget, därför kommer inte beloppet för denna transaktion att debiteras",sv_SE
+"novalnet.payment-test-mode-description","Maksu käsitellään testitilassa, joten tämän tapahtuman määrää ei veloiteta",fi_FI
+"novalnet.payment-test-mode-description","Betalingen vil blive behandlet i testtilstand, derfor vil denne transaktion ikke blive opkrævet",da_DK
+"novalnet.payment-test-mode-description","Platba bude zpracována v testovacím režimu, proto částka pro tuto transakci nebude účtována",cs_CZ
+"novalnet.payment-test-mode-description","Płatność zostanie przetworzona w trybie testowym, dlatego kwota tej transakcji nie zostanie obciążona",pl_PL
+"novalnet.payment-test-mode-description","Platba sa spracuje v testovacom režime",sk_SK
+"novalnet.payment-test-mode-description","Plaćanje će biti obrađeno u testnom režimu, dakle, iznos za ovu transakciju neće se naplaćivati",bs_BA
+"novalnet.payment-test-mode-description","Plaćanje će se obraditi u načinu ispitivanja, stoga se iznos za ovu transakciju neće naplaćivati",hr_HR
+"novalnet.payment-test-mode-description","Плаћање ће се обрађивати у режиму испитивања, дакле, Стога износ за ову трансакцију неће бити наплаћен",sr_ME
+"novalnet.payment-test-mode-description","Плаћање ће се обрађивати у режиму испитивања, дакле, Стога износ за ову трансакцију неће бити наплаћен",sr_RS
+"novalnet.payment-test-mode-description","Plačilo bo obdelano v preskusnem načinu, zato znesek za to transakcijo ne bo zaračunan",sl_SL
+"novalnet.payment-test-mode-description","Pagesa do të përpunohet në mënyrën e provës, prandaj shuma për këtë transaksion nuk do të ngarkohet",al_AL
+"novalnet.payment-test-mode-description","Плащането ще бъде обработено в тестовия режим Следователно сумата за тази транзакция няма да бъде таксувана",bg_BG
+"novalnet.payment-test-mode-description","Pagesa do të përpunohet në mënyrën e provës, prandaj shuma për këtë transaksion nuk do të ngarkohet",al_XK
+"novalnet.payment-test-mode-description","Плаќањето ќе се обработи во режимот на тестирање, затоа износот за оваа трансакција нема да се наплати",mk_MK
+"novalnet.transaction-mode","Transaction Mode: Test",en_US
+"novalnet.transaction-mode","Transaktion modus: Test",de_DE
+"novalnet.transaction-mode","Mode de transaction: tester“,fr_FR
+"novalnet.transaction-mode","Λειτουργία συναλλαγής: δοκιμή",rl_GR
+"novalnet.transaction-mode","Modalità transazione: test",it_IT
+"novalnet.transaction-mode","Modo de transação: teste",pt_PT
+"novalnet.transaction-mode","Modo de transacción: prueba",es_ES
+"novalnet.transaction-mode","Transaksjonsmodus: Test",nn_NO
+"novalnet.transaction-mode","Transaktionsläge: Test",sv_SE
+"novalnet.transaction-mode","Transaktiotila: Testi",fi_FI
+"novalnet.transaction-mode","Transaktionstilstand: Test",da_DK
+"novalnet.transaction-mode","Režim transakce: Test",cs_CZ
+"novalnet.transaction-mode","Tryb transakcji: test",pl_PL
+"novalnet.transaction-mode","Transakčný režim: Test",sk_SK
+"novalnet.transaction-mode","Način transakcije: test",bs_BA
+"novalnet.transaction-mode","Način transakcije: Test",hr_HR
+"novalnet.transaction-mode","Режим трансакције: тест",sr_ME
+"novalnet.transaction-mode","Режим трансакције: тест",sr_RS
+"novalnet.transaction-mode","Način transakcije: test",sl_SL
+"novalnet.transaction-mode","Mënyra e transaksionit: Testi",al_AL
+"novalnet.transaction-mode","Режим на транзакция: Тест",bg_BG
+"novalnet.transaction-mode","Mënyra e transaksionit: Testi",al_XK
+"novalnet.transaction-mode","Режим на трансакција: тест",mk_MK
+"novalnet.transaction-id","Novalnet Transaction ID: %tid%",en_US
+"novalnet.transaction-id","Novalnet Transaktions-ID: %tid%",de_DE
+"novalnet.transaction-id","ID de transaction Novalnet: %tid%“,fr_FR
+"novalnet.transaction-id","Αναγνωριστικό συναλλαγής Novalnet: %tid%",rl_GR
+"novalnet.transaction-id","ID transazione Novalnet: %tid%",it_IT
+"novalnet.transaction-id","ID da transação Notalnet: %tid%",pt_PT
+"novalnet.transaction-id","ID de transacción de Novalnet: %tid%",es_ES
+"novalnet.transaction-id","Novalnet Transaksjons -ID: %tid%",nn_NO
+"novalnet.transaction-id","Novalnet Transaktions -ID: %tid%",sv_SE
+"novalnet.transaction-id","Novalnet -tapahtuman tunnus: %tid%",fi_FI
+"novalnet.transaction-id","Novalnet -transaktions -id: %tid%",da_DK
+"novalnet.transaction-id","ID transakce Novalnet: %tid%",cs_CZ
+"novalnet.transaction-id","Novalnet Identyfikator transakcji: %tid%",pl_PL
+"novalnet.transaction-id","ID Transakcie Namalnet: %tid%",sk_SK
+"novalnet.transaction-id","Novalnet ID transakcije: %tid%",bs_BA
+"novalnet.transaction-id","ID Novalnet Transakcije: %tid%",hr_HR
+"novalnet.transaction-id","ИД трансакције Новалнет: %tid%",sr_ME
+"novalnet.transaction-id","ИД трансакције Новалнет: %tid%",sr_RS
+"novalnet.transaction-id","ID transakcije Novalnet: %tid%",sl_SL
+"novalnet.transaction-id","ID e transaksionit novalNet: %tid%",al_AL
+"novalnet.transaction-id","ID на транзакция Novalnet: %tid%",bg_BG
+"novalnet.transaction-id","ID e transaksionit novalNet: %tid%",al_XK
+"novalnet.transaction-id","ID на трансакцијата Novalnet: %tid%",mk_MK
+"novalnet.guarantee-sepa-pending-text","Your order is under verification and we will soon update you with the order status. Please note that this may take upto 24 hours.",en_US
+"novalnet.guarantee-sepa-pending-text","Ihre Bestellung wird derzeit überprüft. Wir werden Sie in Kürze über den Bestellstatus informieren. Bitte beachten Sie, dass dies bis zu 24 Stunden dauern kann.",de_DE
+"novalnet.guarantee-sepa-pending-text","Votre commande est en cours de vérification et nous vous mettrons bientôt à jour avec l'état de la commande. Veuillez noter que cela peut prendre jusqu'à 24 heures.“,fr_FR
+"novalnet.guarantee-sepa-pending-text","Η παραγγελία σας βρίσκεται υπό επαλήθευση και σύντομα θα σας ενημερώσουμε με την κατάσταση παραγγελίας. Λάβετε υπόψη ότι αυτό μπορεί να διαρκέσει 24 ώρες.",rl_GR
+"novalnet.guarantee-sepa-pending-text","Il tuo ordine è in verifica e ti aggiorneremo presto con lo stato dell'ordine. Si prega di notare che ciò può richiedere fino a 24 ore.",it_IT
+"novalnet.guarantee-sepa-pending-text","Seu pedido está em verificação e em breve o atualizaremos com o status do pedido. Observe que isso pode levar até 24 horas.",pt_PT
+"novalnet.guarantee-sepa-pending-text","Su pedido está en verificación y pronto lo actualizaremos con el estado del pedido. Tenga en cuenta que esto puede tomar hasta 24 horas.",es_ES
+"novalnet.guarantee-sepa-pending-text","Bestillingen din er under bekreftelse, og vi vil snart oppdatere deg med bestillingsstatusen. Vær oppmerksom på at dette kan ta opptil 24 timer.",nn_NO
+"novalnet.guarantee-sepa-pending-text","Din beställning är under verifiering och vi kommer snart att uppdatera dig med orderstatusen. Observera att detta kan ta upp till 24 timmar.",sv_SE
+"novalnet.guarantee-sepa-pending-text","Tilauksesi on varmennuksen alla ja päivitämme pian tilauksen tilan. Huomaa, että tämä voi kestää jopa 24 tuntia.",fi_FI
+"novalnet.guarantee-sepa-pending-text","Din ordre er under verifikation, og vi opdaterer dig snart med ordrestatus. Bemærk, at dette kan tage op til 24 timer.",da_DK
+"novalnet.guarantee-sepa-pending-text","Vaše objednávka je pod ověřením a brzy vás aktualizujeme se stavem objednávky. Vezměte prosím na vědomí, že to může trvat až 24 hodin.",cs_CZ
+"novalnet.guarantee-sepa-pending-text","Twoje zamówienie jest weryfikacyjne, a wkrótce zaktualizujemy Cię o status zamówienia. Pamiętaj, że może to potrwać do 24 godzin.",pl_PL
+"novalnet.guarantee-sepa-pending-text","Vaša objednávka je v overení a my vás čoskoro aktualizujeme so stavom objednávky. Upozorňujeme, že to môže trvať až 24 hodín.",sk_SK
+"novalnet.guarantee-sepa-pending-text","Vaša narudžba je u verifikaciji i uskoro ćemo vas ažurirati statusom narudžbe. Imajte na umu da ovo može potrajati do 24 sata.",bs_BA
+"novalnet.guarantee-sepa-pending-text","Vaša je narudžba na provjeri i uskoro ćemo vas ažurirati sa statusom narudžbe. Imajte na umu da se ovo može potrajati do 24 sata.",hr_HR
+"novalnet.guarantee-sepa-pending-text","Ваша наруџба је под верификацијом и ускоро ћемо вас ажурирати са статусом наруџбе. Имајте на уму да ово може потрајати у до 24 сата.",sr_ME
+"novalnet.guarantee-sepa-pending-text","Ваша наруџба је под верификацијом и ускоро ћемо вас ажурирати са статусом наруџбе. Имајте на уму да ово може потрајати у до 24 сата.",sr_RS
+"novalnet.guarantee-sepa-pending-text","Vaše naročilo je pod preverjanjem in kmalu vas bomo posodobili s statusom naročila. Upoštevajte, da lahko to traja do 24 ur.",sl_SL
+"novalnet.guarantee-sepa-pending-text","Porosia juaj është nën verifikim dhe ne së shpejti do t'ju azhurnojmë me statusin e porosisë. Ju lutemi vini re se kjo mund të zgjasë 24 orë.",al_AL
+"novalnet.guarantee-sepa-pending-text","Вашата поръчка е под проверка и скоро ще ви актуализираме със състоянието на поръчката. Моля, обърнете внимание, че това може да отнеме до 24 часа.",bg_BG
+"novalnet.guarantee-sepa-pending-text","Porosia juaj është nën verifikim dhe ne së shpejti do t'ju azhurnojmë me statusin e porosisë. Ju lutemi vini re se kjo mund të zgjasë 24 orë.",al_XK
+"novalnet.guarantee-sepa-pending-text","Вашата нарачка е под верификација и наскоро ќе ве ажурираме со статусот на нарачката. Забележете дека ова може да трае до 24 часа.",mk_MK
+"novalnet.guarantee-invoice-pending-text","Your order is being verified. Once confirmed, we will send you our bank details to which the order amount should be transferred. Please note that this may take up to 24 hours",en_US
+"novalnet.guarantee-invoice-pending-text","Ihre Bestellung wird überprüft. Nach der Bestätigung senden wir Ihnen unsere Bankverbindung, an die Sie bitte den Gesamtbetrag der Bestellung überweisen. Bitte beachten Sie, dass dies bis zu 24 Stunden dauern kann",de_DE
+"novalnet.guarantee-invoice-pending-text","Votre commande est en cours de vérification. Une fois confirmé, nous vous enverrons nos coordonnées bancaires auxquelles le montant de la commande doit être transféré. Veuillez noter que cela peut prendre jusqu'à 24 heures“,fr_FR
+"novalnet.guarantee-invoice-pending-text","Η παραγγελία σας επαληθεύεται. Μόλις επιβεβαιωθεί, θα σας στείλουμε τα τραπεζικά μας στοιχεία στα οποία θα πρέπει να μεταφερθεί το ποσό της παραγγελίας. Λάβετε υπόψη ότι αυτό μπορεί να διαρκέσει έως και 24 ώρες",rl_GR
+"novalnet.guarantee-invoice-pending-text","Il tuo ordine viene verificato. Una volta confermato, ti invieremo i nostri dettagli bancari a cui è necessario trasferire l'importo dell'ordine. Si prega di notare che ciò può richiedere fino a 24 ore",it_IT
+"novalnet.guarantee-invoice-pending-text","Seu pedido está sendo verificado. Uma vez confirmado, enviaremos nossos detalhes bancários para os quais o valor do pedido deve ser transferido. Observe que isso pode levar até 24 horas",pt_PT
+"novalnet.guarantee-invoice-pending-text","Su pedido está siendo verificado. Una vez confirmado, le enviaremos nuestros datos bancarios a los que se debe transferir el monto del pedido. Tenga en cuenta que esto puede tomar hasta 24 horas",es_ES
+"novalnet.guarantee-invoice-pending-text","Bestillingen din blir bekreftet. Når den er bekreftet, vil vi sende deg bankdetaljene våre som bestillingsbeløpet skal overføres til. Vær oppmerksom på at dette kan ta opptil 24 timer",nn_NO
+"novalnet.guarantee-invoice-pending-text","Din beställning verifieras. När vi har bekräftat skickar vi våra bankuppgifter till vilket beställningsbeloppet ska överföras. Observera att detta kan ta upp till 24 timmar",sv_SE
+"novalnet.guarantee-invoice-pending-text","Tilauksesi vahvistetaan. Vahvistuksen jälkeen lähetämme sinulle pankkitiedot, joihin tilausmäärä siirretään. Huomaa, että tämä voi kestää jopa 24 tuntia",fi_FI
+"novalnet.guarantee-invoice-pending-text","Din ordre verificeres. Når det er bekræftet, sender vi dig vores bankoplysninger, som ordremængden skal overføres til. Bemærk, at dette kan tage op til 24 timer",da_DK
+"novalnet.guarantee-invoice-pending-text","Vaše objednávka je ověřena. Po potvrzení vám zašleme naše bankovní údaje, na které by měla být částka objednávky převedena. Vezměte prosím na vědomí, že to může trvat až 24 hodin",cs_CZ
+"novalnet.guarantee-invoice-pending-text","Twoje zamówienie jest weryfikowane. Po potwierdzeniu prześlemy Ci nasze dane bankowe, do których kwota zamówienia powinna zostać przeniesiona. Pamiętaj, że może to potrwać do 24 godzin",pl_PL
+"novalnet.guarantee-invoice-pending-text","Vaša objednávka sa overuje. Po potvrdení vám pošleme naše bankové údaje, ku ktorým by sa mala preniesť suma objednávky. Upozorňujeme, že to môže trvať až 24 hodín",sk_SK
+"novalnet.guarantee-invoice-pending-text","Vaša narudžba se provjerava. Jednom potvrđen, poslat ćemo vam naše bankovne podatke na koje bi trebalo prenijeti iznos narudžbe. Imajte na umu da ovo može potrajati do 24 sata",bs_BA
+"novalnet.guarantee-invoice-pending-text","Vaša se narudžba provjerava. Nakon što se potvrdi, poslat ćemo vam detalje naših banaka kojima bi iznos narudžbe trebao biti prenesen. Imajte na umu da ovo može potrajati do 24 sata",hr_HR
+"novalnet.guarantee-invoice-pending-text","Ваша наруџба се верификује. Једном када потврде, послаћемо вам своје банковне податке на који би износ наруџбе требало пренијети. Имајте на уму да ово може потрајати и до 24 сата",sr_ME
+"novalnet.guarantee-invoice-pending-text","Ваша наруџба се верификује. Једном када потврде, послаћемо вам своје банковне податке на који би износ наруџбе требало пренијети. Имајте на уму да ово може потрајати и до 24 сата",sr_RS
+"novalnet.guarantee-invoice-pending-text","Vaše naročilo je preverjeno. Ko bomo potrdili, vam bomo poslali naše bančne podatke, na katere je treba prenesti znesek naročila. Upoštevajte, da lahko to traja do 24 ur",sl_SL
+"novalnet.guarantee-invoice-pending-text","Porosia juaj po verifikohet. Pasi të konfirmohet, ne do t'ju dërgojmë detajet e bankës sonë, në të cilat duhet të transferohet shuma e porosisë. Ju lutemi vini re se kjo mund të zgjasë deri në 24 orë",al_AL
+"novalnet.guarantee-invoice-pending-text","Вашата поръчка се проверява. След като бъде потвърдено, ние ще ви изпратим нашите банкови данни, към които трябва да бъде прехвърлена сумата на поръчката. Моля, обърнете внимание, че това може да отнеме до 24 часа",bg_BG
+"novalnet.guarantee-invoice-pending-text","Porosia juaj po verifikohet. Pasi të konfirmohet, ne do t'ju dërgojmë detajet e bankës sonë, në të cilat duhet të transferohet shuma e porosisë. Ju lutemi vini re se kjo mund të zgjasë deri në 24 orë",al_XK
+"novalnet.guarantee-invoice-pending-text","Вашата нарачка е потврдена. Откако ќе биде потврдено, ќе ви ги испратиме деталите за нашата банка на кои треба да се пренесе износот на нарачката. Забележете дека ова може да трае до 24 часа",mk_MK
+"novalnet.guarantee-payment-dob","Your date of birth",en_US
+"novalnet.guarantee-payment-dob","Ihr Geburtsdatum",de_DE
+"novalnet.guarantee-payment-dob","Votre date de naissance“,fr_FR
+"novalnet.guarantee-payment-dob","Η ημερομηνία γέννησής σου",rl_GR
+"novalnet.guarantee-payment-dob","La tua data di nascita",it_IT
+"novalnet.guarantee-payment-dob","Sua data de nascimento",pt_PT
+"novalnet.guarantee-payment-dob","Tu fecha de nacimiento",es_ES
+"novalnet.guarantee-payment-dob","Din fødselsdato",nn_NO
+"novalnet.guarantee-payment-dob","Ditt födelsedatum",sv_SE
+"novalnet.guarantee-payment-dob","Syntymäaikasi",fi_FI
+"novalnet.guarantee-payment-dob","Din fødselsdag",da_DK
+"novalnet.guarantee-payment-dob","Tvoje datum narození",cs_CZ
+"novalnet.guarantee-payment-dob","Twoja data urodzenia",pl_PL
+"novalnet.guarantee-payment-dob","Tvoj dátum narodenia",sk_SK
+"novalnet.guarantee-payment-dob","Vaš datum rođenja",bs_BA
+"novalnet.guarantee-payment-dob","Tvoj datum rođenja",hr_HR
+"novalnet.guarantee-payment-dob","Ваш датум рођења",sr_ME
+"novalnet.guarantee-payment-dob","Ваш датум рођења",sr_RS
+"novalnet.guarantee-payment-dob","Vaš datum rojstva",sl_SL
+"novalnet.guarantee-payment-dob","Data juaj e lindjes",al_AL
+"novalnet.guarantee-payment-dob","Вашата дата на раждане",bg_BG
+"novalnet.guarantee-payment-dob","Data juaj e lindjes",al_XK
+"novalnet.guarantee-payment-dob","Вашиот датум на раѓање",mk_MK
+"novalnet.guarantee-bithdate-missing","Please enter your date of birth",en_US
+"novalnet.guarantee-bithdate-missing","Geben Sie bitte Ihr Geburtsdatum ein",de_DE
+"novalnet.guarantee-bithdate-missing","Veuillez entrer votre date de naissance“,fr_FR
+"novalnet.guarantee-bithdate-missing","Παρακαλώ εισάγετε την ημερομηνία γεννήσεως σας",rl_GR
+"novalnet.guarantee-bithdate-missing","Inserisci la tua data di nascita",it_IT
+"novalnet.guarantee-bithdate-missing","Por favor insira sua data de nascimento",pt_PT
+"novalnet.guarantee-bithdate-missing","Por favor, introduzca su fecha de nacimiento",es_ES
+"novalnet.guarantee-bithdate-missing","Vennligst skriv din fødselsdato",nn_NO
+"novalnet.guarantee-bithdate-missing","Ange ditt födelsedatum",sv_SE
+"novalnet.guarantee-bithdate-missing","Syötä syntymäaikasi",fi_FI
+"novalnet.guarantee-bithdate-missing","Vær venlig at indtaste din fødselsdato",da_DK
+"novalnet.guarantee-bithdate-missing","Prosím vyplňte vaše datum narození",cs_CZ
+"novalnet.guarantee-bithdate-missing","Proszę wprowadzić datę urodzenia",pl_PL
+"novalnet.guarantee-bithdate-missing","Prosím zadaj tvoj dátum narodenia",sk_SK
+"novalnet.guarantee-bithdate-missing","Unesite svoj datum rođenja",bs_BA
+"novalnet.guarantee-bithdate-missing","Unesite svoj datum rođenja",hr_HR
+"novalnet.guarantee-bithdate-missing","Унесите свој датум рођења",sr_ME
+"novalnet.guarantee-bithdate-missing","Унесите свој датум рођења",sr_RS
+"novalnet.guarantee-bithdate-missing","Vnesite svoj datum rojstva",sl_SL
+"novalnet.guarantee-bithdate-missing","Ju lutemi shkruani datën e lindjes",al_AL
+"novalnet.guarantee-bithdate-missing","Моля, въведете вашата дата на раждане",bg_BG
+"novalnet.guarantee-bithdate-missing","Ju lutemi shkruani datën e lindjes",al_XK
+"novalnet.guarantee-bithdate-missing","Ве молам внесете го Вашиот датум на раѓање",mk_MK
+"novalnet.guarantee-bithdate-invalid","Please enter valid birth date",en_US
+"novalnet.guarantee-bithdate-invalid","Geben Sie ein gültiges Geburtsdatum ein",de_DE
+"novalnet.guarantee-bithdate-invalid","Veuillez saisir la date de naissance valide“,fr_FR
+"novalnet.guarantee-bithdate-invalid","Εισαγάγετε έγκυρη ημερομηνία γέννησης",rl_GR
+"novalnet.guarantee-bithdate-invalid","Inserisci la data di nascita valida",it_IT
+"novalnet.guarantee-bithdate-invalid","Por favor, insira data de nascimento válida",pt_PT
+"novalnet.guarantee-bithdate-invalid","Ingrese la fecha de nacimiento válida",es_ES
+"novalnet.guarantee-bithdate-invalid","Vennligst skriv inn gyldig fødselsdato",nn_NO
+"novalnet.guarantee-bithdate-invalid","Ange giltigt födelsedatum",sv_SE
+"novalnet.guarantee-bithdate-invalid","Anna voimassa oleva syntymäpäivä",fi_FI
+"novalnet.guarantee-bithdate-invalid","Indtast gyldig fødselsdato",da_DK
+"novalnet.guarantee-bithdate-invalid","Zadejte platné datum narození",cs_CZ
+"novalnet.guarantee-bithdate-invalid","Wprowadź ważną datę urodzenia",pl_PL
+"novalnet.guarantee-bithdate-invalid","Zadajte platný dátum narodenia",sk_SK
+"novalnet.guarantee-bithdate-invalid","Molimo unesite važeći datum rođenja",bs_BA
+"novalnet.guarantee-bithdate-invalid","Unesite valjani datum rođenja",hr_HR
+"novalnet.guarantee-bithdate-invalid","Молимо унесите важећи датум рођења",sr_ME
+"novalnet.guarantee-bithdate-invalid","Молимо унесите важећи датум рођења",sr_RS
+"novalnet.guarantee-bithdate-invalid","Vnesite veljaven datum rojstva",sl_SL
+"novalnet.guarantee-bithdate-invalid","Ju lutemi shkruani datën e vlefshme të lindjes",al_AL
+"novalnet.guarantee-bithdate-invalid","Моля, въведете валидна дата на раждане",bg_BG
+"novalnet.guarantee-bithdate-invalid","Ju lutemi shkruani datën e vlefshme të lindjes",al_XK
+"novalnet.guarantee-bithdate-invalid","Внесете важечки датум на раѓање",mk_MK
+"novalnet.guarantee-birth_date","DD.MM.YYYY",en_US
+"novalnet.guarantee-birth_date","TT.MM.JJJJ",de_DE
+"novalnet.guarantee-birth_date","DD.MM.YYYY“,fr_FR
+"novalnet.guarantee-birth_date","DD.MM.YYYY",rl_GR
+"novalnet.guarantee-birth_date","DD.MM.YYYY",it_IT
+"novalnet.guarantee-birth_date","DD.MM.YYYY",pt_PT
+"novalnet.guarantee-birth_date","DD.MM.YYYY",es_ES
+"novalnet.guarantee-birth_date","DD.MM.YYYY",nn_NO
+"novalnet.guarantee-birth_date","DD.MM.YYYY",sv_SE
+"novalnet.guarantee-birth_date","DD.MM.YYYY",fi_FI
+"novalnet.guarantee-birth_date","DD.MM.YYYY",da_DK
+"novalnet.guarantee-birth_date","DD.MM.YYYY",cs_CZ
+"novalnet.guarantee-birth_date","DD.MM.YYYY",pl_PL
+"novalnet.guarantee-birth_date","DD.MM.YYYY",sk_SK
+"novalnet.guarantee-birth_date","DD.MM.YYYY",bs_BA
+"novalnet.guarantee-birth_date","DD.MM.YYYY",hr_HR
+"novalnet.guarantee-birth_date","DD.MM.YYYY",sr_ME
+"novalnet.guarantee-birth_date","DD.MM.YYYY",sr_RS
+"novalnet.guarantee-birth_date","DD.MM.YYYY",sl_SL
+"novalnet.guarantee-birth_date","DD.MM.YYYY",al_AL
+"novalnet.guarantee-birth_date","DD.MM.YYYY",bg_BG
+"novalnet.guarantee-birth_date","DD.MM.YYYY",al_XK
+"novalnet.guarantee-birth_date","DD.MM.YYYY",mk_MK

@@ -1,0 +1,92 @@
+<?xml version="1.0"?>
+<database
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    name="zed"
+    defaultIdMethod="native"
+    xsi:noNamespaceSchemaLocation="http://static.spryker.com/schema-01.xsd"
+    namespace="Orm\Zed\Novalnet\Persistence"
+    package="src.Orm.Zed.Novalnet.Persistence"
+>
+    <table name="spy_payment_novalnet_transaction_log">
+        <column name="id_payment_novalnet_transaction_log" type="INTEGER" primaryKey="true" autoIncrement="true"/>
+        <column name="fk_sales_order" required="true" type="INTEGER"/>
+        <column name="order_reference" required="false" type="VARCHAR"/>
+        <column name="transaction_id" required="false" type="VARCHAR"/>
+        <column name="payment_method" required="false" type="VARCHAR"/>
+        <column name="transaction_type" required="true" type="VARCHAR"/>
+        <column name="status" required="false" type="VARCHAR"/>
+        <column name="transaction_status" required="false" type="VARCHAR"/>
+        <column name="status_message" required="false" type="VARCHAR"/>
+        <column name="raw_request" required="false" type="LONGVARCHAR"/>
+        <column name="raw_response" required="false" type="LONGVARCHAR"/>
+        <column name="payment_response" required="false" type="LONGVARCHAR"/>
+        <column name="additional_data" type="LONGVARCHAR"/>
+
+        <foreign-key name="spy_novalnet_transaction_log-fk_sales_order" foreignTable="spy_sales_order">
+            <reference foreign="id_sales_order" local="fk_sales_order"/>
+        </foreign-key>
+        <behavior name="timestampable"/>
+        <id-method-parameter value="spy_payment_novalnet_transaction_log_pk_seq"/>
+        <index name="spy_payment_novalnet_transaction_log-order_reference">
+            <index-column name="fk_sales_order"/>
+            <index-column name="order_reference"/>
+            <index-column name="transaction_id"/>
+        </index>
+    </table>
+
+    <table name="spy_payment_novalnet_callback">
+        <column name="id_payment_novalnet_callback" type="INTEGER" primaryKey="true" autoIncrement="true"/>
+        <column name="fk_sales_order" required="true" type="INTEGER"/>
+        <column name="order_reference" required="true" type="VARCHAR"/>
+        <column name="callback_amount" required="false" type="INTEGER"/>
+        <column name="reference_tid" required="false" type="VARCHAR"/>
+        <column name="transaction_id" required="false" type="VARCHAR"/>
+        <column name="callback_log" required="false" type="LONGVARCHAR"/>
+
+        <behavior name="timestampable"/>
+        <id-method-parameter value="spy_payment_novalnet_callback_pk_seq"/>
+        <index name="spy_payment_novalnet_callback-order_reference">
+            <index-column name="order_reference"/>
+        </index>
+    </table>
+
+    <table name="spy_payment_novalnet_detail">
+        <column name="id_payment_novalnet_detail" type="INTEGER" primaryKey="true" autoIncrement="true"/>
+        <column name="fk_sales_order" required="true" type="INTEGER"/>
+        <column name="order_reference" required="false" type="VARCHAR"/>
+        <column name="payment_method" required="false" type="VARCHAR"/>
+        <column name="payment_details" required="false" type="LONGVARCHAR"/>
+        <column name="transaction_id" required="false" type="VARCHAR"/>
+        <column name="customer_id" required="false" type="VARCHAR"/>
+
+        <foreign-key name="spy_novalnet_detail-fk_sales_order" foreignTable="spy_sales_order">
+            <reference foreign="id_sales_order" local="fk_sales_order"/>
+        </foreign-key>
+
+        <behavior name="timestampable"/>
+        <id-method-parameter value="spy_payment_novalnet_detail_pk_seq"/>
+        <index name="spy_payment_novalnet_detail-order_reference">
+            <index-column name="fk_sales_order"/>
+            <index-column name="order_reference"/>
+        </index>
+    </table>
+
+    <table name="spy_payment_novalnet_marketplace">
+        <column name="id_payment_novalnet_marketplace" type="INTEGER" primaryKey="true" autoIncrement="true"/>
+        <column name="nn_merchant_id" required="true" type="VARCHAR"/>
+        <column name="nn_merchant_active_status" required="false" type="VARCHAR"/>
+        <column name="spy_merchant_id" required="true" type="INTEGER"/>
+        <column name="spy_merchant_ref" required="false" type="VARCHAR"/>
+        <column name="additional_data" required="false" type="LONGVARCHAR"/>
+
+        <behavior name="timestampable"/>
+        <id-method-parameter value="spy_payment_novalnet_marketplace_pk_seq"/>
+        <index name="spy_payment_novalnet_marketplace-order_reference">
+            <index-column name="nn_merchant_id"/>
+            <index-column name="spy_merchant_id"/>
+            <index-column name="spy_merchant_ref"/>
+            <index-column name="nn_merchant_active_status"/>
+        </index>
+    </table>
+
+</database>

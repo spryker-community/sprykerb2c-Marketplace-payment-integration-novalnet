@@ -1,0 +1,145 @@
+<?xml version="1.0"?>
+<transfers xmlns="spryker:transfer-01"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:schemaLocation="spryker:transfer-01 http://static.spryker.com/transfer-01.xsd">
+
+    <transfer name="Novalnet">
+        <property name="fkSalesOrder" type="int" />
+        <property name="paymentMode" type="int" />
+        <property name="transactionStatus" type="int" />
+        <property name="transactionId" type="int" />
+        <property name="transactionComments" type="string" />
+        <property name="callbackComments" type="string" />
+        <property name="invoiceComments" type="string" />
+        <property name="guaranteePendingComments" type="string" />
+        <property name="iban" type="string"/>
+        <property name="bic" type="string"/>
+        <property name="dob" type="string"/>
+        <property name="panHash" type="string"/>
+        <property name="uniqueId" type="string"/>
+        <property name="doRedirect" type="int"/>
+        <property name="firstName" type="string"/>
+        <property name="lastName" type="string"/>
+        <property name="company" type="string"/>
+        <property name="email" type="string"/>
+        <property name="street" type="string"/>
+        <property name="houseNo" type="string"/>
+        <property name="city" type="string"/>
+        <property name="zip" type="string"/>
+        <property name="countryCode" type="string"/>
+        <property name="amount" type="string"/>
+        <property name="currency" type="string"/>
+        <property name="testMode" type="string"/>
+        <property name="lang" type="string"/>
+        <property name="formClientKey" type="string"/>
+        <property name="formInline" type="int"/>
+        <property name="formStyleContainer" type="string"/>
+        <property name="formStyleInput" type="string"/>
+        <property name="formStyleLabel" type="string"/>
+    </transfer>
+
+    <transfer name="Order">
+        <property name="idSalesOrder" type="int" />
+        <property name="Novalnet" type="Novalnet"/>
+    </transfer>
+
+    <transfer name="Merchant">
+        <property name="novalnetMarketplace" type="NovalnetMarketplace"/>
+    </transfer>
+
+    <transfer name="NovalnetMarketplace">
+        <property name="nnMerchantId" type="int" />
+        <property name="nnMerchantActiveStatus" type="string" />
+    </transfer>
+
+    <transfer name="NovalnetStandardParameter">
+        <property name="signature" type="string" />
+        <property name="tariffId" type="string" />
+        <property name="accessKey" type="string" />
+        <property name="testMode" type="string" />
+        <property name="currency" type="string" />
+        <property name="language" type="string" />
+        <property name="returnUrl" type="string" />
+        <property name="errorReturnUrl" type="string" />
+        <property name="PrepaymentDueDate" type="string" />
+        <property name="InvoiceDueDate" type="string" />
+        <property name="sepaDueDate" type="string" />
+        <property name="cpDueDate" type="string" />
+        <property name="creditCardOnHoldLimit" type="string" />
+        <property name="sepaOnHoldLimit" type="string" />
+        <property name="invoiceOnHoldLimit" type="string" />
+        <property name="paypalOnHoldLimit" type="string" />
+        <property name="sepaGuaranteeDueDate" type="string" />
+        <property name="invoiceGuaranteeMinAmtLimit" type="string" />
+        <property name="invoiceGuaranteeOnHoldLimit" type="string" />
+        <property name="sepaGuaranteeMinAmtLimit" type="string" />
+        <property name="sepaGuaranteeOnHoldLimit" type="string" />
+    </transfer>
+
+    <transfer name="NovalnetRefund">
+        <property name="amount" type="int" />
+        <property name="order" type="Order" />
+        <property name="merchantReference" type="array" />
+    </transfer>
+
+    <transfer name="NovalnetCapture">
+        <property name="order" type="Order" />
+        <property name="merchantReference" type="array" />
+    </transfer>
+
+    <transfer name="NovalnetCancel">
+        <property name="order" type="Order" />
+        <property name="merchantReference" type="array" />
+    </transfer>
+
+    <transfer name="NovalnetRedirectResponse">
+        <property name="orderNo" type="string" />
+        <property name="paymentMethod" type="string" />
+        <property name="paymentResponse" type="string" />
+        <property name="statusMessage" type="string" />
+        <property name="isSuccess" type="bool" />
+    </transfer>
+
+    <transfer name="NovalnetCallbackResponse">
+        <property name="orderNo" type="string" />
+        <property name="paymentType" type="string" />
+        <property name="clientIp" type="string" />
+        <property name="orderStatus" type="string" />
+        <property name="callbackResponse" type="string" />
+        <property name="statusMessage" type="string" />
+        <property name="isSuccess" type="bool" />
+    </transfer>
+
+    <transfer name="NovalnetCallbackScriptParameter">
+        <property name="debugMode" type="bool" />
+        <property name="callbackMailToAddress" type="string" />
+    </transfer>
+
+    <transfer name="Payment">
+        <property name="novalnetCreditCard" type="Novalnet"/>
+        <property name="novalnetSepa" type="Novalnet"/>
+        <property name="novalnetSepaGuarantee" type="Novalnet"/>
+        <property name="novalnetInvoice" type="Novalnet"/>
+        <property name="novalnetInvoiceGuarantee" type="Novalnet"/>
+        <property name="novalnetPrepayment" type="Novalnet"/>
+        <property name="novalnetIdeal" type="Novalnet"/>
+        <property name="novalnetSofort" type="Novalnet"/>
+        <property name="novalnetGiropay" type="Novalnet"/>
+        <property name="novalnetBarzahlen" type="Novalnet"/>
+        <property name="novalnetPrzelewy" type="Novalnet"/>
+        <property name="novalnetEps" type="Novalnet"/>
+        <property name="novalnetPaypal" type="Novalnet"/>
+        <property name="novalnetPostfinanceCard" type="Novalnet"/>
+        <property name="novalnetPostfinance" type="Novalnet"/>
+        <property name="novalnetBancontact" type="Novalnet"/>
+        <property name="novalnetMultibanco" type="Novalnet"/>
+        <property name="novalnetOnlineBanktransfer" type="Novalnet"/>
+        <property name="novalnetTrustly" type="Novalnet"/>
+        <property name="novalnetAlipay" type="Novalnet"/>
+        <property name="novalnetWechatpay" type="Novalnet"/>
+        <property name="paymentSelection" type="string"/>
+        <property name="paymentProvider" type="string"/>
+        <property name="paymentMethod" type="string"/>
+    </transfer>
+
+</transfers>

@@ -1,0 +1,14 @@
+{% extends model('template') %}
+
+{% define data = {
+    form: form,
+} %}
+
+{% block body %}
+    {% include molecule('nn-sepa', 'NovalnetPayment') with {
+        data: {
+            form: data.form,
+        },
+    } only %}
+{% endblock %}
+

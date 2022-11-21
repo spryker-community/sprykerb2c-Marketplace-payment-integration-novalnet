@@ -1,0 +1,20 @@
+{% extends model('component') %}
+
+{% define config = {
+    name: 'invoice-guarantee',
+    tag: 'invoice-guarantee'
+} %}
+
+{% block body %}
+    <script src="https://cdn.novalnet.de/js/v2/NovalnetUtility.js"></script>
+
+    <div class="payment-method">
+        <p>{{ 'novalnet.invoice-payments-description' | trans }}</p>
+        <div>
+            <label>{{ 'novalnet.guarantee-payment-dob' | trans }}</label>
+            {{ form_widget(data.form.novalnetInvoiceGuarantee.dob, { 'attr': { 'placeholder': 'novalnet.guarantee-birth_date' | trans } }) }}
+        </div>
+        <input type="hidden" id="birthdate_missing" value="{{ 'novalnet.guarantee-bithdate-missing' | trans }}">
+        <input type="hidden" id="birthdate_invalid" value="{{ 'novalnet.guarantee-bithdate-invalid' | trans }}">
+    </div>
+{% endblock %}

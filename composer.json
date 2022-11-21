@@ -1,0 +1,49 @@
+{
+  "name": "novalnet/sprykerb2c-marketplace",  
+  "description": "Novalnet module",
+  "license": "MIT",  
+  "require": {
+	"php": ">=7.2",    
+    "spryker-shop/checkout-page": "^1.0.0 || ^2.0.0 || ^3.0.0",        
+    "spryker/kernel": "^3.30.0",
+    "spryker/oms": "^7.0.0 || ^8.0.0 || ^10.0.0 || ^11.0.0",
+    "spryker/propel-orm": "^1.0.0",
+    "spryker/quote": "^2.0.0",
+    "spryker/sales": "^5.0.0 || ^6.0.0 || ^7.0.0 || ^8.0.0 || ^10.0.0 || ^11.0.0",
+    "spryker/refund": "^5.0.0",
+    "spryker/step-engine": "^3.0.0",
+    "spryker/symfony": "^3.0.0",    
+    "spryker/zed-request": "^3.0.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Novalnet\\": "src/Novalnet/"
+    }
+  },
+  "require-dev": {
+    "spryker/checkout": "*",
+    "spryker/payment": "*",
+    "spryker/propel": "*",
+    "spryker/router": "*",
+    "spryker-shop/shop-application": "*",
+    "spryker/silex": "*"
+  },
+  "suggest": {
+    "spryker/checkout": "CheckoutPostSaveHookInterface is used.",
+    "spryker/payment": "If you want to use payment method filtering.",
+    "spryker-shop/shop-application": "Abstract Yves controller provider is used.",
+    "spryker/silex": "Silex application is used."
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "config": {
+    "preferred-install": "dist",
+    "sort-packages": true,
+    "process-timeout": 600
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "1.0.x-dev"
+    }
+  }
+}
