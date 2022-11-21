@@ -2,23 +2,20 @@
 
 = 1.1.0  - 2022.11.21 =
 
-* New  - Implemented Online bank transfer, Trustly, WeChat and Alipay payments
+* New       - Implemented Online bank transfer, Trustly, WeChat and Alipay payments
 * Enhanced  - Affiliate creation handled through Novalnet API
 
 = 1.0.2  - 2022.10.20 =
 
-* Fix  - Compatibility for Spryker 202204.0
-* Fix  - Adjusted payment module for tx_split process
+* Fix      - Compatibility for Spryker 202204.0
+* Fix      - Adjusted payment module for tx_split process
 * Enhanced - Invoice payment name is updated for German translation
 
 = 1.0.1  - 2022.08.16 =
 
-* Fix      - Credit Card payment method state machine for handling 3D-Secure
+* Fix    - Credit Card payment method state machine for handling 3D-Secure
 process
 * Enhanced - Marketplace configuration for the payment module
 
 = 1.0.0  - 2022.03.01 =
-*          - Payment module with marketplace implementation with dynamic revenue sharing and composer installation to adapt to version 2 API structure.
-
-
-
+* New release - Payment module with marketplace implementation with dynamic revenue sharing and composer installation to adapt to version 2 API structure.
