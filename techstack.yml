@@ -1,11 +1,11 @@
 repo_name: spryker-community/sprykerb2c-Marketplace-payment-integration-novalnet
-report_id: 2dc2026fd10f0624b19e0f50da4a3862
+report_id: f855ee40ad8aef2855139e8aa1e6875d
 repo_type: Public
-timestamp: '2023-11-09T17:23:27+00:00'
-requested_by: Novalnet-Technic
+timestamp: '2023-12-14T09:51:43+00:00'
+requested_by: gxjansen
 provider: github
 branch: master
-detected_tools_count: 3
+detected_tools_count: 11
 tools:
 - name: PHP
   description: A popular general-purpose scripting language that is especially suited
@@ -27,6 +27,17 @@ tools:
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
   detection_source: Repo Metadata
+- name: pgvector
+  description: Open-source vector similarity search for Postgres
+  website_url: https://github.com/pgvector/pgvector/
+  open_source: false
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Database Tools
+  image_url: https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png
+  detection_source: changelog.txt
+  last_updated_by: Novalnet-Technic
+  last_updated_on: 2022-11-21 12:52:32.000000000 Z
 - name: Git
   description: Fast, scalable, distributed revision control system
   website_url: http://git-scm.com/
@@ -36,3 +47,88 @@ tools:
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
   detection_source: Repo Metadata
+- name: LangChain
+  description: Build AI apps with LLMs through composability
+  website_url: https://github.com/hwchase17/langchain
+  open_source: true
+  hosted_saas: false
+  category: Communications
+  sub_category: Large Language Model Tools
+  image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source: changelog.txt
+  last_updated_by: Novalnet-Technic
+  last_updated_on: 2022-11-21 12:52:32.000000000 Z
+- name: spryker/kernel
+  description: Kernel module
+  package_url: https://packagist.org/spryker/kernel
+  version: 3.30.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/spryker-community/sprykerb2c-Marketplace-payment-integration-novalnet/blob/master/composer.json
+  detection_source: composer.json
+  last_updated_by: Novalnet-Technic
+  last_updated_on: 2022-11-21 12:52:32.000000000 Z
+- name: spryker/propel
+  description: Propel module
+  package_url: https://packagist.org/spryker/propel
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source: composer.json
+  last_updated_by: Novalnet-Technic
+  last_updated_on: 2022-11-21 12:52:32.000000000 Z
+- name: spryker/propel-orm
+  description: PropelOrm module
+  package_url: https://packagist.org/spryker/propel-orm
+  version: 1.0.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/spryker-community/sprykerb2c-Marketplace-payment-integration-novalnet/blob/master/composer.json
+  detection_source: composer.json
+  last_updated_by: Novalnet-Technic
+  last_updated_on: 2022-11-21 12:52:32.000000000 Z
+- name: spryker/silex
+  description: Silex module
+  package_url: https://packagist.org/spryker/silex
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source: composer.json
+  last_updated_by: Novalnet-Technic
+  last_updated_on: 2022-11-21 12:52:32.000000000 Z
+- name: spryker/symfony
+  description: Symfony module
+  package_url: https://packagist.org/spryker/symfony
+  version: 3.0.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/spryker-community/sprykerb2c-Marketplace-payment-integration-novalnet/blob/master/composer.json
+  detection_source: composer.json
+  last_updated_by: Novalnet-Technic
+  last_updated_on: 2022-11-21 12:52:32.000000000 Z
+- name: spryker/zed-request
+  description: ZedRequest module
+  package_url: https://packagist.org/spryker/zed-request
+  version: 3.0.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/spryker-community/sprykerb2c-Marketplace-payment-integration-novalnet/blob/master/composer.json
+  detection_source: composer.json
+  last_updated_by: Novalnet-Technic
+  last_updated_on: 2022-11-21 12:52:32.000000000 Z
