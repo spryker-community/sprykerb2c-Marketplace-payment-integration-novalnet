@@ -67,14 +67,16 @@ To get the complete installation guide, contact <a href="mailto:sales@novalnet.d
 See our License Agreement at: https://www.novalnet.com/payment-plugins/free/license
 
 ## Documentation & Support
-For more information about the Magento 2 Payment Integration by Novalnet, please get in touch with us: <a href="mailto:sales@novalnet.de"> sales@novalnet.de </a> or +49 89 9230683-20<br>
+For more information about the SprykerB2C Payment Integration by Novalnet, please get in touch with us: <a href="mailto:sales@novalnet.de"> sales@novalnet.de </a> or +49 89 9230683-20<br>
 
 Novalnet AG<br>
 Zahlungsinstitut (ZAG)<br>
-Feringastr. 4<br>
-85774 Unterföhring<br>
+Gutenbergstraße 7<br>
+D-85748 Garching<br>
 Deutschland<br>
-Website: www.novalnet.de 
+E-mail: sales@novalnet.de<br>
+Tel: +49 89 9230683-20<br>
+Web: www.novalnet.de
 
 ## Who is Novalnet AG?
 <p>Novalnet AG is a <a href="https://www.novalnet.de/zahlungsinstitut"> leading financial service institution </a> offering payment gateways for processing online payments. Operating in the market as a full payment service provider Novalnet AG provides online merchants user-friendly payment integration with all major shop systems and self-programmed sites.</p> 
