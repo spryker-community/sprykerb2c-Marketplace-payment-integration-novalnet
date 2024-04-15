@@ -67,7 +67,7 @@ To get the complete installation guide, contact <a href="mailto:sales@novalnet.d
 See our License Agreement at: https://www.novalnet.com/payment-plugins/free/license
 
 ## Documentation & Support
-For more information about the SprykerB2C Payment Integration by Novalnet, please get in touch with us: <a href="mailto:sales@novalnet.de"> sales@novalnet.de </a> or +49 89 9230683-20<br>
+For more information about the SprykerB2C Marketplace Payment Integration by Novalnet, please get in touch with us: <a href="mailto:sales@novalnet.de"> sales@novalnet.de </a> or +49 89 9230683-20<br>
 
 Novalnet AG<br>
 Zahlungsinstitut (ZAG)<br>
